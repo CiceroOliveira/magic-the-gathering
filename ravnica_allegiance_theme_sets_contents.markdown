@@ -417,14 +417,14 @@ c206
 
 c130
 
-prerelease_pack_azorius: img/prerelease_pack_azorius.jpeg
+[prerelease_pack_azorius]: img/prerelease_pack_azorius.jpeg
 
-theme_booster_azorius: img/theme_booster_azorius.jpeg
+[theme_booster_azorius]: img/theme_booster_azorius.jpeg
 
-theme_booster_gruul: img/theme_booster_gruul.jpeg
+[theme_booster_gruul]: img/theme_booster_gruul.jpeg
 
-theme_booster_orzhov: img/theme_booster_orzhov.jpeg
+[theme_booster_orzhov]: img/theme_booster_orzhov.jpeg
 
-theme_booster_rakdos: img/theme_booster_rakdos.jpeg
+[theme_booster_rakdos]: img/theme_booster_rakdos.jpeg
 
-theme_booster_simic: img/theme_booster_simic.jpeg
+[theme_booster_simic]: img/theme_booster_simic.jpeg
