@@ -1,4 +1,5 @@
 gem 'redcarpet'
+
 require "redcarpet"
 
 data = File.read("ravnica_allegiance_theme_sets_contents.markdown")
