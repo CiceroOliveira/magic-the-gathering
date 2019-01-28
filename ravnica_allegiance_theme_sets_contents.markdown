@@ -8,6 +8,8 @@ Ravnica Allegiance
 
 #### Azorius
 
+![Azorius Prerelease Pack Box Picture][prerelease_pack_azorius]
+
 ![Azorius Prerelease Pack Box Picture](prerelease_pack_azorius “Prerelease Pack - Azorius”)
 
 c186
@@ -417,7 +419,7 @@ c206
 
 c130
 
-[prerelease_pack_azorius]: img/prerelease_pack_azorius.jpeg
+[prerelease_pack_azorius]: img/prerelease_pack_azorius.jpeg “Prerelease Pack - Azorius”
 
 [theme_booster_azorius]: img/theme_booster_azorius.jpeg
 
