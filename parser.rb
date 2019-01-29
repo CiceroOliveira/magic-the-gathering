@@ -1,8 +1,58 @@
 gem 'redcarpet'
+gem 'sqlite3'
 
-require "redcarpet"
+require 'redcarpet'
+require 'sqlite3'
+require 'tempfile'
 
-data = File.read("ravnica_allegiance_theme_sets_contents.markdown")
+@tempfile = Tempfile.new("page_with_cards")
+
+begin
+
+  db = SQLite3::Database.open "mtg_database.db"
+  db.results_as_hash = true
+
+  File.open("ravnica_allegiance_theme_sets_contents.markdown") do |input_file|
+    @lines = input_file.readlines
+  end
+
+  @lines.each do |line|
+    if line.start_with? "cards:"
+      line.chop!
+      cardNumbers = line["cards:".length..-1].lstrip.split(", ")
+
+      cardNumbers.each_with_index do |cardNumber, index|
+        card = db.execute "SELECT CardSet, CardNumber, Name, Artist, Color, Rarity FROM Cards WHERE CardSet = ? AND CardNumber = ?", ["Ravnica Allegiance", cardNumber]
+
+
+        if card.count == 0
+          puts "===> #{cardNumber}"
+          puts "Not Found"
+        else
+          card.each do |row|
+            @tempfile.puts "#{index}. #{row["Name"]}"
+          end
+        end
+
+      end
+
+    else
+      @tempfile.puts line
+    end
+  end
+
+@tempfile.close
+
+rescue SQLite3::Exception => e
+
+  puts "Exception occurred"
+  puts e
+
+ensure
+  db.close if db
+end
+
+data = File.read(@tempfile)
 
 html = Redcarpet::Markdown.new(Redcarpet::Render::HTML.new).render(data)
 
