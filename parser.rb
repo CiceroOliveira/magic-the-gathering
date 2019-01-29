@@ -21,7 +21,7 @@ begin
       line.chop!
       cardNumbers = line["cards:".length..-1].lstrip.split(", ")
 
-      cardNumbers.each_with_index do |cardNumber, index|
+      cardNumbers.each.with_index(1) do |cardNumber, index|
         card = db.execute "SELECT CardSet, CardNumber, Name, Artist, Color, Rarity FROM Cards WHERE CardSet = ? AND CardNumber = ?", ["Ravnica Allegiance", cardNumber]
 
 
