@@ -54,6 +54,13 @@ end
 
 data = File.read(@tempfile)
 
+File.open("ravnica_allegiance_theme_sets_contents_final.markdown", "w") do |file|
+  tempfile = File.new(@tempfile)
+  tempfile.each do |markdown_line|
+    file.puts markdown_line
+  end
+end
+
 html = Redcarpet::Markdown.new(Redcarpet::Render::HTML.new).render(data)
 
 File.write "ravnica_allegiance_theme_sets_contents.html", html
