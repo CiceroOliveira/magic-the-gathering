@@ -17,12 +17,19 @@ begin
   end
 
   @lines.each do |line|
-    if line.start_with? "cards:"
+    if line.start_with?("cards:") || line.start_with?("treasure:")
       line.chop!
-      cardNumbers = line["cards:".length..-1].lstrip.split(", ")
+
+      if line.start_with? "cards:"
+        cardNumbers = line["cards:".length..-1].lstrip.split(", ")
+        card_set = 'Ravnica Allegiance'
+      else
+        cardNumbers = line["treasure:".length..-1].lstrip.split(", ")
+        card_set = 'Ravnica Allegiance Treasure'
+      end
 
       cardNumbers.each.with_index(1) do |cardNumber, index|
-        card = db.execute "SELECT CardSet, CardNumber, Name, Artist, Color, Rarity FROM Cards WHERE CardSet = ? AND CardNumber = ?", ["Ravnica Allegiance", cardNumber]
+        card = db.execute "SELECT CardSet, CardNumber, Name, Artist, Color, Rarity FROM Cards WHERE CardSet = ? AND CardNumber = ?", [card_set, cardNumber]
 
 
         if card.count == 0
@@ -30,7 +37,7 @@ begin
           puts "Not Found"
         else
           card.each do |row|
-            @tempfile.puts "#{index}. #{row["Name"]}"
+            @tempfile.puts "#{index}. #{row["Name"]} (#{row["CardNumber"]})"
           end
         end
 
