@@ -1,0 +1,284 @@
+﻿CardNumber,Name,Artist,Color,Rarity,Set
+1,Blade Instructor,Zoltan Boros,White,C,Guilds of Ravnica
+2,Bounty Agent,Randy Vargas,White,R,Guilds of Ravnica
+3,Candlelight Vigil,Alexander Forssberg,White,C,Guilds of Ravnica
+4,Citywide Bust,Victor Adame Minguez,White,R,Guilds of Ravnica
+5,Collar the Culprit,Victor Adame Minguez,White,C,Guilds of Ravnica
+6,Conclave Tribunal,Seb McKinnon,White,U,Guilds of Ravnica
+7,Crush Contraband,Jason A. Engle,White,U,Guilds of Ravnica
+8,Dawn of Hope,Sung Choi,White,R,Guilds of Ravnica
+9,Demotion,Joe Slucher,White,U,Guilds of Ravnica
+10,Divine Visitation,Victor Adame Minguez,White,M,Guilds of Ravnica
+11,Flight of Equenauts,Zezhou Chen,White,U,Guilds of Ravnica
+12,Gird for Battle,Jakub Kasper,White,U,Guilds of Ravnica
+13,Haazda Marshal,Josh Hass,White,U,Guilds of Ravnica
+14,Healer's Hawk,Milivoj Ćeran,White,C,Guilds of Ravnica
+15,Hunted Witness,David Palumbo,White,C,Guilds of Ravnica
+16,Inspiring Unicorn,Even Amundsen,White,U,Guilds of Ravnica
+17,Intrusive Packbeast,Jason Felix,White,C,Guilds of Ravnica
+18,Ledev Guardian,Kimonas Theodossiou,White,C,Guilds of Ravnica
+19,Light of the Legion,Alex Konstad,White,R,Guilds of Ravnica
+20,Loxodon Restorer,Svetlin Velinov,White,C,Guilds of Ravnica
+21,Luminous Bonds,Mark Behm,White,C,Guilds of Ravnica
+22,Parhelion Patrol,Even Amundsen,White,C,Guilds of Ravnica
+23,Righteous Blow,Izzy,White,C,Guilds of Ravnica
+24,Roc Charger,Titus Lunter,White,U,Guilds of Ravnica
+25,Skyline Scout,Paul Scott Canavan,White,C,Guilds of Ravnica
+26,Sunhome Stalwart,Matt Stewart,White,U,Guilds of Ravnica
+27,Sworn Companions,Jason Rainville,White,C,Guilds of Ravnica
+28,Take Heart,Lucas Graciano,White,C,Guilds of Ravnica
+29,Tenth District Guard,Craig J Spearing,White,C,Guilds of Ravnica
+30,Venerated Loxodon,Zack Stella,White,R,Guilds of Ravnica
+31,Capture Sphere,Mark Behm,Blue,C,Guilds of Ravnica
+32,Chemister's Insight,Josh Hass,Blue,U,Guilds of Ravnica
+33,Citywatch Sphinx,Magali Villeneuve,Blue,U,Guilds of Ravnica
+34,Dazzling Lights,Robbie Trevino,Blue,C,Guilds of Ravnica
+35,Devious Cover-Up,Micah Epstein,Blue,C,Guilds of Ravnica
+36,Dimir Informant,Lucas Graciano,Blue,C,Guilds of Ravnica
+37,Disdainful Stroke,Deruchenko Alexander,Blue,C,Guilds of Ravnica
+38,Dream Eater,Daarken,Blue,M,Guilds of Ravnica
+39,Drowned Secrets,Alexander Forssberg,Blue,R,Guilds of Ravnica
+40,Enhanced Surveillance,Grzegorz Rutkowski,Blue,U,Guilds of Ravnica
+41,Guild Summit,Sidharth Chaturvedi,Blue,U,Guilds of Ravnica
+42,Leapfrog,Aaron Miller,Blue,C,Guilds of Ravnica
+43,Maximize Altitude,Mike Bierek,Blue,C,Guilds of Ravnica
+44,Mission Briefing,Matt Stewart,Blue,R,Guilds of Ravnica
+45,Murmuring Mystic,Mark Winters,Blue,U,Guilds of Ravnica
+46,Muse Drake,Titus Lunter,Blue,C,Guilds of Ravnica
+47,Narcomoeba,Howard Lyon,Blue,R,Guilds of Ravnica
+48,Nightveil Sprite,Uriah Voth,Blue,U,Guilds of Ravnica
+49,Omnispell Adept,Jason Rainville,Blue,R,Guilds of Ravnica
+50,Passwall Adept,John Thacker,Blue,C,Guilds of Ravnica
+51,Quasiduplicate,Dmitry Burmak,Blue,R,Guilds of Ravnica
+52,Radical Idea,Izzy,Blue,C,Guilds of Ravnica
+53,Selective Snare,Alex Konstad,Blue,U,Guilds of Ravnica
+54,Sinister Sabotage,Mathias Kollros,Blue,U,Guilds of Ravnica
+55,Thoughtbound Phantasm,Johann Bodin,Blue,U,Guilds of Ravnica
+56,Unexplained Disappearance,Izzy,Blue,C,Guilds of Ravnica
+57,Vedalken Mesmerist,Zezhou Chen,Blue,C,Guilds of Ravnica
+58,Wall of Mist,Tianhua X,Blue,C,Guilds of Ravnica
+59,Watcher in the Mist,Ryan Yee,Blue,C,Guilds of Ravnica
+60,Wishcoin Crab,James Paick,Blue,C,Guilds of Ravnica
+61,Barrier of Bones,Vincent Proce,Black,C,Guilds of Ravnica
+62,Bartizan Bats,Nils Hamm,Black,C,Guilds of Ravnica
+63,Blood Operative,Livia Prima,Black,R,Guilds of Ravnica
+64,Burglar Rat,Tyler Walpole,Black,C,Guilds of Ravnica
+65,Child of Night,Igor Kieryluk,Black,C,Guilds of Ravnica
+66,Creeping Chill,Wisnu Tan,Black,U,Guilds of Ravnica
+67,Dead Weight,Lake Hurwitz,Black,C,Guilds of Ravnica
+68,Deadly Visit,Scott Murphy,Black,C,Guilds of Ravnica
+69,Doom Whisperer,Vincent Proce,Black,M,Guilds of Ravnica
+70,Douser of Lights,Darek Zabrocki,Black,C,Guilds of Ravnica
+71,Gruesome Menagerie,Yeong-Hao Han,Black,R,Guilds of Ravnica
+72,Hired Poisoner,Joe Slucher,Black,C,Guilds of Ravnica
+73,Kraul Swarm,Jehan Choo,Black,U,Guilds of Ravnica
+74,Lotleth Giant,Alex Konstad,Black,U,Guilds of Ravnica
+75,Mausoleum Secrets,Adam Paquette,Black,R,Guilds of Ravnica
+76,Mephitic Vapors,Darek Zabrocki,Black,C,Guilds of Ravnica
+77,Midnight Reaper,Sidharth Chaturvedi,Black,R,Guilds of Ravnica
+78,Moodmark Painter,Scott Murphy,Black,C,Guilds of Ravnica
+79,Necrotic Wound,Randy Vargas,Black,U,Guilds of Ravnica
+80,Never Happened,Aaron Miller,Black,C,Guilds of Ravnica
+81,Pilfering Imp,Igor Kieryluk,Black,U,Guilds of Ravnica
+82,Plaguecrafter,Anna Steinbauer,Black,U,Guilds of Ravnica
+83,Price of Fame,Winona Nelson,Black,U,Guilds of Ravnica
+84,Ritual of Soot,Dimitar Marinski,Black,R,Guilds of Ravnica
+85,Severed Strands,Zack Stella,Black,C,Guilds of Ravnica
+86,Spinal Centipede,Zezhou Chen,Black,C,Guilds of Ravnica
+87,Undercity Necrolisk,Tomasz Jedruszek,Black,U,Guilds of Ravnica
+88,Veiled Shade,Anna Steinbauer,Black,C,Guilds of Ravnica
+89,Vicious Rumors,David Palumbo,Black,C,Guilds of Ravnica
+90,Whispering Snitch,Jason Rainville,Black,U,Guilds of Ravnica
+91,Arclight Phoenix,Slawomir Maniak,Red,M,Guilds of Ravnica
+92,Barging Sergeant,Filip Burburan,Red,C,Guilds of Ravnica
+93,Book Devourer,Kev Walker,Red,U,Guilds of Ravnica
+94,Command the Storm,Jason Rainville,Red,C,Guilds of Ravnica
+95,Cosmotronic Wave,Titus Lunter,Red,C,Guilds of Ravnica
+96,Direct Current,Dan Scott,Red,C,Guilds of Ravnica
+97,Electrostatic Field,Dan Scott,Red,U,Guilds of Ravnica
+98,Erratic Cyclops,Milivoj Ćeran,Red,R,Guilds of Ravnica
+99,Experimental Frenzy,Simon Dominic,Red,R,Guilds of Ravnica
+100,Fearless Halberdier,Suzanne Helmigh,Red,C,Guilds of Ravnica
+101,Fire Urchin,Deruchenko Alexander,Red,C,Guilds of Ravnica
+102,Goblin Banneret,Viktor Titov,Red,U,Guilds of Ravnica
+103,Goblin Cratermaker,Svetlin Velinov,Red,U,Guilds of Ravnica
+104,Goblin Locksmith,Mark Behm,Red,C,Guilds of Ravnica
+105,Gravitic Punch,Randy Vargas,Red,C,Guilds of Ravnica
+106,Hellkite Whelp,Johann Bodin,Red,U,Guilds of Ravnica
+107,Inescapable Blaze,Steve Argyle,Red,U,Guilds of Ravnica
+108,Lava Coil,Wesley Burt,Red,U,Guilds of Ravnica
+109,Legion Warboss,Alex Konstad,Red,R,Guilds of Ravnica
+110,Maniacal Rage,Heonhwa Choe,Red,C,Guilds of Ravnica
+111,Maximize Velocity,Svetlin Velinov,Red,C,Guilds of Ravnica
+112,Ornery Goblin,Johann Bodin,Red,C,Guilds of Ravnica
+113,Risk Factor,Chris Seaman,Red,R,Guilds of Ravnica
+114,Rubblebelt Boar,Tomasz Jedruszek,Red,C,Guilds of Ravnica
+115,Runaway Steam-Kin,Jason Felix,Red,R,Guilds of Ravnica
+116,Smelt-Ward Minotaur,Wisnu Tan,Red,U,Guilds of Ravnica
+117,Street Riot,Tomasz Jedruszek,Red,U,Guilds of Ravnica
+118,Sure Strike,Steve Argyle,Red,C,Guilds of Ravnica
+119,Torch Courier,Mark Zug,Red,C,Guilds of Ravnica
+120,Wojek Bodyguard,Tyler Walpole,Red,C,Guilds of Ravnica
+121,Affectionate Indrik,Steve Prescott,Green,U,Guilds of Ravnica
+122,Arboretum Elemental,James Paick,Green,U,Guilds of Ravnica
+123,Beast Whisperer,Matt Stewart,Green,R,Guilds of Ravnica
+124,Bounty of Might,Even Amundsen,Green,R,Guilds of Ravnica
+125,Circuitous Route,Milivoj Ćeran,Green,U,Guilds of Ravnica
+126,Crushing Canopy,Simon Dominic,Green,C,Guilds of Ravnica
+127,Devkarin Dissident,Mark Zug,Green,C,Guilds of Ravnica
+128,District Guide,Tianhua X,Green,U,Guilds of Ravnica
+129,Generous Stray,Milivoj Ćeran,Green,C,Guilds of Ravnica
+130,Golgari Raiders,David Palumbo,Green,U,Guilds of Ravnica
+131,Grappling Sundew,Sung Choi,Green,U,Guilds of Ravnica
+132,Hatchery Spider,Livia Prima,Green,R,Guilds of Ravnica
+133,Hitchclaw Recluse,Mike Bierek,Green,C,Guilds of Ravnica
+134,Ironshell Beetle,Kev Walker,Green,C,Guilds of Ravnica
+135,Kraul Foragers,Aaron Miller,Green,C,Guilds of Ravnica
+136,Kraul Harpooner,Kev Walker,Green,U,Guilds of Ravnica
+137,Might of the Masses,Alex Konstad,Green,U,Guilds of Ravnica
+138,Nullhide Ferox,Filip Burburan,Green,M,Guilds of Ravnica
+139,Pack's Favor,Lius Lasahido,Green,C,Guilds of Ravnica
+140,Pause for Reflection,Alayna Danner,Green,C,Guilds of Ravnica
+141,Pelt Collector,Zoltan Boros,Green,R,Guilds of Ravnica
+142,Portcullis Vine,James Paick,Green,C,Guilds of Ravnica
+143,Prey Upon,G-host Lee,Green,C,Guilds of Ravnica
+144,Siege Wurm,Filip Burburan,Green,C,Guilds of Ravnica
+145,Sprouting Renewal,James Paick,Green,U,Guilds of Ravnica
+146,Urban Utopia,Jedd Chevrier,Green,C,Guilds of Ravnica
+147,Vigorspore Wurm,Jason Felix,Green,C,Guilds of Ravnica
+148,Vivid Revival,Yeong-Hao Han,Green,R,Guilds of Ravnica
+149,Wary Okapi,Jason Felix,Green,C,Guilds of Ravnica
+150,Wild Ceratok,Svetlin Velinov,Green,C,Guilds of Ravnica
+151,Artful Takedown,Mike Bierek,Blue/Black,C,Guilds of Ravnica
+152,Assassin's Trophy,Seb McKinnon,Black/Green,R,Guilds of Ravnica
+153,"Aurelia, Exemplar of Justice",Chris Rahn,White/Red,M,Guilds of Ravnica
+154,Beacon Bolt,Titus Lunter,Blue/Red,U,Guilds of Ravnica
+155,Beamsplitter Mage,Svetlin Velinov,Blue/Red,U,Guilds of Ravnica
+156,Boros Challenger,Gabor Szikszai,White/Red,U,Guilds of Ravnica
+157,Camaraderie,Sidharth Chaturvedi,White/Green,R,Guilds of Ravnica
+158,Centaur Peacemaker,Raoul Vitale,White/Green,C,Guilds of Ravnica
+159,Chance for Glory,Bram Sels,White/Red,M,Guilds of Ravnica
+160,Charnel Troll,Daniel Ljunggren,Black/Green,R,Guilds of Ravnica
+161,Conclave Cavalier,Tomasz Jedruszek,White/Green,U,Guilds of Ravnica
+162,Conclave Guildmage,Jason Rainville,White/Green,U,Guilds of Ravnica
+163,Crackling Drake,Victor Adame Minguez,Blue/Red,U,Guilds of Ravnica
+164,Darkblade Agent,Joe Slucher,Blue/Black,C,Guilds of Ravnica
+165,Deafening Clarion,Adam Paquette,White/Red,R,Guilds of Ravnica
+166,Dimir Spybug,James Paick,Blue/Black,U,Guilds of Ravnica
+167,Disinformation Campaign,Anthony Palumbo,Blue/Black,U,Guilds of Ravnica
+168,"Emmara, Soul of the Accord",Mark Winters,White/Green,R,Guilds of Ravnica
+169,Erstwhile Trooper,Jason A. Engle,Black/Green,C,Guilds of Ravnica
+170,"Etrata, the Silencer",Bastien L. Deharme,Blue/Black,R,Guilds of Ravnica
+171,Firemind's Research,Grzegorz Rutkowski,Blue/Red,R,Guilds of Ravnica
+172,Garrison Sergeant,Gabor Szikszai,White/Red,C,Guilds of Ravnica
+173,Glowspore Shaman,Lars Grant-West,Black/Green,U,Guilds of Ravnica
+174,Goblin Electromancer,Svetlin Velinov,Blue/Red,C,Guilds of Ravnica
+175,Golgari Findbroker,Bram Sels,Black/Green,U,Guilds of Ravnica
+176,Hammer Dropper,Lake Hurwitz,White/Red,C,Guilds of Ravnica
+177,House Guildmage,Winona Nelson,Blue/Black,U,Guilds of Ravnica
+178,Hypothesizzle,Chris Seaman,Blue/Red,C,Guilds of Ravnica
+179,Ionize,Chase Stone,Blue/Red,R,Guilds of Ravnica
+180,"Izoni, Thousand-Eyed",Eric Deschamps,Black/Green,R,Guilds of Ravnica
+181,Join Shields,Winona Nelson,White/Green,U,Guilds of Ravnica
+182,Justice Strike,Clint Cearley,White/Red,U,Guilds of Ravnica
+183,Knight of Autumn,Ryan Pancoast,White/Green,R,Guilds of Ravnica
+184,"Lazav, the Multifarious",Yongjae Choi,Blue/Black,M,Guilds of Ravnica
+185,League Guildmage,Svetlin Velinov,Blue/Red,U,Guilds of Ravnica
+186,Ledev Champion,Daarken,White/Green,U,Guilds of Ravnica
+187,Legion Guildmage,Zack Stella,White/Red,U,Guilds of Ravnica
+188,March of the Multitudes,Zack Stella,White/Green,M,Guilds of Ravnica
+189,Mnemonic Betrayal,Clint Cearley,Blue/Black,M,Guilds of Ravnica
+190,Molderhulk,Titus Lunter,Black/Green,U,Guilds of Ravnica
+191,Nightveil Predator,Darek Zabrocki,Blue/Black,U,Guilds of Ravnica
+192,"Niv-Mizzet, Parun",Svetlin Velinov,Blue/Red,R,Guilds of Ravnica
+193,Notion Rain,Lius Lasahido,Blue/Black,C,Guilds of Ravnica
+194,Ochran Assassin,Anna Steinbauer,Black/Green,U,Guilds of Ravnica
+195,"Ral, Izzet Viceroy",Kieran Yanner,Blue/Red,M,Guilds of Ravnica
+196,Rhizome Lurcher,Mathias Kollros,Black/Green,C,Guilds of Ravnica
+197,Rosemane Centaur,Nils Hamm,White/Green,C,Guilds of Ravnica
+198,Skyknight Legionnaire,Chase Stone,White/Red,C,Guilds of Ravnica
+199,Sonic Assault,Tyler Walpole,Blue/Red,C,Guilds of Ravnica
+200,Sumala Woodshaper,Sara Winters,White/Green,C,Guilds of Ravnica
+201,Swarm Guildmage,Simon Dominic,Black/Green,U,Guilds of Ravnica
+202,Swathcutter Giant,Aaron Miller,White/Red,U,Guilds of Ravnica
+203,Swiftblade Vindicator,Viktor Titov,White/Red,R,Guilds of Ravnica
+204,"Tajic, Legion's Edge",Anthony Palumbo,White/Red,R,Guilds of Ravnica
+205,Thief of Sanity,Igor Kieryluk,Blue/Black,R,Guilds of Ravnica
+206,Thought Erasure,Anna Steinbauer,Blue/Black,U,Guilds of Ravnica
+207,Thousand-Year Storm,Dimitar Marinski,Blue/Red,M,Guilds of Ravnica
+208,Trostani Discordant,Chase Stone,White/Green,M,Guilds of Ravnica
+209,Truefire Captain,Chris Rallis,White/Red,U,Guilds of Ravnica
+210,Undercity Uprising,Magali Villeneuve,Black/Green,C,Guilds of Ravnica
+211,Underrealm Lich,Anna Steinbauer,Black/Green,M,Guilds of Ravnica
+212,Unmoored Ego,Volkan Baga,Blue/Black,R,Guilds of Ravnica
+213,"Vraska, Golgari Queen",Magali Villeneuve,Black/Green,M,Guilds of Ravnica
+214,Wee Dragonauts,Greg Staples,Blue/Red,U,Guilds of Ravnica
+215,Worldsoul Colossus,James Paick,White/Green,U,Guilds of Ravnica
+216,Fresh-Faced Recruit,Anthony Palumbo,White/Red,C,Guilds of Ravnica
+217,Piston-Fist Cyclops,Wayne Reynolds,Blue/Red,C,Guilds of Ravnica
+218,Pitiless Gorgon,Alex Konstad,Black/Green,C,Guilds of Ravnica
+219,Vernadi Shieldmate,Matt Stewart,White/Green,C,Guilds of Ravnica
+220,Whisper Agent,Deruchenko Alexander,Blue/Black,C,Guilds of Ravnica
+221,Assemble,Jason A. Engle,White/Green,R,Guilds of Ravnica
+221,Assure,Jason A. Engle,White/Green,R,Guilds of Ravnica
+222,Concoct,Dan Scott,Blue/Black,R,Guilds of Ravnica
+222,Connive,Dan Scott,Blue/Black,R,Guilds of Ravnica
+223,Discovery,Mark Behm,Blue/Black,U,Guilds of Ravnica
+223,Dispersal,Mark Behm,Blue/Black,U,Guilds of Ravnica
+224,Expansion,Deruchenko Alexander,Blue/Red,R,Guilds of Ravnica
+224,Explosion,Deruchenko Alexander,Blue/Red,R,Guilds of Ravnica
+225,Finality,Tomasz Jedruszek,Black/Green,R,Guilds of Ravnica
+225,Find,Tomasz Jedruszek,Black/Green,R,Guilds of Ravnica
+226,Flourish,Dmitry Burmak,White/Green,U,Guilds of Ravnica
+226,Flower,Dmitry Burmak,White/Green,U,Guilds of Ravnica
+227,Integrity,Ben Maier,White/Red,U,Guilds of Ravnica
+227,Intervention,Ben Maier,White/Red,U,Guilds of Ravnica
+228,Invent,Mathias Kollros,Blue/Red,U,Guilds of Ravnica
+228,Invert,Mathias Kollros,Blue/Red,U,Guilds of Ravnica
+229,Response,Daarken,White/Red,R,Guilds of Ravnica
+229,Resurgence,Daarken,White/Red,R,Guilds of Ravnica
+230,Statue,Ben Wootten,Black/Green,U,Guilds of Ravnica
+230,Status,Ben Wootten,Black/Green,U,Guilds of Ravnica
+231,Boros Locket,Aaron Miller,,C,Guilds of Ravnica
+232,Chamber Sentry,Adam Paquette,,R,Guilds of Ravnica
+233,Chromatic Lantern,Jung Park,,R,Guilds of Ravnica
+234,Dimir Locket,Zezhou Chen,,C,Guilds of Ravnica
+235,Gatekeeper Gargoyle,Adam Paquette,,U,Guilds of Ravnica
+236,Glaive of the Guildpact,Volkan Baga,,U,Guilds of Ravnica
+237,Golgari Locket,Milivoj Ćeran,,C,Guilds of Ravnica
+238,Izzet Locket,Dmitry Burmak,,C,Guilds of Ravnica
+239,Rampaging Monument,Tyler Walpole,,U,Guilds of Ravnica
+240,Selesnya Locket,Winona Nelson,,C,Guilds of Ravnica
+241,Silent Dart,Yeong-Hao Han,,U,Guilds of Ravnica
+242,Wand of Vertebrae,Volkan Baga,,U,Guilds of Ravnica
+243,Boros Guildgate,Titus Lunter,,C,Guilds of Ravnica
+244,Boros Guildgate,Titus Lunter,,C,Guilds of Ravnica
+245,Dimir Guildgate,Cliff Childs,,C,Guilds of Ravnica
+246,Dimir Guildgate,Cliff Childs,,C,Guilds of Ravnica
+247,Gateway Plaza,Jedd Chevrier,,C,Guilds of Ravnica
+248,Golgari Guildgate,Eytan Zana,,C,Guilds of Ravnica
+249,Golgari Guildgate,Eytan Zana,,C,Guilds of Ravnica
+250,Guildmages' Forum,Adam Paquette,,R,Guilds of Ravnica
+251,Izzet Guildgate,Kirsten Zirngibl,,C,Guilds of Ravnica
+252,Izzet Guildgate,Kirsten Zirngibl,,C,Guilds of Ravnica
+253,Overgrown Tomb,Yeong-Hao Han,,R,Guilds of Ravnica
+254,Sacred Foundry,Adam Paquette,,R,Guilds of Ravnica
+255,Selesnya Guildgate,Dimitar Marinski,,C,Guilds of Ravnica
+256,Selesnya Guildgate,Dimitar Marinski,,C,Guilds of Ravnica
+257,Steam Vents,Jonas De Ro,,R,Guilds of Ravnica
+258,Temple Garden,Titus Lunter,,R,Guilds of Ravnica
+259,Watery Grave,Cliff Childs,,R,Guilds of Ravnica
+260,Plains,Richard Wright,,L,Guilds of Ravnica
+261,Island,Richard Wright,,L,Guilds of Ravnica
+262,Swamp,Richard Wright,,L,Guilds of Ravnica
+263,Mountain,Richard Wright,,L,Guilds of Ravnica
+264,Forest,Richard Wright,,L,Guilds of Ravnica
+265,"Ral, Caller of Storms",Kieran Yanner,Blue/Red,M,Guilds of Ravnica
+266,Ral's Dispersal,Lake Hurwitz,Blue,R,Guilds of Ravnica
+267,Precision Bolt,Grzegorz Rutkowski,Red,C,Guilds of Ravnica
+268,Ral's Staticaster,Even Amundsen,Blue/Red,U,Guilds of Ravnica
+269,"Vraska, Regal Gorgon",Magali Villeneuve,Black/Green,M,Guilds of Ravnica
+270,Kraul Raider,Ben Wootten,Black,C,Guilds of Ravnica
+271,Attendant of Vraska,Magali Villeneuve,Black/Green,U,Guilds of Ravnica
+272,Vraska's Stoneglare,Yongjae Choi,Black/Green,R,Guilds of Ravnica
+273,Impervious Greatwurm,Simon Dominic,Green,M,Guilds of Ravnica

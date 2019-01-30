@@ -1,0 +1,48 @@
+- pack_type: Prerelease Pack
+  name: Azorius
+  image:
+    name: prerelease_pack_azorius.png
+    alt: Azorius Prerelease Pack Box Picture
+    title: Prerelease Pack - Azorius
+  token: 12
+  cards: 186, 29, 231, 155, 40, 21, 50, 219, 13, 49, 4, 54, 209, 44, 12, 243
+
+- pack_type: Theme Booster
+  name: Azorius
+  image:
+    name: theme_booster_azorius.png
+    alt: Azorius Theme Booster Box Picture
+    title: Theme Booster - Azorius
+  cards: 154, 7, 219, 231, 12, 190, 244, 40, 9, 24, 37, 31, 23, 4, 18, 60, 33, 20, 34, 48, 209, 168, 154, 190, 5, 182, 57, 154, 204, 208, 219, 238, 225, 209, 165
+
+- pack_type: Theme Booster
+  name: Gruul
+  image:
+    name: theme_booster_gruul.png
+    alt: Gruul Theme Booster Box Picture
+    title: Theme Booster - Gruul
+  cards: 173, 102, 232, 135, 133, 249, 202, 150, 121, 203, 234, 110, 144, 112, 103, 129, 143, 146, 201, 94, 147, 133, 125, 98, 202, 173, 203, 235, 215, 162, 210, 217, 159, 150, 92
+
+- pack_type: Theme Booster
+  name: Orzhov
+  image:
+    name: theme_booster_orzhov.png
+    alt: Orzhov Theme Booster Box Picture
+    title: Theme Booster - Orzhov
+  cards: 220, 3, 253, 236, 28, 25, 171, 184, 90, 87, 19, 64, 62, 16, 82, 72, 26, 25, 77, 5, 14, 79, 188, 171, 224, 67, 220, 235, 192, 6, 156, 184, 194, 188, 187
+
+- pack_type: Theme Booster
+  name: Rakdos
+  image:
+    name: theme_booster_rakdos.png
+    alt: Rakdos Theme Booster Box Picture
+    title: Theme Booster - Rakdos
+  cards: 118, 78, 196, 237, 63, 115, 176, 84, 82, 91, 116, 86, 71, 117, 98, 62, 107, 78, 104, 104, 104, 181, 197, 176, 222, 118, 198, 164, 191, 176, 216, 235, 172, 196, 160
+
+- pack_type: Theme Booster
+  name: Simic
+  image:
+    name: theme_booster_simic.png
+    alt: Simic Theme Booster Box Picture
+    title: Theme Booster - Simic
+  cards: 53, 218, 44, 178, 137, 133, 257, 53, 153, 142, 240, 33, 54, 139, 47, 46, 132, 41, 125, 39, 127, 53, 140, 148, 145, 178, 226, 141, 153, 174, 40, 152, 163, 206, 130
