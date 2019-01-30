@@ -17,7 +17,7 @@ title: Magic The Gathering
 email: cicero@cicerooliveira.com
 description: >- # this means to ignore newlines until "baseurl:"
   Some info about magic cards.
-baseurl: "/mtg" # the subpath of your site, e.g. /blog
+baseurl: "/magic-the-gathering" # the subpath of your site, e.g. /blog
 url: "http://cicerooliveira.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -28,7 +28,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
+# Exclude frmtgom processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:
