@@ -18,7 +18,7 @@ layout: default
         {{ pack.name }} - {{ pack.pack_type }}
       </h2>
 
-      <img src="{{ site.baseurl }}/assets/img/{{ pack.image.name }}" alt="{{ pack.image.alt }}" title="{{ pack.image.title }}" class="box-image">
+      <img src="{{ site.baseurl }}/assets/img/{{ pack.image.name }}" alt="{{ pack.image.alt }}" title="{{ pack.image.title }}" class="{{ pack.pack_type | slugify}}">
 
       <ol>
         {% for card in pack.cards %}
