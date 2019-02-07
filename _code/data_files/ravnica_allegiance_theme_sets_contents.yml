@@ -24,6 +24,15 @@
   cards: 173, 102, 232, 135, 133, 249, 202, 150, 121, 203, 234, 110, 144, 112, 103, 129, 143, 146, 201, 94, 147, 133, 125, 98, 202, 173, 203, 235, 215, 162, 210, 217, 159, 150, 92
 
 - pack_type: Theme Booster
+  name: Gruul
+  image:
+    name: theme_booster_gruul.png
+    alt: Gruul Theme Booster Box Picture
+    title: Theme Booster - Gruul
+  cards: 97, 101, 102, 120, 123, 159, 162, 210, 215, 223, 229, 232, 241, 93, 93, 94, 100, 103, 103, 105, 105, 113, 132, 133, 135, 137, 150, 173, 173, 202, 202, 217, 217, 234, 250
+  bought_on: 5/2/2019
+
+- pack_type: Theme Booster
   name: Orzhov
   image:
     name: theme_booster_orzhov.png
@@ -38,6 +47,15 @@
     alt: Rakdos Theme Booster Box Picture
     title: Theme Booster - Rakdos
   cards: 118, 78, 196, 237, 63, 115, 176, 84, 82, 91, 116, 86, 71, 117, 98, 62, 107, 78, 104, 104, 104, 181, 197, 176, 222, 118, 198, 164, 191, 176, 216, 235, 172, 196, 160
+
+- pack_type: Theme Booster
+  name: Rakdos
+  image:
+    name: theme_booster_rakdos.png
+    alt: Rakdos Theme Booster Box Picture
+    title: Theme Booster - Rakdos
+  cards: 65, 107, 108, 164, 181, 191, 197, 222, 241, 63, 63, 66, 67, 69, 71, 73, 77, 78, 82, 84, 91, 110, 115, 115, 118, 118, 176, 176, 176, 196, 196, 196, 198, 237, 255
+  bought_on: 5/2/2019
 
 - pack_type: Theme Booster
   name: Simic

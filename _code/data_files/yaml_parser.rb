@@ -21,16 +21,19 @@ begin
       card_set = 'RNA'
 
       ds = DB[:mtgjson_cards]
-      card = ds.select(:name, :rarity).where(setCode: card_set, number: card_number).all
+      card = ds.select(:name, :rarity, :layout).where(setCode: card_set, number: card_number).all
       # puts card
 
       if card.count == 0
         puts "===> #{card_number}"
         puts "Not Found"
       else
-        card.each do |row|
-          @cards << "(#{card_number}) #{row[:name]} - #{row[:rarity].capitalize}"
+        if card[0][:layout].eql? 'split'
+          name = "#{card[0][:name]}/#{card[1][:name]}"
+        else
+          name = card[0][:name]
         end
+        @cards << "(#{card_number}) #{name} - #{card[0][:rarity].capitalize}"
       end
     end
 

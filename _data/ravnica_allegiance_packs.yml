@@ -62,8 +62,7 @@
   - "(208) Sphinx of New Prahv - Uncommon"
   - "(219) Senate Griffin - Common"
   - "(238) Scrabbling Claws - Uncommon"
-  - "(225) Deploy - Uncommon"
-  - "(225) Depose - Uncommon"
+  - "(225) Deploy/Depose - Uncommon"
   - "(209) Sphinx's Insight - Common"
   - "(165) Deputy of Detention - Rare"
 - pack_type: Theme Booster
@@ -109,6 +108,49 @@
   - "(150) Wrecking Beast - Common"
   - "(92) Amplifire - Rare"
 - pack_type: Theme Booster
+  name: Gruul
+  image:
+    name: theme_booster_gruul.png
+    alt: Gruul Theme Booster Box Picture
+    title: Theme Booster - Gruul
+  cards:
+  - "(97) Dagger Caster - Uncommon"
+  - "(101) Flames of the Raze-Boar - Uncommon"
+  - "(102) Gates Ablaze - Uncommon"
+  - "(120) Tin Street Dodger - Uncommon"
+  - "(123) Biogenic Upgrade - Uncommon"
+  - "(159) Bolrac-Clan Crusher - Uncommon"
+  - "(162) Clan Guildmage - Uncommon"
+  - "(210) Sunder Shaman - Uncommon"
+  - "(215) Zhur-Taa Goblin - Uncommon"
+  - "(223) Colossus/Collision - Uncommon"
+  - "(229) Threat/Thrash - Rare"
+  - "(232) Gate Colossus - Uncommon"
+  - "(241) Sphinx of the Guildpact - Uncommon"
+  - "(93) Burn Bright - Common"
+  - "(93) Burn Bright - Common"
+  - "(94) Burning-Tree Vandal - Common"
+  - "(100) Feral Maaka - Common"
+  - "(103) Ghor-Clan Wrecker - Common"
+  - "(103) Ghor-Clan Wrecker - Common"
+  - "(105) Gravel-Hide Goblin - Common"
+  - "(105) Gravel-Hide Goblin - Common"
+  - "(113) Scorchmark - Common"
+  - "(132) Mammoth Spider - Common"
+  - "(133) Open the Gates - Common"
+  - "(135) Rampaging Rendhorn - Common"
+  - "(137) Root Snare - Common"
+  - "(150) Wrecking Beast - Common"
+  - "(173) Frenzied Arynx - Common"
+  - "(173) Frenzied Arynx - Common"
+  - "(202) Rubblebelt Runner - Common"
+  - "(202) Rubblebelt Runner - Common"
+  - "(217) Rubble Slinger - Common"
+  - "(217) Rubble Slinger - Common"
+  - "(234) Gruul Locket - Common"
+  - "(250) Gruul Guildgate - Common"
+  bought_on: 5/2/2019
+- pack_type: Theme Booster
   name: Orzhov
   image:
     name: theme_booster_orzhov.png
@@ -139,8 +181,7 @@
   - "(79) Orzhov Enforcer - Uncommon"
   - "(188) Knight of the Last Breath - Uncommon"
   - "(171) Final Payment - Common"
-  - "(224) Consecrate - Uncommon"
-  - "(224) Consume - Uncommon"
+  - "(224) Consecrate/Consume - Uncommon"
   - "(67) Catacomb Crocodile - Common"
   - "(220) Vizkopa Vampire - Common"
   - "(235) Junktroller - Uncommon"
@@ -182,8 +223,7 @@
   - "(181) Hackrobat - Uncommon"
   - "(197) Rakdos Firewheeler - Uncommon"
   - "(176) Get the Point - Common"
-  - "(222) Carnage - Uncommon"
-  - "(222) Carnival - Uncommon"
+  - "(222) Carnage/Carnival - Uncommon"
   - "(118) Spikewheel Acrobat - Common"
   - "(198) Rakdos Roustabout - Common"
   - "(164) Cult Guildmage - Uncommon"
@@ -194,6 +234,49 @@
   - "(172) Fireblade Artist - Uncommon"
   - "(196) Rafter Demon - Common"
   - "(160) Captive Audience - Mythic"
+- pack_type: Theme Booster
+  name: Rakdos
+  image:
+    name: theme_booster_rakdos.png
+    alt: Rakdos Theme Booster Box Picture
+    title: Theme Booster - Rakdos
+  cards:
+  - "(65) Bloodmist Infiltrator - Uncommon"
+  - "(107) Light Up the Stage - Uncommon"
+  - "(108) Mirror March - Rare"
+  - "(164) Cult Guildmage - Uncommon"
+  - "(181) Hackrobat - Uncommon"
+  - "(191) Macabre Mockery - Uncommon"
+  - "(197) Rakdos Firewheeler - Uncommon"
+  - "(222) Carnage/Carnival - Uncommon"
+  - "(241) Sphinx of the Guildpact - Uncommon"
+  - "(63) Blade Juggler - Common"
+  - "(63) Blade Juggler - Common"
+  - "(66) Carrion Imp - Common"
+  - "(67) Catacomb Crocodile - Common"
+  - "(69) Consign to the Pit - Common"
+  - "(71) Dead Revels - Common"
+  - "(73) Drill Bit - Uncommon"
+  - "(77) Ill-Gotten Inheritance - Common"
+  - "(78) Noxious Groodion - Common"
+  - "(82) Plague Wight - Common"
+  - "(84) Rakdos Trumpeter - Common"
+  - "(91) Act of Treason - Common"
+  - "(110) Rubble Reading - Common"
+  - "(115) Skewer the Critics - Common"
+  - "(115) Skewer the Critics - Common"
+  - "(118) Spikewheel Acrobat - Common"
+  - "(118) Spikewheel Acrobat - Common"
+  - "(176) Get the Point - Common"
+  - "(176) Get the Point - Common"
+  - "(176) Get the Point - Common"
+  - "(196) Rafter Demon - Common"
+  - "(196) Rafter Demon - Common"
+  - "(196) Rafter Demon - Common"
+  - "(198) Rakdos Roustabout - Common"
+  - "(237) Rakdos Locket - Common"
+  - "(255) Rakdos Guildgate - Common"
+  bought_on: 5/2/2019
 - pack_type: Theme Booster
   name: Simic
   image:
@@ -227,8 +310,7 @@
   - "(148) Trollbred Guardian - Uncommon"
   - "(145) Territorial Boar - Common"
   - "(178) Growth Spiral - Common"
-  - "(226) Incongruity - Uncommon"
-  - "(226) Incubation - Uncommon"
+  - "(226) Incongruity/Incubation - Uncommon"
   - "(141) Silhana Wayfinder - Uncommon"
   - "(153) Applied Biomancy - Common"
   - "(174) Frilled Mystic - Uncommon"
