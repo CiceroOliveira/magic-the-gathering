@@ -18,7 +18,7 @@ layout: default
         {{ pack.name }} - {{ pack.pack_type }}
       </h2>
 
-      <img src="{{ site.baseurl }}/assets/img/{{ pack.image.name }}" alt="{{ pack.image.alt }}" title="{{ pack.image.title }}" class="{{ pack.pack_type | slugify}}">
+      <img src="{{ site.baseurl }}/assets/img/{{ pack.image.name }}" alt="{{ pack.image.alt }}" title="{{ pack.image.title }}" class="{{ pack.pack_type | slugify}} {{ pack.image.title | slugify}}">
 
       <ol>
         {% for card in pack.cards %}
@@ -36,3 +36,12 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+<script>
+  $( document ).ready(function() {
+    $(".prerelease-pack-azorius").parent().css("background-color", "red");
+    var colorThief = new ColorThief();
+    var sourceImage = "{{ site.baseurl }}/assets/img/{{ pack.image.name }}";
+    alert(colorThief.getPalette(sourceImage, 8));
+  });
+</script>
