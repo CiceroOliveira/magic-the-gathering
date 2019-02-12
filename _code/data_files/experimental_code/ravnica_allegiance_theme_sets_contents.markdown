@@ -12,6 +12,12 @@ Ravnica Allegiance
 token: 12
 cards: 186, 29, 231, 155, 40, 21, 50, 219, 13, 49, 4, 54, 209, 44, 12, 243
 
+#### Rakdos
+![Rakdos Prerelease Pack Box Picture][prerelease_pack_rakdos]
+
+token: 12
+cards: 186, 29, 231, 155, 40, 21, 50, 219, 13, 49, 4, 54, 209, 44, 12, 243
+
 ### Theme Boosters
 
 #### Azorius
@@ -45,6 +51,8 @@ cards: 118, 78, 196, 237, 63, 115, 176, 84, 82, 91, 116, 86, 71, 117, 98, 62, 10
 cards: 53, 218, 44, 178, 137, 133, 257, 53, 153, 142, 240, 33, 54, 139, 47, 46, 132, 41, 125, 39, 127, 53, 140, 148, 145, 178, 226, 141, 153, 174, 40, 152, 163, 206, 130
 
 [prerelease_pack_azorius]: img/prerelease_pack_azorius.png "Prerelease Pack - Azorius"
+
+[prerelease_pack_rakdos]: img/prerelease_pack_rakdos.png "Prerelease Pack - Rakdos"
 
 [theme_booster_azorius]: img/theme_booster_azorius.png "Theme Booster - Azorius"
 

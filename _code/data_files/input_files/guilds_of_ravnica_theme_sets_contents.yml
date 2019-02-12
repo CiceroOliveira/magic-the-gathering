@@ -1,0 +1,19 @@
+- pack_type: Guild Kit
+  name: Boros
+  image:
+    name: guild_kit_boros.png
+    alt: Boros Guild Kit Box Picture
+    title: Guild Kit - Boros
+  cards:
+    GK1: 77, 82, 85, 89, 94, 83, 88, 93, 92, 87, 81, 78, 80, 79, 86, 86, 95, 95, 98, 98, 98, 98, 99, 101, 101, 101, 101, 101, 101, 101, 101, 101, 100, 100, 100, 100, 100, 100, 100, 100, 97, 97, 84, 90, 91, 96
+    GRN: 203, 109, 19, 26, 120, 1, 198, 198, 176, 243, 243, 243, 243, 12, 27
+
+- pack_type: Prerelease Pack
+  name: Boros
+  image:
+    name: prerelease_pack_boros.png
+    alt: Boros Prerelease Pack Box Picture
+    title: Prerelease Pack - Rakdos
+  token: 11
+  cards:
+    RNA: 108, 237, 68, 172, 95, 66, 100, 63, 110, 89, 176, 111, 216, 84, 255

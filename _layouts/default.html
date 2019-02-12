@@ -17,4 +17,24 @@
 
   </body>
 
+  <script>
+
+    $(function() {
+      var colorThief = new ColorThief();
+
+      //var $image = $('.guild-kit-boros');
+      $('img').each(function() {
+        var image = $(this)[0];
+
+        var palette = colorThief.getPalette(image);
+        $(image).parent().css("background-color", "rgb(" + palette[2].toString() + ")");
+        $(image).parent().css("border-color", "rgb(" + palette[1].toString() + ")");
+        $(image).parent().css("color", "rgb(" + palette[0].toString() + ")");
+      });
+
+      alert("ready");
+
+    });
+  </script>
+
 </html>

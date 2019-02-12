@@ -5,7 +5,8 @@
     name: prerelease_pack_azorius.png
     alt: Azorius Prerelease Pack Box Picture
     title: Prerelease Pack - Azorius
-  token: 12
+  token:
+    RNA: 12
   cards:
   - "(186) Kaya, Orzhov Usurper - Mythic"
   - "(29) Unbreakable Formation - Rare"
@@ -23,6 +24,30 @@
   - "(44) Persistent Petitioners - Common"
   - "(12) Impassioned Orator - Common"
   - "(243) Azorius Guildgate - Common"
+- pack_type: Prerelease Pack
+  name: Rakdos
+  token:
+    RNA: 11
+  image:
+    name: prerelease_pack_rakdos.png
+    alt: Rakdos Prerelease Pack Box Picture
+    title: Prerelease Pack - Rakdos
+  cards:
+  - "(108) Mirror March - Rare"
+  - "(237) Rakdos Locket - Common"
+  - "(68) Clear the Stage - Uncommon"
+  - "(172) Fireblade Artist - Uncommon"
+  - "(95) Cavalcade of Calamity - Uncommon"
+  - "(66) Carrion Imp - Common"
+  - "(100) Feral Maaka - Common"
+  - "(63) Blade Juggler - Common"
+  - "(110) Rubble Reading - Common"
+  - "(89) Undercity's Embrace - Common"
+  - "(176) Get the Point - Common"
+  - "(111) Rubblebelt Recluse - Common"
+  - "(216) Footlight Fiend - Common"
+  - "(84) Rakdos Trumpeter - Common"
+  - "(255) Rakdos Guildgate - Common"
 - pack_type: Theme Booster
   name: Azorius
   image:
@@ -322,7 +347,7 @@
 - pack_type: Planeswalker Deck
   name: Domri
   image:
-    name: gruul_symbol.jpg
+    name: planeswalker_deck_domri.png
     alt: Planeswalker Deck - Domri - Picture
     title: Planeswalker Deck - Domri
   cards:
@@ -389,8 +414,8 @@
 - pack_type: Planeswalker Deck - Booster
   name: Domri
   image:
-    name: gruul_symbol.jpg
-    alt: Planeswalker Deck- Domri - Booster Pack - Picture
+    name: ravnica_allegiance_booster_pack_domri.png
+    alt: Planeswalker Deck - Domri - Booster Pack - Picture
     title: Planeswalker Deck - Domri - Booster Pack
   cards:
   - "(15) Lumbering Battlement - Rare"
@@ -411,8 +436,8 @@
 - pack_type: Planeswalker Deck - Booster
   name: Domri
   image:
-    name: gruul_symbol.jpg
-    alt: Planeswalker Deck- Domri - Booster Pack - Picture
+    name: ravnica_allegiance_booster_pack_domri.png
+    alt: Planeswalker Deck - Domri - Booster Pack - Picture
     title: Planeswalker Deck - Domri - Booster Pack
   cards:
   - "(136) Regenesis - Uncommon"

@@ -1,6 +1,11 @@
 /* This is my own style - Cicero */
-img.prerelease-pack, img.planeswalker-deck-booster, img.planeswalker-deck {
+img.prerelease-pack, img.planeswalker-deck, img.guild-kit {
   width: 300px;
+  float: right;
+}
+
+img.planeswalker-deck-booster {
+  width: 100px;
   float: right;
 }
 
@@ -11,4 +16,10 @@ img.theme-booster {
 
 .page-content {
   background-color: #77766C;
+}
+
+.set-pack-wrapper {
+    padding: 1em;
+    border: 0.4em solid transparent;
+    margin-bottom: 1em;
 }
