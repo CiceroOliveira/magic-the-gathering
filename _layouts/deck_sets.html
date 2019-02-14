@@ -15,7 +15,8 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
 
     {% for pack in site.data[page.data_file] %}
-      <div class="set-pack-wrapper">
+      {% assign style = pack.image.name | split: "." %}
+      <div class="{{ style[0] }} set-pack-wrapper">
         <h2>
           {{ pack.name }} - {{ pack.pack_type }}
         </h2>
@@ -24,14 +25,35 @@ layout: default
           <img src="{{ site.baseurl }}/assets/img/{{ pack.image.name }}" alt="{{ pack.image.alt }}" title="{{ pack.image.title }}" class="{{ pack.pack_type | slugify}} {{ pack.image.title | slugify}}">
         {% endif %}
 
-        <ol>
-          {% for card in pack.cards %}
-            <li>{{ card }}</li>
+        {% for card_group in pack.cards %}
+        <h3>{{ card_group.type }} ({{ card_group.count }})</h3>
+        <ul>
+          {% for card in card_group.cards %}
+          <li>{{card.count}} {{card.name}} {{card.rarity}} ({{ card.card_set }}-{{card.number}})</li>
           {% endfor %}
-        </ol>
+        </ul>
+        {% endfor %}
 
       </div>
     {% endfor %}
+    <script>
+
+      // $(function() {
+      //   var colorThief = new ColorThief();
+      //
+      //   $('img').each(function() {
+      //     var image = $(this)[0];
+      //
+      //     var palette = colorThief.getPalette(image);
+      //     $(image).parent().css("background-color", "rgb(" + palette[2].toString() + ")");
+      //     $(image).parent().css("border-color", "rgb(" + palette[1].toString() + ")");
+      //     $(image).parent().css("color", "rgb(" + palette[0].toString() + ")");
+      //   });
+      //
+      //   alert("ready");
+      //
+      // });
+    </script>
 
   </div>
 

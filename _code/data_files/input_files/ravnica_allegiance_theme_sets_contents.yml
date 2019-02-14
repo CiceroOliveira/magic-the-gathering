@@ -4,19 +4,19 @@
     name: prerelease_pack_azorius.png
     alt: Azorius Prerelease Pack Box Picture
     title: Prerelease Pack - Azorius
-  token:
+  tokens:
     RNA: 12
   cards:
     RNA: 186, 29, 231, 155, 40, 21, 50, 219, 13, 49, 4, 54, 209, 44, 12, 243
 
 - pack_type: Prerelease Pack
   name: Rakdos
-  token: 11
+  tokens: 11
   image:
     name: prerelease_pack_rakdos.png
     alt: Rakdos Prerelease Pack Box Picture
     title: Prerelease Pack - Rakdos
-  token:
+  tokens:
     RNA: 11
   cards:
     RNA: 108, 237, 68, 172, 95, 66, 100, 63, 110, 89, 176, 111, 216, 84, 255

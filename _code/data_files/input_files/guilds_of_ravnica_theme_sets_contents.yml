@@ -8,12 +8,61 @@
     GK1: 77, 82, 85, 89, 94, 83, 88, 93, 92, 87, 81, 78, 80, 79, 86, 86, 95, 95, 98, 98, 98, 98, 99, 101, 101, 101, 101, 101, 101, 101, 101, 101, 100, 100, 100, 100, 100, 100, 100, 100, 97, 97, 84, 90, 91, 96
     GRN: 203, 109, 19, 26, 120, 1, 198, 198, 176, 243, 243, 243, 243, 12, 27
 
+- pack_type: Guild Kit
+  name: Dimir
+  image:
+    name: guild_kit_dimir.png
+    alt: Dimir Guild Kit Box Picture
+    title: Guild Kit - Dimir
+  tokens:
+    GK1: 1, 1, 1, 1, 1
+  cards:
+    GK1: 1, 12, 19, 9, 16, 10, 17, 20, 15, 2, 13, 13, 18, 6, 14, 23, 23, 23, 23, 24, 24, 24, 24, 24, 24, 24, 24, 25, 25, 25, 25, 25, 25, 25, 25, 22, 22, 4, 5, 11, 21, 8, 7, 7, 3
+    GRN: 63, 44, 61, 58, 191, 245, 245, 245, 245, 37, 56, 76, 193, 83, 223
+
+- pack_type: Guild Kit
+  name: Golgari
+  image:
+    name: guild_kit_golgari.png
+    alt: Golgari Guild Kit Box Picture
+    title: Guild Kit - Golgari
+  tokens:
+    GK1: 5, 5, 5, 5, 5
+  cards:
+    GK1: 50, 59, 67, 55, 69, 65, 63, 71, 57, 58, 61, 56, 56, 66, 66, 53, 70, 52, 74, 74, 74, 74, 75, 75, 75, 75, 75, 75, 75, 75, 76, 76, 76, 76, 76, 76, 76, 76, 51, 51, 73, 73, 60, 62, 64, 72, 68, 54
+    GRN: 160, 132, 173, 82, 196, 175, 248, 249, 248, 249, 79, 230
+
+- pack_type: Guild Kit
+  name: Izzet
+  image:
+    name: guild_kit_izzet.png
+    alt: Izzet Guild Kit Box Picture
+    title: Guild Kit - Izzet
+  tokens:
+    GK1: 3, 3, 3, 3, 3
+  cards:
+    GK1: 26, 44, 39, 36, 32, 28, 35, 43, 40, 42, 42, 31, 31, 38, 47, 47, 47, 47, 48, 48, 48, 48, 48, 48, 48, 48, 49, 49, 49, 49, 49, 49, 49, 49, 29, 34, 46, 46, 33, 41, 27, 37, 30, 45
+    GRN: 98, 171, 51, 97, 174, 214, 214, 163, 251, 251, 251, 251, 52, 96, 154, 32
+
+- pack_type: Guild Kit
+  name: Selesnya
+  image:
+    name: guild_kit_selesnya.png
+    alt: Selesnya Guild Kit Box Picture
+    title: Guild Kit - Selesnya
+  tokens:
+    GK1: 6, 6, 9, 10, 11
+  cards:
+    GK1: 102, 114, 108, 121, 124, 112, 113, 107, 116, 104, 111, 118, 118, 122, 122, 119, 119, 110, 125, 125, 125, 125, 126, 126, 126, 126, 126, 126, 126, 126, 127, 127, 127, 127, 127, 127, 127, 127, 105, 123, 123, 109, 117, 120, 103, 103, 106, 106, 115
+    GRN: 30, 124, 157, 219, 161, 144, 255, 256, 255, 256, 6
+
 - pack_type: Prerelease Pack
   name: Boros
   image:
     name: prerelease_pack_boros.png
     alt: Boros Prerelease Pack Box Picture
     title: Prerelease Pack - Rakdos
-  token: 11
+  tokens:
+    GRN: 4
   cards:
     RNA: 108, 237, 68, 172, 95, 66, 100, 63, 110, 89, 176, 111, 216, 84, 255
