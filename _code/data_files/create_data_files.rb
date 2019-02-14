@@ -4,8 +4,8 @@ require 'yaml'
 database_name = 'mtg_database.db'
 current_path = File.dirname(__FILE__)
 
-set_name = 'guilds_of_ravnica'
-#set_name = 'ravnica_allegiance'
+#set_name = 'guilds_of_ravnica'
+set_name = 'ravnica_allegiance'
 
 DB = Sequel.sqlite File.join(current_path, '/', database_name)
 
