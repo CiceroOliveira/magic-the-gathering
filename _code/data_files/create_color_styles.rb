@@ -22,5 +22,4 @@ Dir.glob("../../assets/img/*.{png,jpg}").sort.each do |file|
   color_file.puts "  background-color: #{colors[2]};"
   color_file.puts "}"
   color_file.puts ""
-
 end

@@ -7,7 +7,7 @@
   tokens:
     RNA: 12
   cards:
-    RNA: 186, 29, 231, 155, 40, 21, 50, 219, 13, 49, 4, 54, 209, 44, 12, 243
+    RNA: 186, 29, 231, 155, 40, 21, 50, 219, 13, 49, 4, 154, 209, 44, 12, 243
 
 - pack_type: Prerelease Pack
   name: Rakdos
@@ -112,3 +112,69 @@
     title: Planeswalker Deck - Domri - Booster Pack
   cards:
     RNA: 136, 60, 134, 155, 44, 202, 17, 216, 133, 236, 98, 53, 150, 218, 252
+
+- pack_type: Guild Kit
+  name: Azorius
+  image:
+    name: guild_kit_azorius.png
+    alt: Azorius Kit Box Picture
+    title: Guild Kit - Azorius
+  tokens:
+    GK2: 5, 5, 5, 5, 5
+  cards:
+    GK2: 52, 65, 61, 57, 66, 62, 71, 59, 63, 56, 72, 67, 67, 54, 69, 69, 70, 58, 64, 53, 77, 77, 77, 77, 78, 78, 78, 78, 78, 78, 78, 78, 79, 79, 79, 79, 79, 79, 79, 79, 73, 76, 76, 68, 75, 60, 55
+    RNA: 109, 85, 213, 197, 63, 255, 256, 255, 256, 115, 71, 74, 222
+  bought_on: 5/2/2019
+
+- pack_type: Guild Kit
+  name: Gruul
+  image:
+    name: guild_kit_gruul.png
+    alt: Gruul Kit Box Picture
+    title: Guild Kit - Gruul
+  tokens:
+    GK2: 5, 5, 5, 5, 5
+  cards:
+    GK2: 52, 65, 61, 57, 66, 62, 71, 59, 63, 56, 72, 67, 67, 54, 69, 69, 70, 58, 64, 53, 77, 77, 77, 77, 78, 78, 78, 78, 78, 78, 78, 78, 79, 79, 79, 79, 79, 79, 79, 79, 73, 76, 76, 68, 75, 60, 55
+    RNA: 109, 85, 213, 197, 63, 255, 256, 255, 256, 115, 71, 74, 222
+  bought_on: 5/2/2019
+
+- pack_type: Guild Kit
+  name: Orzhov
+  image:
+    name: guild_kit_orzhov.png
+    alt: Orzhov Kit Box Picture
+    title: Guild Kit - Orzhov
+  tokens:
+    GK2: 5, 5, 5, 5, 5
+  cards:
+    GK2: 52, 65, 61, 57, 66, 62, 71, 59, 63, 56, 72, 67, 67, 54, 69, 69, 70, 58, 64, 53, 77, 77, 77, 77, 78, 78, 78, 78, 78, 78, 78, 78, 79, 79, 79, 79, 79, 79, 79, 79, 73, 76, 76, 68, 75, 60, 55
+    RNA: 109, 85, 213, 197, 63, 255, 256, 255, 256, 115, 71, 74, 222
+  bought_on: 5/2/2019
+
+
+- pack_type: Guild Kit
+  name: Rakdos
+  image:
+    name: guild_kit_rakdos.png
+    alt: Rakdos Guild Kit Box Picture
+    title: Guild Kit - Rakdos
+  tokens:
+    GK2: 5, 5, 5, 5, 5
+  cards:
+    GK2: 52, 65, 61, 57, 66, 62, 71, 59, 63, 56, 72, 67, 67, 54, 69, 69, 70, 58, 64, 53, 77, 77, 77, 77, 78, 78, 78, 78, 78, 78, 78, 78, 79, 79, 79, 79, 79, 79, 79, 79, 73, 76, 76, 68, 75, 60, 55
+    RNA: 109, 85, 213, 197, 63, 255, 256, 255, 256, 115, 71, 74, 222
+  bought_on: 5/2/2019
+
+- pack_type: Guild Kit
+  name: Simic
+  image:
+    name: guild_kit_simic.png
+    alt: Simic Kit Box Picture
+    title: Guild Kit - Simic
+  tokens:
+    GK2: 5, 5, 5, 5, 5
+  cards:
+    GK2: 52, 65, 61, 57, 66, 62, 71, 59, 63, 56, 72, 67, 67, 54, 69, 69, 70, 58, 64, 53, 77, 77, 77, 77, 78, 78, 78, 78, 78, 78, 78, 78, 79, 79, 79, 79, 79, 79, 79, 79, 73, 76, 76, 68, 75, 60, 55
+    RNA: 109, 85, 213, 197, 63, 255, 256, 255, 256, 115, 71, 74, 222
+  bought_on: 5/2/2019

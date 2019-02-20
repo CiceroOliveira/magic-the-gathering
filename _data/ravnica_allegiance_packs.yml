@@ -60,13 +60,13 @@
       types: Artifact
       count: 1
   - type: Creature
-    count: 7
+    count: 8
     cards:
-    - identifier: RNA155
+    - identifier: RNA12
       card_set: RNA
-      number: '155'
-      name: Azorius Skyguard
-      rarity: Uncommon
+      number: '12'
+      name: Impassioned Orator
+      rarity: Common
       types: Creature
       count: 1
     - identifier: RNA40
@@ -97,6 +97,13 @@
       rarity: Common
       types: Creature
       count: 1
+    - identifier: RNA154
+      card_set: RNA
+      number: '154'
+      name: Azorius Knight-Arbiter
+      rarity: Common
+      types: Creature
+      count: 1
     - identifier: RNA44
       card_set: RNA
       number: '44'
@@ -104,28 +111,21 @@
       rarity: Common
       types: Creature
       count: 1
-    - identifier: RNA12
+    - identifier: RNA155
       card_set: RNA
-      number: '12'
-      name: Impassioned Orator
-      rarity: Common
+      number: '155'
+      name: Azorius Skyguard
+      rarity: Uncommon
       types: Creature
       count: 1
   - type: Enchantment
-    count: 2
+    count: 1
     cards:
     - identifier: RNA21
       card_set: RNA
       number: '21'
       name: Sky Tether
       rarity: Uncommon
-      types: Enchantment
-      count: 1
-    - identifier: RNA54
-      card_set: RNA
-      number: '54'
-      name: Slimebind
-      rarity: Common
       types: Enchantment
       count: 1
   - type: Land
@@ -138,6 +138,7 @@
       rarity: Common
       types: Land
       count: 1
+  count: 16
 - pack_type: Prerelease Pack
   name: Rakdos
   tokens:
@@ -270,6 +271,7 @@
       rarity: Common
       types: Land
       count: 1
+  count: 15
 - pack_type: Theme Booster
   name: Azorius
   image:
@@ -505,6 +507,7 @@
       rarity: Common
       types: Sorcery
       count: 1
+  count: 35
 - pack_type: Theme Booster
   name: Gruul
   image:
@@ -740,6 +743,7 @@
       rarity: Uncommon
       types: Enchantment
       count: 1
+  count: 35
 - pack_type: Theme Booster
   name: Gruul
   image:
@@ -966,6 +970,7 @@
       types: Land
       count: 1
   bought_on: 5/2/2019
+  count: 35
 - pack_type: Theme Booster
   name: Orzhov
   image:
@@ -1201,6 +1206,7 @@
       rarity: Common
       types: Enchantment
       count: 1
+  count: 35
 - pack_type: Theme Booster
   name: Rakdos
   image:
@@ -1419,6 +1425,7 @@
       rarity: Mythic
       types: Enchantment
       count: 1
+  count: 35
 - pack_type: Theme Booster
   name: Rakdos
   image:
@@ -1641,6 +1648,7 @@
       types: Land
       count: 1
   bought_on: 5/2/2019
+  count: 35
 - pack_type: Theme Booster
   name: Simic
   image:
@@ -1883,6 +1891,7 @@
       rarity: Rare
       types: Enchantment
       count: 1
+  count: 35
 - pack_type: Planeswalker Deck
   name: Domri
   image:
@@ -2062,6 +2071,7 @@
       rarity: Common
       types: Sorcery
       count: 4
+  count: 60
 - pack_type: Planeswalker Deck - Booster
   name: Domri
   image:
@@ -2189,6 +2199,7 @@
       rarity: Common
       types: Land
       count: 1
+  count: 15
 - pack_type: Planeswalker Deck - Booster
   name: Domri
   image:
@@ -2316,3 +2327,609 @@
       rarity: Common
       types: Land
       count: 1
+  count: 15
+- pack_type: Guild Kit
+  name: Azorius
+  image:
+    name: guild_kit_azorius.png
+    alt: Azorius Kit Box Picture
+    title: Guild Kit - Azorius
+  tokens:
+    GK2: 5, 5, 5, 5, 5
+  cards:
+  - type: Creature
+    count: 5
+    cards:
+    - identifier: GK252
+      card_set: GK2
+      number: '52'
+      name: Rakdos, Lord of Riots
+      rarity: Mythic
+      types: Creature
+      count: 1
+    - identifier: RNA109
+      card_set: RNA
+      number: '109'
+      name: Rix Maadi Reveler
+      rarity: Rare
+      types: Creature
+      count: 1
+    - identifier: RNA85
+      card_set: RNA
+      number: '85'
+      name: Spawn of Mayhem
+      rarity: Mythic
+      types: Creature
+      count: 1
+    - identifier: RNA197
+      card_set: RNA
+      number: '197'
+      name: Rakdos Firewheeler
+      rarity: Uncommon
+      types: Creature
+      count: 1
+    - identifier: RNA63
+      card_set: RNA
+      number: '63'
+      name: Blade Juggler
+      rarity: Common
+      types: Creature
+      count: 1
+  - type: Land
+    count: 20
+    cards:
+    - identifier: RNA256
+      card_set: RNA
+      number: '256'
+      name: Rakdos Guildgate
+      rarity: Common
+      types: Land
+      count: 2
+    - identifier: GK278
+      card_set: GK2
+      number: '78'
+      name: Swamp
+      rarity: Common
+      types: Land
+      count: 8
+    - identifier: GK279
+      card_set: GK2
+      number: '79'
+      name: Mountain
+      rarity: Common
+      types: Land
+      count: 8
+    - identifier: RNA255
+      card_set: RNA
+      number: '255'
+      name: Rakdos Guildgate
+      rarity: Common
+      types: Land
+      count: 2
+  - type: Enchantment
+    count: 2
+    cards:
+    - identifier: RNA213
+      card_set: RNA
+      number: '213'
+      name: Theater of Horrors
+      rarity: Rare
+      types: Enchantment
+      count: 1
+    - identifier: RNA74
+      card_set: RNA
+      number: '74'
+      name: Font of Agonies
+      rarity: Rare
+      types: Enchantment
+      count: 1
+  - type: Sorcery
+    count: 3
+    cards:
+    - identifier: RNA115
+      card_set: RNA
+      number: '115'
+      name: Skewer the Critics
+      rarity: Common
+      types: Sorcery
+      count: 1
+    - identifier: RNA71
+      card_set: RNA
+      number: '71'
+      name: Dead Revels
+      rarity: Common
+      types: Sorcery
+      count: 1
+    - identifier: RNA222
+      card_set: RNA
+      number: '222'
+      name: Carnage/Carnival
+      rarity: Uncommon
+      types: Sorcery
+      count: 1
+  bought_on: 5/2/2019
+  count: 30
+- pack_type: Guild Kit
+  name: Gruul
+  image:
+    name: guild_kit_gruul.png
+    alt: Gruul Kit Box Picture
+    title: Guild Kit - Gruul
+  tokens:
+    GK2: 5, 5, 5, 5, 5
+  cards:
+  - type: Creature
+    count: 5
+    cards:
+    - identifier: GK252
+      card_set: GK2
+      number: '52'
+      name: Rakdos, Lord of Riots
+      rarity: Mythic
+      types: Creature
+      count: 1
+    - identifier: RNA109
+      card_set: RNA
+      number: '109'
+      name: Rix Maadi Reveler
+      rarity: Rare
+      types: Creature
+      count: 1
+    - identifier: RNA85
+      card_set: RNA
+      number: '85'
+      name: Spawn of Mayhem
+      rarity: Mythic
+      types: Creature
+      count: 1
+    - identifier: RNA197
+      card_set: RNA
+      number: '197'
+      name: Rakdos Firewheeler
+      rarity: Uncommon
+      types: Creature
+      count: 1
+    - identifier: RNA63
+      card_set: RNA
+      number: '63'
+      name: Blade Juggler
+      rarity: Common
+      types: Creature
+      count: 1
+  - type: Land
+    count: 20
+    cards:
+    - identifier: RNA256
+      card_set: RNA
+      number: '256'
+      name: Rakdos Guildgate
+      rarity: Common
+      types: Land
+      count: 2
+    - identifier: GK278
+      card_set: GK2
+      number: '78'
+      name: Swamp
+      rarity: Common
+      types: Land
+      count: 8
+    - identifier: GK279
+      card_set: GK2
+      number: '79'
+      name: Mountain
+      rarity: Common
+      types: Land
+      count: 8
+    - identifier: RNA255
+      card_set: RNA
+      number: '255'
+      name: Rakdos Guildgate
+      rarity: Common
+      types: Land
+      count: 2
+  - type: Enchantment
+    count: 2
+    cards:
+    - identifier: RNA213
+      card_set: RNA
+      number: '213'
+      name: Theater of Horrors
+      rarity: Rare
+      types: Enchantment
+      count: 1
+    - identifier: RNA74
+      card_set: RNA
+      number: '74'
+      name: Font of Agonies
+      rarity: Rare
+      types: Enchantment
+      count: 1
+  - type: Sorcery
+    count: 3
+    cards:
+    - identifier: RNA115
+      card_set: RNA
+      number: '115'
+      name: Skewer the Critics
+      rarity: Common
+      types: Sorcery
+      count: 1
+    - identifier: RNA71
+      card_set: RNA
+      number: '71'
+      name: Dead Revels
+      rarity: Common
+      types: Sorcery
+      count: 1
+    - identifier: RNA222
+      card_set: RNA
+      number: '222'
+      name: Carnage/Carnival
+      rarity: Uncommon
+      types: Sorcery
+      count: 1
+  bought_on: 5/2/2019
+  count: 30
+- pack_type: Guild Kit
+  name: Orzhov
+  image:
+    name: guild_kit_orzhov.png
+    alt: Orzhov Kit Box Picture
+    title: Guild Kit - Orzhov
+  tokens:
+    GK2: 5, 5, 5, 5, 5
+  cards:
+  - type: Creature
+    count: 5
+    cards:
+    - identifier: GK252
+      card_set: GK2
+      number: '52'
+      name: Rakdos, Lord of Riots
+      rarity: Mythic
+      types: Creature
+      count: 1
+    - identifier: RNA109
+      card_set: RNA
+      number: '109'
+      name: Rix Maadi Reveler
+      rarity: Rare
+      types: Creature
+      count: 1
+    - identifier: RNA85
+      card_set: RNA
+      number: '85'
+      name: Spawn of Mayhem
+      rarity: Mythic
+      types: Creature
+      count: 1
+    - identifier: RNA197
+      card_set: RNA
+      number: '197'
+      name: Rakdos Firewheeler
+      rarity: Uncommon
+      types: Creature
+      count: 1
+    - identifier: RNA63
+      card_set: RNA
+      number: '63'
+      name: Blade Juggler
+      rarity: Common
+      types: Creature
+      count: 1
+  - type: Land
+    count: 20
+    cards:
+    - identifier: RNA256
+      card_set: RNA
+      number: '256'
+      name: Rakdos Guildgate
+      rarity: Common
+      types: Land
+      count: 2
+    - identifier: GK278
+      card_set: GK2
+      number: '78'
+      name: Swamp
+      rarity: Common
+      types: Land
+      count: 8
+    - identifier: GK279
+      card_set: GK2
+      number: '79'
+      name: Mountain
+      rarity: Common
+      types: Land
+      count: 8
+    - identifier: RNA255
+      card_set: RNA
+      number: '255'
+      name: Rakdos Guildgate
+      rarity: Common
+      types: Land
+      count: 2
+  - type: Enchantment
+    count: 2
+    cards:
+    - identifier: RNA213
+      card_set: RNA
+      number: '213'
+      name: Theater of Horrors
+      rarity: Rare
+      types: Enchantment
+      count: 1
+    - identifier: RNA74
+      card_set: RNA
+      number: '74'
+      name: Font of Agonies
+      rarity: Rare
+      types: Enchantment
+      count: 1
+  - type: Sorcery
+    count: 3
+    cards:
+    - identifier: RNA115
+      card_set: RNA
+      number: '115'
+      name: Skewer the Critics
+      rarity: Common
+      types: Sorcery
+      count: 1
+    - identifier: RNA71
+      card_set: RNA
+      number: '71'
+      name: Dead Revels
+      rarity: Common
+      types: Sorcery
+      count: 1
+    - identifier: RNA222
+      card_set: RNA
+      number: '222'
+      name: Carnage/Carnival
+      rarity: Uncommon
+      types: Sorcery
+      count: 1
+  bought_on: 5/2/2019
+  count: 30
+- pack_type: Guild Kit
+  name: Rakdos
+  image:
+    name: guild_kit_rakdos.png
+    alt: Rakdos Guild Kit Box Picture
+    title: Guild Kit - Rakdos
+  tokens:
+    GK2: 5, 5, 5, 5, 5
+  cards:
+  - type: Creature
+    count: 5
+    cards:
+    - identifier: GK252
+      card_set: GK2
+      number: '52'
+      name: Rakdos, Lord of Riots
+      rarity: Mythic
+      types: Creature
+      count: 1
+    - identifier: RNA109
+      card_set: RNA
+      number: '109'
+      name: Rix Maadi Reveler
+      rarity: Rare
+      types: Creature
+      count: 1
+    - identifier: RNA85
+      card_set: RNA
+      number: '85'
+      name: Spawn of Mayhem
+      rarity: Mythic
+      types: Creature
+      count: 1
+    - identifier: RNA197
+      card_set: RNA
+      number: '197'
+      name: Rakdos Firewheeler
+      rarity: Uncommon
+      types: Creature
+      count: 1
+    - identifier: RNA63
+      card_set: RNA
+      number: '63'
+      name: Blade Juggler
+      rarity: Common
+      types: Creature
+      count: 1
+  - type: Land
+    count: 20
+    cards:
+    - identifier: RNA256
+      card_set: RNA
+      number: '256'
+      name: Rakdos Guildgate
+      rarity: Common
+      types: Land
+      count: 2
+    - identifier: GK278
+      card_set: GK2
+      number: '78'
+      name: Swamp
+      rarity: Common
+      types: Land
+      count: 8
+    - identifier: GK279
+      card_set: GK2
+      number: '79'
+      name: Mountain
+      rarity: Common
+      types: Land
+      count: 8
+    - identifier: RNA255
+      card_set: RNA
+      number: '255'
+      name: Rakdos Guildgate
+      rarity: Common
+      types: Land
+      count: 2
+  - type: Enchantment
+    count: 2
+    cards:
+    - identifier: RNA213
+      card_set: RNA
+      number: '213'
+      name: Theater of Horrors
+      rarity: Rare
+      types: Enchantment
+      count: 1
+    - identifier: RNA74
+      card_set: RNA
+      number: '74'
+      name: Font of Agonies
+      rarity: Rare
+      types: Enchantment
+      count: 1
+  - type: Sorcery
+    count: 3
+    cards:
+    - identifier: RNA115
+      card_set: RNA
+      number: '115'
+      name: Skewer the Critics
+      rarity: Common
+      types: Sorcery
+      count: 1
+    - identifier: RNA71
+      card_set: RNA
+      number: '71'
+      name: Dead Revels
+      rarity: Common
+      types: Sorcery
+      count: 1
+    - identifier: RNA222
+      card_set: RNA
+      number: '222'
+      name: Carnage/Carnival
+      rarity: Uncommon
+      types: Sorcery
+      count: 1
+  bought_on: 5/2/2019
+  count: 30
+- pack_type: Guild Kit
+  name: Simic
+  image:
+    name: guild_kit_simic.png
+    alt: Simic Kit Box Picture
+    title: Guild Kit - Simic
+  tokens:
+    GK2: 5, 5, 5, 5, 5
+  cards:
+  - type: Creature
+    count: 5
+    cards:
+    - identifier: GK252
+      card_set: GK2
+      number: '52'
+      name: Rakdos, Lord of Riots
+      rarity: Mythic
+      types: Creature
+      count: 1
+    - identifier: RNA109
+      card_set: RNA
+      number: '109'
+      name: Rix Maadi Reveler
+      rarity: Rare
+      types: Creature
+      count: 1
+    - identifier: RNA85
+      card_set: RNA
+      number: '85'
+      name: Spawn of Mayhem
+      rarity: Mythic
+      types: Creature
+      count: 1
+    - identifier: RNA197
+      card_set: RNA
+      number: '197'
+      name: Rakdos Firewheeler
+      rarity: Uncommon
+      types: Creature
+      count: 1
+    - identifier: RNA63
+      card_set: RNA
+      number: '63'
+      name: Blade Juggler
+      rarity: Common
+      types: Creature
+      count: 1
+  - type: Land
+    count: 20
+    cards:
+    - identifier: RNA256
+      card_set: RNA
+      number: '256'
+      name: Rakdos Guildgate
+      rarity: Common
+      types: Land
+      count: 2
+    - identifier: GK278
+      card_set: GK2
+      number: '78'
+      name: Swamp
+      rarity: Common
+      types: Land
+      count: 8
+    - identifier: GK279
+      card_set: GK2
+      number: '79'
+      name: Mountain
+      rarity: Common
+      types: Land
+      count: 8
+    - identifier: RNA255
+      card_set: RNA
+      number: '255'
+      name: Rakdos Guildgate
+      rarity: Common
+      types: Land
+      count: 2
+  - type: Enchantment
+    count: 2
+    cards:
+    - identifier: RNA213
+      card_set: RNA
+      number: '213'
+      name: Theater of Horrors
+      rarity: Rare
+      types: Enchantment
+      count: 1
+    - identifier: RNA74
+      card_set: RNA
+      number: '74'
+      name: Font of Agonies
+      rarity: Rare
+      types: Enchantment
+      count: 1
+  - type: Sorcery
+    count: 3
+    cards:
+    - identifier: RNA115
+      card_set: RNA
+      number: '115'
+      name: Skewer the Critics
+      rarity: Common
+      types: Sorcery
+      count: 1
+    - identifier: RNA71
+      card_set: RNA
+      number: '71'
+      name: Dead Revels
+      rarity: Common
+      types: Sorcery
+      count: 1
+    - identifier: RNA222
+      card_set: RNA
+      number: '222'
+      name: Carnage/Carnival
+      rarity: Uncommon
+      types: Sorcery
+      count: 1
+  bought_on: 5/2/2019
+  count: 30

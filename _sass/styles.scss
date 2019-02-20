@@ -10,16 +10,18 @@ img.planeswalker-deck-booster {
 }
 
 img.theme-booster {
-  width: 300px;
+  width: 200px;
   float: right;
 }
 
 .page-content {
-  background-color: #77766C;
+  background-color: #eee;
 }
 
 .set-pack-wrapper {
     padding: 1em;
     border: 0.4em solid transparent;
     margin-bottom: 1em;
+    background: url("img/golgari_watermark.png") no-repeat center;
+    background-size: 90%;
 }

@@ -20,9 +20,10 @@ begin
 
   packs.each do |set|
     @cards = Array.new
+    @cards_in_set = Hash.new
+    cards_in_pack_count = 0
 
     set["cards"].each do |card_set, cards|
-      @cards_in_set = Hash.new
 
       cards.lstrip.split(", ").each do |card_number|
         card = @ds.select(:name, :rarity, :layout, :types).where(setCode: card_set, number: card_number).all
@@ -48,18 +49,17 @@ begin
 
       end
 
-      @cards_in_set.each do |key, value|
-        @cards_in_set[key] = value.sort_by {|h| h[:identifier] }.group_by{ |h| h }.map{|k, v| k['count']=v.size; k}
-        # @cards_in_set[key] = Hash[value.group_by{ |h| [h['identifier'], h]}.map{ |k, v| [k, v.count]}]
-        # value = value.uniq.map {|h| h[count: value.count(h)]; h}
-        puts value
-      end
-
-      @cards_in_set.each do |key, value|
-        @cards << {'type' => key, 'count' => value.sum {|h| h['count']},'cards' => value}
-      end
-
     end
+
+    @cards_in_set.each do |key, value|
+      @cards_in_set[key] = value.sort_by {|h| h[:identifier] }.group_by{ |h| h }.map{|k, v| k['count']=v.size; k}
+    end
+
+    @cards_in_set.each do |key, value|
+      @cards << {'type' => key, 'count' => value.sum {|h| h['count']},'cards' => value}
+    end
+
+    set['count'] = @cards.sum { |card| card['count'] }
 
     set["cards"] = @cards
 

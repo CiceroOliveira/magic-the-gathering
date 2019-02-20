@@ -16,9 +16,9 @@ layout: default
 
     {% for pack in site.data[page.data_file] %}
       {% assign style = pack.image.name | split: "." %}
-      <div class="{{ style[0] }} set-pack-wrapper">
+      <div class="{{ style[0] }} set-pack-wrapper {{ style[0] | watermark_background }}">
         <h2>
-          {{ pack.name }} - {{ pack.pack_type }}
+          {{ pack.name }} - {{ pack.pack_type }} ({{pack.count}})
         </h2>
 
         {% if pack.image %}
@@ -29,7 +29,7 @@ layout: default
         <h3>{{ card_group.type }} ({{ card_group.count }})</h3>
         <ul>
           {% for card in card_group.cards %}
-          <li>{{card.count}} {{card.name}} {{card.rarity}} ({{ card.card_set }}-{{card.number}})</li>
+          <li>{{card.count}} {{card.name}} - {{card.rarity}} ({{ card.card_set }}-{{card.number}}) <i class="ms ms-r ms-cost ms-shadow"></i></li>
           {% endfor %}
         </ul>
         {% endfor %}
