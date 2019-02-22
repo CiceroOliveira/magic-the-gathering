@@ -1,0 +1,655 @@
+---
+- pack_type: Sample Deck
+  name: White
+  image:
+    name: welcome_deck_2019.png
+    alt: Sample Decks Box Picture
+    title: Sample Decks
+  cards:
+  - type: Creature
+    count: 22
+    cards:
+    - identifier: m1936
+      card_set: m19
+      number: '36'
+      name: Rustwing Falcon
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{W}"
+      count: 1
+    - identifier: m19118
+      card_set: m19
+      number: '118'
+      name: Skeleton Archer
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{3}{B}"
+      count: 1
+    - identifier: m1992
+      card_set: m19
+      number: '92'
+      name: Diregraf Ghoul
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{B}"
+      count: 1
+    - identifier: m19126
+      card_set: m19
+      number: '126'
+      name: Walking Corpse
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{B}"
+      count: 2
+    - identifier: m19119
+      card_set: m19
+      number: '119'
+      name: Skymarch Bloodletter
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{B}"
+      count: 1
+    - identifier: m1998
+      card_set: m19
+      number: '98'
+      name: Gravedigger
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{3}{B}"
+      count: 1
+    - identifier: m19295
+      card_set: m19
+      number: '295'
+      name: Tattered Mummy
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{B}"
+      count: 1
+    - identifier: m1987
+      card_set: m19
+      number: '87'
+      name: Bogstomper
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{4}{B}{B}"
+      count: 1
+    - identifier: m19125
+      card_set: m19
+      number: '125'
+      name: Vampire Sovereign
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{3}{B}{B}"
+      count: 1
+    - identifier: m19312
+      card_set: m19
+      number: '312'
+      name: Grasping Scoundrel
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{B}"
+      count: 1
+    - identifier: m19284
+      card_set: m19
+      number: '284'
+      name: Serra's Guardian
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{4}{W}{W}"
+      count: 1
+    - identifier: m1931
+      card_set: m19
+      number: '31'
+      name: Oreskos Swiftclaw
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{W}"
+      count: 1
+    - identifier: m1932
+      card_set: m19
+      number: '32'
+      name: Pegasus Courser
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{W}"
+      count: 1
+    - identifier: m1938
+      card_set: m19
+      number: '38'
+      name: Star-Crowned Stag
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{3}{W}"
+      count: 1
+    - identifier: m1924
+      card_set: m19
+      number: '24'
+      name: Loxodon Line Breaker
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{W}"
+      count: 2
+    - identifier: m19285
+      card_set: m19
+      number: '285'
+      name: Silverbeak Griffin
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{W}{W}"
+      count: 1
+    - identifier: m1911
+      card_set: m19
+      number: '11'
+      name: Dwarven Priest
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{3}{W}"
+      count: 1
+    - identifier: m1913
+      card_set: m19
+      number: '13'
+      name: Herald of Faith
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{3}{W}{W}"
+      count: 1
+    - identifier: m19307
+      card_set: m19
+      number: '307'
+      name: Sun Sentinel
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{W}"
+      count: 1
+    - identifier: m19293
+      card_set: m19
+      number: '293'
+      name: Gravewaker
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{4}{B}{B}"
+      count: 1
+  - type: Basic Land
+    count: 26
+    cards:
+    - identifier: m19261
+      card_set: m19
+      number: '261'
+      name: Plains
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 3
+    - identifier: m19271
+      card_set: m19
+      number: '271'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 4
+    - identifier: m19269
+      card_set: m19
+      number: '269'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 3
+    - identifier: m19272
+      card_set: m19
+      number: '272'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 3
+    - identifier: m19270
+      card_set: m19
+      number: '270'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 3
+    - identifier: m19262
+      card_set: m19
+      number: '262'
+      name: Plains
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 3
+    - identifier: m19264
+      card_set: m19
+      number: '264'
+      name: Plains
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 4
+    - identifier: m19263
+      card_set: m19
+      number: '263'
+      name: Plains
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 3
+  - type: Instant
+    count: 6
+    cards:
+    - identifier: m19122
+      card_set: m19
+      number: '122'
+      name: Strangling Spores
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{3}{B}"
+      count: 2
+    - identifier: m19110
+      card_set: m19
+      number: '110'
+      name: Murder
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{1}{B}{B}"
+      count: 1
+    - identifier: m1928
+      card_set: m19
+      number: '28'
+      name: Mighty Leap
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{1}{W}"
+      count: 1
+    - identifier: m1935
+      card_set: m19
+      number: '35'
+      name: Revitalize
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{1}{W}"
+      count: 1
+    - identifier: m1915
+      card_set: m19
+      number: '15'
+      name: Inspired Charge
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{2}{W}{W}"
+      count: 1
+  - type: Sorcery
+    count: 3
+    cards:
+    - identifier: m19105
+      card_set: m19
+      number: '105'
+      name: Lich's Caress
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{3}{B}{B}"
+      count: 1
+    - identifier: m19120
+      card_set: m19
+      number: '120'
+      name: Sovereign's Bite
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{1}{B}"
+      count: 1
+    - identifier: m1940
+      card_set: m19
+      number: '40'
+      name: Take Vengeance
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{1}{W}"
+      count: 1
+  - type: Enchantment
+    count: 3
+    cards:
+    - identifier: m19103
+      card_set: m19
+      number: '103'
+      name: Infernal Scarring
+      rarity: Common
+      card_type: Enchantment
+      mana_cost: "{1}{B}"
+      count: 1
+    - identifier: m1919
+      card_set: m19
+      number: '19'
+      name: Knight's Pledge
+      rarity: Common
+      card_type: Enchantment
+      mana_cost: "{1}{W}"
+      count: 1
+    - identifier: m1925
+      card_set: m19
+      number: '25'
+      name: Luminous Bonds
+      rarity: Common
+      card_type: Enchantment
+      mana_cost: "{2}{W}"
+      count: 1
+  count: 60
+- pack_type: Sample Deck
+  name: Red
+  image:
+    name: welcome_deck_2019.png
+    alt: Sample Decks Box Picture
+    title: Sample Decks
+  cards:
+  - type: Instant
+    count: 8
+    cards:
+    - identifier: m19122
+      card_set: m19
+      number: '122'
+      name: Strangling Spores
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{3}{B}"
+      count: 2
+    - identifier: m19152
+      card_set: m19
+      number: '152'
+      name: Lightning Strike
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{1}{R}"
+      count: 1
+    - identifier: m19313
+      card_set: m19
+      number: '313'
+      name: Radiating Lightning
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{3}{R}"
+      count: 1
+    - identifier: m19165
+      card_set: m19
+      number: '165'
+      name: Trumpet Blast
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{2}{R}"
+      count: 1
+    - identifier: m19139
+      card_set: m19
+      number: '139'
+      name: Electrify
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{3}{R}"
+      count: 1
+    - identifier: m19110
+      card_set: m19
+      number: '110'
+      name: Murder
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{1}{B}{B}"
+      count: 1
+    - identifier: m19156
+      card_set: m19
+      number: '156'
+      name: Shock
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{R}"
+      count: 1
+  - type: Creature
+    count: 22
+    cards:
+    - identifier: m19312
+      card_set: m19
+      number: '312'
+      name: Grasping Scoundrel
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{B}"
+      count: 1
+    - identifier: m19297
+      card_set: m19
+      number: '297'
+      name: Kargan Dragonrider
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{R}"
+      count: 2
+    - identifier: m19153
+      card_set: m19
+      number: '153'
+      name: Onakke Ogre
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{R}"
+      count: 2
+    - identifier: m19147
+      card_set: m19
+      number: '147'
+      name: Hostile Minotaur
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{3}{R}"
+      count: 2
+    - identifier: m19159
+      card_set: m19
+      number: '159'
+      name: Sparktongue Dragon
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{3}{R}{R}"
+      count: 1
+    - identifier: m19141
+      card_set: m19
+      number: '141'
+      name: Fire Elemental
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{3}{R}{R}"
+      count: 1
+    - identifier: m19167
+      card_set: m19
+      number: '167'
+      name: Volcanic Dragon
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{4}{R}{R}"
+      count: 1
+    - identifier: m19143
+      card_set: m19
+      number: '143'
+      name: Goblin Motivator
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{R}"
+      count: 1
+    - identifier: m19293
+      card_set: m19
+      number: '293'
+      name: Gravewaker
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{4}{B}{B}"
+      count: 1
+    - identifier: m19118
+      card_set: m19
+      number: '118'
+      name: Skeleton Archer
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{3}{B}"
+      count: 1
+    - identifier: m1992
+      card_set: m19
+      number: '92'
+      name: Diregraf Ghoul
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{B}"
+      count: 1
+    - identifier: m19126
+      card_set: m19
+      number: '126'
+      name: Walking Corpse
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{B}"
+      count: 2
+    - identifier: m19119
+      card_set: m19
+      number: '119'
+      name: Skymarch Bloodletter
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{B}"
+      count: 1
+    - identifier: m1998
+      card_set: m19
+      number: '98'
+      name: Gravedigger
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{3}{B}"
+      count: 1
+    - identifier: m19295
+      card_set: m19
+      number: '295'
+      name: Tattered Mummy
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{B}"
+      count: 1
+    - identifier: m1987
+      card_set: m19
+      number: '87'
+      name: Bogstomper
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{4}{B}{B}"
+      count: 1
+    - identifier: m19125
+      card_set: m19
+      number: '125'
+      name: Vampire Sovereign
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{3}{B}{B}"
+      count: 1
+    - identifier: m19300
+      card_set: m19
+      number: '300'
+      name: Shivan Dragon
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{4}{R}{R}"
+      count: 1
+  - type: Basic Land
+    count: 26
+    cards:
+    - identifier: m19269
+      card_set: m19
+      number: '269'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 3
+    - identifier: m19276
+      card_set: m19
+      number: '276'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 4
+    - identifier: m19275
+      card_set: m19
+      number: '275'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 3
+    - identifier: m19274
+      card_set: m19
+      number: '274'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 3
+    - identifier: m19273
+      card_set: m19
+      number: '273'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 3
+    - identifier: m19270
+      card_set: m19
+      number: '270'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 3
+    - identifier: m19271
+      card_set: m19
+      number: '271'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 4
+    - identifier: m19272
+      card_set: m19
+      number: '272'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 3
+  - type: Sorcery
+    count: 3
+    cards:
+    - identifier: m19140
+      card_set: m19
+      number: '140'
+      name: Fiery Finish
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{4}{R}{R}"
+      count: 1
+    - identifier: m19105
+      card_set: m19
+      number: '105'
+      name: Lich's Caress
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{3}{B}{B}"
+      count: 1
+    - identifier: m19120
+      card_set: m19
+      number: '120'
+      name: Sovereign's Bite
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{1}{B}"
+      count: 1
+  - type: Enchantment
+    count: 1
+    cards:
+    - identifier: m19103
+      card_set: m19
+      number: '103'
+      name: Infernal Scarring
+      rarity: Common
+      card_type: Enchantment
+      mana_cost: "{1}{B}"
+      count: 1
+  count: 60

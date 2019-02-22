@@ -1,0 +1,759 @@
+---
+- pack_type: Commander
+  name: Mind Seize
+  image:
+    name: commander_mind_seize.png
+    alt: Commander 213 Mind Seize Box Picture
+    title: Commander 2013 - Mind Seize
+  cards:
+  - type: Legendary Creature
+    count: 4
+    cards:
+    - identifier: c13194
+      card_set: c13
+      number: '194'
+      name: Jeleva, Nephalia's Scourge
+      rarity: Mythic
+      card_type: Legendary Creature
+      mana_cost: "{1}{U}{B}{R}"
+      count: 1
+    - identifier: c13201
+      card_set: c13
+      number: '201'
+      name: Nekusar, the Mindrazer
+      rarity: Mythic
+      card_type: Legendary Creature
+      mana_cost: "{2}{U}{B}{R}"
+      count: 1
+    - identifier: c13221
+      card_set: c13
+      number: '221'
+      name: Thraximundar
+      rarity: Mythic
+      card_type: Legendary Creature
+      mana_cost: "{4}{U}{B}{R}"
+      count: 1
+    - identifier: c1364
+      card_set: c13
+      number: '64'
+      name: Uyo, Silent Prophet
+      rarity: Rare
+      card_type: Legendary Creature
+      mana_cost: "{4}{U}{U}"
+      count: 1
+  - type: Creature
+    count: 16
+    cards:
+    - identifier: c1370
+      card_set: c13
+      number: '70'
+      name: Baleful Force
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{5}{B}{B}{B}"
+      count: 1
+    - identifier: c1344
+      card_set: c13
+      number: '44'
+      name: Fog Bank
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{1}{U}"
+      count: 1
+    - identifier: c1383
+      card_set: c13
+      number: '83'
+      name: Nightscape Familiar
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{B}"
+      count: 1
+    - identifier: c13202
+      card_set: c13
+      number: '202'
+      name: Nivix Guildmage
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{U}{R}"
+      count: 1
+    - identifier: c1345
+      card_set: c13
+      number: '45'
+      name: Guard Gomazoa
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{2}{U}"
+      count: 1
+    - identifier: c13112
+      card_set: c13
+      number: '112'
+      name: Guttersnipe
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{2}{R}"
+      count: 1
+    - identifier: c1343
+      card_set: c13
+      number: '43'
+      name: Echo Mage
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{1}{U}{U}"
+      count: 1
+    - identifier: c1348
+      card_set: c13
+      number: '48'
+      name: Jace's Archivist
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{1}{U}{U}"
+      count: 1
+    - identifier: c1363
+      card_set: c13
+      number: '63'
+      name: True-Name Nemesis
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{1}{U}{U}"
+      count: 1
+    - identifier: c1397
+      card_set: c13
+      number: '97'
+      name: Vampire Nighthawk
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{1}{B}{B}"
+      count: 1
+    - identifier: c13126
+      card_set: c13
+      number: '126'
+      name: Terra Ravager
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{2}{R}{R}"
+      count: 1
+    - identifier: c1340
+      card_set: c13
+      number: '40'
+      name: Diviner Spirit
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{4}{U}"
+      count: 1
+    - identifier: c1350
+      card_set: c13
+      number: '50'
+      name: Mnemonic Wall
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{4}{U}"
+      count: 1
+    - identifier: c1380
+      card_set: c13
+      number: '80'
+      name: Hooded Horror
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{4}{B}"
+      count: 1
+    - identifier: c13103
+      card_set: c13
+      number: '103'
+      name: Charmbreaker Devils
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{5}{R}"
+      count: 1
+    - identifier: c1330
+      card_set: c13
+      number: '30'
+      name: Augur of Bolas
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{1}{U}"
+      count: 1
+  - type: Artifact Creature
+    count: 2
+    cards:
+    - identifier: c13177
+      card_set: c13
+      number: '177'
+      name: Baleful Strix
+      rarity: Uncommon
+      card_type: Artifact Creature
+      mana_cost: "{U}{B}"
+      count: 1
+    - identifier: c13269
+      card_set: c13
+      number: '269'
+      name: Viseling
+      rarity: Uncommon
+      card_type: Artifact Creature
+      mana_cost: "{4}"
+      count: 1
+  - type: Artifact
+    count: 7
+    cards:
+    - identifier: c13259
+      card_set: c13
+      number: '259'
+      name: Sol Ring
+      rarity: Uncommon
+      card_type: Artifact
+      mana_cost: "{1}"
+      count: 1
+    - identifier: c13270
+      card_set: c13
+      number: '270'
+      name: Wayfarer's Bauble
+      rarity: Common
+      card_type: Artifact
+      mana_cost: "{1}"
+      count: 1
+    - identifier: c13235
+      card_set: c13
+      number: '235'
+      name: Armillary Sphere
+      rarity: Common
+      card_type: Artifact
+      mana_cost: "{2}"
+      count: 1
+    - identifier: c13263
+      card_set: c13
+      number: '263'
+      name: Swiftfoot Boots
+      rarity: Uncommon
+      card_type: Artifact
+      mana_cost: "{2}"
+      count: 1
+    - identifier: c13251
+      card_set: c13
+      number: '251'
+      name: Obelisk of Grixis
+      rarity: Common
+      card_type: Artifact
+      mana_cost: "{3}"
+      count: 1
+    - identifier: c13265
+      card_set: c13
+      number: '265'
+      name: Temple Bell
+      rarity: Rare
+      card_type: Artifact
+      mana_cost: "{3}"
+      count: 1
+    - identifier: c13243
+      card_set: c13
+      number: '243'
+      name: Eye of Doom
+      rarity: Rare
+      card_type: Artifact
+      mana_cost: "{4}"
+      count: 1
+  - type: Legendary Artifact
+    count: 1
+    cards:
+    - identifier: c13246
+      card_set: c13
+      number: '246'
+      name: Mirari
+      rarity: Rare
+      card_type: Legendary Artifact
+      mana_cost: "{5}"
+      count: 1
+  - type: Enchantment
+    count: 7
+    cards:
+    - identifier: c1336
+      card_set: c13
+      number: '36'
+      name: Curse of Inertia
+      rarity: Uncommon
+      card_type: Enchantment
+      mana_cost: "{2}{U}"
+      count: 1
+    - identifier: c1353
+      card_set: c13
+      number: '53'
+      name: Propaganda
+      rarity: Uncommon
+      card_type: Enchantment
+      mana_cost: "{2}{U}"
+      count: 1
+    - identifier: c1371
+      card_set: c13
+      number: '71'
+      name: Curse of Shallow Graves
+      rarity: Uncommon
+      card_type: Enchantment
+      mana_cost: "{2}{B}"
+      count: 1
+    - identifier: c13105
+      card_set: c13
+      number: '105'
+      name: Curse of Chaos
+      rarity: Uncommon
+      card_type: Enchantment
+      mana_cost: "{2}{R}"
+      count: 1
+    - identifier: c13233
+      card_set: c13
+      number: '233'
+      name: Spiteful Visions
+      rarity: Rare
+      card_type: Enchantment
+      mana_cost: "{2}{B/R}{B/R}"
+      count: 1
+    - identifier: c1329
+      card_set: c13
+      number: '29'
+      name: Arcane Melee
+      rarity: Rare
+      card_type: Enchantment
+      mana_cost: "{4}{U}"
+      count: 1
+    - identifier: c1389
+      card_set: c13
+      number: '89'
+      name: Price of Knowledge
+      rarity: Rare
+      card_type: Enchantment
+      mana_cost: "{6}{B}"
+      count: 1
+  - type: Instant
+    count: 11
+    cards:
+    - identifier: c13122
+      card_set: c13
+      number: '122'
+      name: Starstorm
+      rarity: Rare
+      card_type: Instant
+      mana_cost: "{X}{R}{R}"
+      count: 1
+    - identifier: c13215
+      card_set: c13
+      number: '215'
+      name: Soul Manipulation
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{1}{U}{B}"
+      count: 1
+    - identifier: c13181
+      card_set: c13
+      number: '181'
+      name: Crosis's Charm
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{U}{B}{R}"
+      count: 1
+    - identifier: c13192
+      card_set: c13
+      number: '192'
+      name: Grixis Charm
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{U}{B}{R}"
+      count: 1
+    - identifier: c1394
+      card_set: c13
+      number: '94'
+      name: Sudden Spoiling
+      rarity: Rare
+      card_type: Instant
+      mana_cost: "{1}{B}{B}"
+      count: 1
+    - identifier: c1339
+      card_set: c13
+      number: '39'
+      name: Dismiss
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{2}{U}{U}"
+      count: 1
+    - identifier: c1347
+      card_set: c13
+      number: '47'
+      name: Illusionist's Gambit
+      rarity: Rare
+      card_type: Instant
+      mana_cost: "{2}{U}{U}"
+      count: 1
+    - identifier: c13132
+      card_set: c13
+      number: '132'
+      name: Wild Ricochet
+      rarity: Rare
+      card_type: Instant
+      mana_cost: "{2}{R}{R}"
+      count: 1
+    - identifier: c1368
+      card_set: c13
+      number: '68'
+      name: Annihilate
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{3}{B}{B}"
+      count: 1
+    - identifier: c1351
+      card_set: c13
+      number: '51'
+      name: Opportunity
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{4}{U}{U}"
+      count: 1
+    - identifier: c1365
+      card_set: c13
+      number: '65'
+      name: Vision Skeins
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{1}{U}"
+      count: 1
+  - type: Sorcery
+    count: 12
+    cards:
+    - identifier: c13117
+      card_set: c13
+      number: '117'
+      name: Molten Disaster
+      rarity: Rare
+      card_type: Sorcery
+      mana_cost: "{X}{R}{R}"
+      count: 1
+    - identifier: c1381
+      card_set: c13
+      number: '81'
+      name: Infest
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{1}{B}{B}"
+      count: 1
+    - identifier: c1360
+      card_set: c13
+      number: '60'
+      name: Tempt with Reflections
+      rarity: Rare
+      card_type: Sorcery
+      mana_cost: "{3}{U}"
+      count: 1
+    - identifier: c13107
+      card_set: c13
+      number: '107'
+      name: Fissure Vent
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{3}{R}{R}"
+      count: 1
+    - identifier: c13113
+      card_set: c13
+      number: '113'
+      name: Incendiary Command
+      rarity: Rare
+      card_type: Sorcery
+      mana_cost: "{3}{R}{R}"
+      count: 1
+    - identifier: c1385
+      card_set: c13
+      number: '85'
+      name: Phthisis
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{3}{B}{B}{B}{B}"
+      count: 1
+    - identifier: c13182
+      card_set: c13
+      number: '182'
+      name: Cruel Ultimatum
+      rarity: Rare
+      card_type: Sorcery
+      mana_cost: "{U}{U}{B}{B}{B}{R}{R}"
+      count: 1
+    - identifier: c1372
+      card_set: c13
+      number: '72'
+      name: Decree of Pain
+      rarity: Rare
+      card_type: Sorcery
+      mana_cost: "{6}{B}{B}"
+      count: 1
+    - identifier: c1369
+      card_set: c13
+      number: '69'
+      name: Army of the Damned
+      rarity: Mythic
+      card_type: Sorcery
+      mana_cost: "{5}{B}{B}{B}"
+      count: 1
+    - identifier: c1354
+      card_set: c13
+      number: '54'
+      name: Prosperity
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{X}{U}"
+      count: 1
+    - identifier: c1357
+      card_set: c13
+      number: '57'
+      name: Skyscribing
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{X}{U}{U}"
+      count: 1
+    - identifier: c1359
+      card_set: c13
+      number: '59'
+      name: Strategic Planning
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{1}{U}"
+      count: 1
+  - type: Land
+    count: 18
+    cards:
+    - identifier: c13336
+      card_set: c13
+      number: '336'
+      name: Vivid Marsh
+      rarity: Uncommon
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13278
+      card_set: c13
+      number: '278'
+      name: Bojuka Bog
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13281
+      card_set: c13
+      number: '281'
+      name: Command Tower
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13283
+      card_set: c13
+      number: '283'
+      name: Crumbling Necropolis
+      rarity: Uncommon
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13284
+      card_set: c13
+      number: '284'
+      name: Dimir Guildgate
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13287
+      card_set: c13
+      number: '287'
+      name: Evolving Wilds
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13293
+      card_set: c13
+      number: '293'
+      name: Grixis Panorama
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13296
+      card_set: c13
+      number: '296'
+      name: Izzet Boilerworks
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13297
+      card_set: c13
+      number: '297'
+      name: Izzet Guildgate
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13306
+      card_set: c13
+      number: '306'
+      name: Molten Slagheap
+      rarity: Uncommon
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13310
+      card_set: c13
+      number: '310'
+      name: Opal Palace
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13313
+      card_set: c13
+      number: '313'
+      name: Rakdos Carnarium
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13314
+      card_set: c13
+      number: '314'
+      name: Rakdos Guildgate
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13315
+      card_set: c13
+      number: '315'
+      name: Rupture Spire
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13327
+      card_set: c13
+      number: '327'
+      name: Temple of the False God
+      rarity: Uncommon
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13331
+      card_set: c13
+      number: '331'
+      name: Urza's Factory
+      rarity: Uncommon
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13334
+      card_set: c13
+      number: '334'
+      name: Vivid Creek
+      rarity: Uncommon
+      card_type: Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13272
+      card_set: c13
+      number: '272'
+      name: Akoum Refuge
+      rarity: Uncommon
+      card_type: Land
+      mana_cost: ''
+      count: 1
+  - type: Basic Land
+    count: 22
+    cards:
+    - identifier: c13349
+      card_set: c13
+      number: '349'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 2
+    - identifier: c13343
+      card_set: c13
+      number: '343'
+      name: Island
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 2
+    - identifier: c13344
+      card_set: c13
+      number: '344'
+      name: Island
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 2
+    - identifier: c13341
+      card_set: c13
+      number: '341'
+      name: Island
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 2
+    - identifier: c13342
+      card_set: c13
+      number: '342'
+      name: Island
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 3
+    - identifier: c13345
+      card_set: c13
+      number: '345'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 2
+    - identifier: c13346
+      card_set: c13
+      number: '346'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 2
+    - identifier: c13347
+      card_set: c13
+      number: '347'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 2
+    - identifier: c13348
+      card_set: c13
+      number: '348'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 2
+    - identifier: c13350
+      card_set: c13
+      number: '350'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13351
+      card_set: c13
+      number: '351'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 1
+    - identifier: c13352
+      card_set: c13
+      number: '352'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 1
+  count: 100

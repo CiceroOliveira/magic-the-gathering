@@ -12,11 +12,11 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
+  <div class="post-content e-content deck-set-content" itemprop="articleBody">
 
     {% for pack in site.data[page.data_file] %}
       {% assign style = pack.image.name | split: "." %}
-      <div class="{{ style[0] }} set-pack-wrapper {{ style[0] | watermark_background }}">
+      <div class="{{ style[0] }} set-pack-wrapper {{pack.name | downcase}}_watermark_background">
         <h2>
           {{ pack.name }} - {{ pack.pack_type }} ({{pack.count}})
         </h2>
@@ -29,7 +29,7 @@ layout: default
         <h3>{{ card_group.type }} ({{ card_group.count }})</h3>
         <ul>
           {% for card in card_group.cards %}
-          <li>{{card.count}} {{card.name}} - {{card.rarity}} ({{ card.card_set }}-{{card.number}}) <i class="ms ms-r ms-cost ms-shadow"></i></li>
+          <li>{{card.count}} {{card.name}} - {{card.rarity}} ({{ card.card_set }}-{{card.number}}) {{card.mana_cost | mana_symbol}}</li>
           {% endfor %}
         </ul>
         {% endfor %}

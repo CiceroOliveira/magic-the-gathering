@@ -4,22 +4,10 @@
   background-color: #040714;
 }
 
-.boros_watermark {
+.commander_mind_seize {
   color: #eee;
-  border-color: #070707;
-  background-color: #040404;
-}
-
-.dimir_watermark {
-  color: #eee;
-  border-color: #050505;
-  background-color: #040404;
-}
-
-.golgari_watermark {
-  color: #eee;
-  border-color: #020202;
-  background-color: #060606;
+  border-color: #040911;
+  background-color: #5a5858;
 }
 
 .gruul_symbol {
@@ -88,12 +76,6 @@
   background-color: #010302;
 }
 
-.izzet_watermark {
-  color: #eee;
-  border-color: #070707;
-  background-color: #090909;
-}
-
 .orzhov_symbol {
   color: #eee;
   border-color: #dce2e8;
@@ -152,12 +134,6 @@
   color: #eee;
   border-color: #02a3e9;
   background-color: #023d7b;
-}
-
-.selesnya_watermark {
-  color: #eee;
-  border-color: #070707;
-  background-color: #080808;
 }
 
 .simic_symbol {
@@ -224,5 +200,41 @@
   color: #eee;
   border-color: #000603;
   background-color: #065365;
+}
+
+.welcome_deck_2019 {
+  color: #eee;
+  border-color: #100d0d;
+  background-color: #61160e;
+}
+
+.boros_watermark_background {
+  background-image: url("img/../../assets/img/boros_watermark.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.dimir_watermark_background {
+  background-image: url("img/../../assets/img/dimir_watermark.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.golgari_watermark_background {
+  background-image: url("img/../../assets/img/golgari_watermark.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.izzet_watermark_background {
+  background-image: url("img/../../assets/img/izzet_watermark.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.selesnya_watermark_background {
+  background-image: url("img/../../assets/img/selesnya_watermark.png");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 

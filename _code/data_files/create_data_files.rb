@@ -1,11 +1,13 @@
 require 'sequel'
 require 'yaml'
 
-database_name = 'mtg_database.db'
+database_name = 'mtg_scryfall_database.db'
 current_path = File.dirname(__FILE__)
 
-#set_name = 'guilds_of_ravnica'
-set_name = 'ravnica_allegiance'
+set_name = 'guilds_of_ravnica'
+#set_name = 'ravnica_allegiance'
+set_name = 'm19_sample_deck'
+set_name = 'commander_2013'
 
 DB = Sequel.sqlite File.join(current_path, '/', database_name)
 
@@ -16,7 +18,7 @@ begin
 
   packs = YAML.load_file(input_file)
 
-  @ds = DB[:mtgjson_cards]
+  @ds = DB[:mtg_cards]
 
   packs.each do |set|
     @cards = Array.new
@@ -26,24 +28,25 @@ begin
     set["cards"].each do |card_set, cards|
 
       cards.lstrip.split(", ").each do |card_number|
-        card = @ds.select(:name, :rarity, :layout, :types).where(setCode: card_set, number: card_number).all
+        card = @ds.select(:name, :rarity, :layout, :type_line, :mana_cost).where(card_set: card_set, collector_number: card_number).all
 
         if card.count == 0
           puts "Not Found => #{card_set} - #{card_number}"
         else
-          if card[0][:layout].eql? 'split'
-            name = "#{card[0][:name]}/#{card[1][:name]}"
-          else
+          # if card[0][:layout].eql? 'split'
+          #   name = "#{card[0][:name]}/#{card[1][:name]}"
+          # else
             name = card[0][:name]
-          end
+          # end
 
-          card_type = YAML.load(card[0][:types])[0]
+          card_type = card[0][:type_line].split(' — ')[0]
+          # puts card_type
 
           if (@cards_in_set[card_type].nil?)
             @cards_in_set[card_type] = Array.new
           end
 
-          @cards_in_set[card_type] << {'identifier' => card_set + card_number,'card_set' => card_set, 'number' => card_number, 'name' => name, 'rarity' => card[0][:rarity].capitalize, 'types' => YAML.load(card[0][:types])[0]}
+          @cards_in_set[card_type] << {'identifier' => card_set + card_number,'card_set' => card_set, 'number' => card_number, 'name' => name, 'rarity' => card[0][:rarity].capitalize, 'card_type' => card_type, 'mana_cost' => card[0][:mana_cost]}
 
         end
 

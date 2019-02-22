@@ -6,143 +6,143 @@
     alt: Azorius Prerelease Pack Box Picture
     title: Prerelease Pack - Azorius
   tokens:
-    RNA: 12
+    rna: 12
   cards:
-  - type: Planeswalker
+  - type: Legendary Planeswalker
     count: 1
     cards:
-    - identifier: RNA186
-      card_set: RNA
+    - identifier: rna186
+      card_set: rna
       number: '186'
       name: Kaya, Orzhov Usurper
       rarity: Mythic
-      types: Planeswalker
+      card_type: Legendary Planeswalker
       count: 1
   - type: Instant
     count: 4
     cards:
-    - identifier: RNA29
-      card_set: RNA
+    - identifier: rna29
+      card_set: rna
       number: '29'
       name: Unbreakable Formation
       rarity: Rare
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA13
-      card_set: RNA
+    - identifier: rna13
+      card_set: rna
       number: '13'
       name: Justiciar's Portal
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA4
-      card_set: RNA
+    - identifier: rna4
+      card_set: rna
       number: '4'
       name: Arrester's Zeal
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA209
-      card_set: RNA
+    - identifier: rna209
+      card_set: rna
       number: '209'
       name: Sphinx's Insight
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
   - type: Artifact
     count: 1
     cards:
-    - identifier: RNA231
-      card_set: RNA
+    - identifier: rna231
+      card_set: rna
       number: '231'
       name: Azorius Locket
       rarity: Common
-      types: Artifact
+      card_type: Artifact
       count: 1
   - type: Creature
     count: 8
     cards:
-    - identifier: RNA12
-      card_set: RNA
+    - identifier: rna12
+      card_set: rna
       number: '12'
       name: Impassioned Orator
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA40
-      card_set: RNA
+    - identifier: rna40
+      card_set: rna
       number: '40'
       name: Gateway Sneak
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA50
-      card_set: RNA
+    - identifier: rna50
+      card_set: rna
       number: '50'
       name: Senate Courier
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA219
-      card_set: RNA
+    - identifier: rna219
+      card_set: rna
       number: '219'
       name: Senate Griffin
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA49
-      card_set: RNA
+    - identifier: rna49
+      card_set: rna
       number: '49'
       name: Sage's Row Savant
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA154
-      card_set: RNA
+    - identifier: rna154
+      card_set: rna
       number: '154'
       name: Azorius Knight-Arbiter
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA44
-      card_set: RNA
+    - identifier: rna44
+      card_set: rna
       number: '44'
       name: Persistent Petitioners
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA155
-      card_set: RNA
+    - identifier: rna155
+      card_set: rna
       number: '155'
       name: Azorius Skyguard
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
   - type: Enchantment
     count: 1
     cards:
-    - identifier: RNA21
-      card_set: RNA
+    - identifier: rna21
+      card_set: rna
       number: '21'
       name: Sky Tether
       rarity: Uncommon
-      types: Enchantment
+      card_type: Enchantment
       count: 1
   - type: Land
     count: 1
     cards:
-    - identifier: RNA243
-      card_set: RNA
+    - identifier: rna243
+      card_set: rna
       number: '243'
       name: Azorius Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
       count: 1
   count: 16
 - pack_type: Prerelease Pack
   name: Rakdos
   tokens:
-    RNA: 11
+    rna: 11
   image:
     name: prerelease_pack_rakdos.png
     alt: Rakdos Prerelease Pack Box Picture
@@ -151,125 +151,125 @@
   - type: Enchantment
     count: 2
     cards:
-    - identifier: RNA108
-      card_set: RNA
+    - identifier: rna108
+      card_set: rna
       number: '108'
       name: Mirror March
       rarity: Rare
-      types: Enchantment
+      card_type: Enchantment
       count: 1
-    - identifier: RNA95
-      card_set: RNA
+    - identifier: rna95
+      card_set: rna
       number: '95'
       name: Cavalcade of Calamity
       rarity: Uncommon
-      types: Enchantment
+      card_type: Enchantment
       count: 1
   - type: Artifact
     count: 1
     cards:
-    - identifier: RNA237
-      card_set: RNA
+    - identifier: rna237
+      card_set: rna
       number: '237'
       name: Rakdos Locket
       rarity: Common
-      types: Artifact
+      card_type: Artifact
       count: 1
   - type: Instant
     count: 3
     cards:
-    - identifier: RNA68
-      card_set: RNA
+    - identifier: rna68
+      card_set: rna
       number: '68'
       name: Clear the Stage
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA89
-      card_set: RNA
+    - identifier: rna89
+      card_set: rna
       number: '89'
       name: Undercity's Embrace
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA176
-      card_set: RNA
+    - identifier: rna176
+      card_set: rna
       number: '176'
       name: Get the Point
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
   - type: Creature
     count: 7
     cards:
-    - identifier: RNA172
-      card_set: RNA
+    - identifier: rna172
+      card_set: rna
       number: '172'
       name: Fireblade Artist
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA66
-      card_set: RNA
+    - identifier: rna66
+      card_set: rna
       number: '66'
       name: Carrion Imp
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA100
-      card_set: RNA
+    - identifier: rna100
+      card_set: rna
       number: '100'
       name: Feral Maaka
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA63
-      card_set: RNA
+    - identifier: rna63
+      card_set: rna
       number: '63'
       name: Blade Juggler
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA111
-      card_set: RNA
+    - identifier: rna111
+      card_set: rna
       number: '111'
       name: Rubblebelt Recluse
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA216
-      card_set: RNA
+    - identifier: rna216
+      card_set: rna
       number: '216'
       name: Footlight Fiend
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA84
-      card_set: RNA
+    - identifier: rna84
+      card_set: rna
       number: '84'
       name: Rakdos Trumpeter
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
   - type: Sorcery
     count: 1
     cards:
-    - identifier: RNA110
-      card_set: RNA
+    - identifier: rna110
+      card_set: rna
       number: '110'
       name: Rubble Reading
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
   - type: Land
     count: 1
     cards:
-    - identifier: RNA255
-      card_set: RNA
+    - identifier: rna255
+      card_set: rna
       number: '255'
       name: Rakdos Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
       count: 1
   count: 15
 - pack_type: Theme Booster
@@ -282,230 +282,233 @@
   - type: Creature
     count: 15
     cards:
-    - identifier: RNA165
-      card_set: RNA
+    - identifier: rna165
+      card_set: rna
       number: '165'
       name: Deputy of Detention
       rarity: Rare
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA7
-      card_set: RNA
+    - identifier: rna7
+      card_set: rna
       number: '7'
       name: Concordia Pegasus
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA219
-      card_set: RNA
+    - identifier: rna219
+      card_set: rna
       number: '219'
       name: Senate Griffin
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA12
-      card_set: RNA
+    - identifier: rna12
+      card_set: rna
       number: '12'
       name: Impassioned Orator
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA40
-      card_set: RNA
+    - identifier: rna40
+      card_set: rna
       number: '40'
       name: Gateway Sneak
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA9
-      card_set: RNA
+    - identifier: rna9
+      card_set: rna
       number: '9'
       name: Forbidding Spirit
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA23
-      card_set: RNA
+    - identifier: rna23
+      card_set: rna
       number: '23'
       name: Spirit of the Spires
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA60
-      card_set: RNA
+    - identifier: rna60
+      card_set: rna
       number: '60'
       name: Windstorm Drake
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA33
-      card_set: RNA
+    - identifier: rna33
+      card_set: rna
       number: '33'
       name: Chillbringer
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA154
-      card_set: RNA
+    - identifier: rna154
+      card_set: rna
       number: '154'
       name: Azorius Knight-Arbiter
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 3
-    - identifier: RNA204
-      card_set: RNA
+    - identifier: rna204
+      card_set: rna
       number: '204'
       name: Senate Guildmage
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA208
-      card_set: RNA
+    - identifier: rna208
+      card_set: rna
       number: '208'
       name: Sphinx of New Prahv
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
   - type: Artifact
     count: 2
     cards:
-    - identifier: RNA231
-      card_set: RNA
+    - identifier: rna231
+      card_set: rna
       number: '231'
       name: Azorius Locket
       rarity: Common
-      types: Artifact
+      card_type: Artifact
       count: 1
-    - identifier: RNA238
-      card_set: RNA
+    - identifier: rna238
+      card_set: rna
       number: '238'
       name: Scrabbling Claws
       rarity: Uncommon
-      types: Artifact
+      card_type: Artifact
       count: 1
   - type: Enchantment
     count: 5
     cards:
-    - identifier: RNA190
-      card_set: RNA
+    - identifier: rna190
+      card_set: rna
       number: '190'
       name: Lawmage's Binding
       rarity: Common
-      types: Enchantment
+      card_type: Enchantment
       count: 2
-    - identifier: RNA20
-      card_set: RNA
+    - identifier: rna20
+      card_set: rna
       number: '20'
       name: Sentinel's Mark
       rarity: Uncommon
-      types: Enchantment
+      card_type: Enchantment
       count: 1
-    - identifier: RNA168
-      card_set: RNA
+    - identifier: rna168
+      card_set: rna
       number: '168'
       name: Dovin's Acuity
       rarity: Uncommon
-      types: Enchantment
+      card_type: Enchantment
       count: 1
-    - identifier: RNA182
-      card_set: RNA
+    - identifier: rna182
+      card_set: rna
       number: '182'
       name: High Alert
       rarity: Uncommon
-      types: Enchantment
+      card_type: Enchantment
       count: 1
   - type: Land
     count: 1
     cards:
-    - identifier: RNA244
-      card_set: RNA
+    - identifier: rna244
+      card_set: rna
       number: '244'
       name: Azorius Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
       count: 1
   - type: Instant
-    count: 10
+    count: 9
     cards:
-    - identifier: RNA209
-      card_set: RNA
+    - identifier: rna209
+      card_set: rna
       number: '209'
       name: Sphinx's Insight
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 2
-    - identifier: RNA37
-      card_set: RNA
+    - identifier: rna37
+      card_set: rna
       number: '37'
       name: Essence Capture
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA31
-      card_set: RNA
+    - identifier: rna31
+      card_set: rna
       number: '31'
       name: Arrester's Admonition
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA4
-      card_set: RNA
+    - identifier: rna4
+      card_set: rna
       number: '4'
       name: Arrester's Zeal
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA18
-      card_set: RNA
+    - identifier: rna18
+      card_set: rna
       number: '18'
       name: Rally to Battle
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA48
-      card_set: RNA
+    - identifier: rna48
+      card_set: rna
       number: '48'
       name: Quench
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA57
-      card_set: RNA
+    - identifier: rna57
+      card_set: rna
       number: '57'
       name: Thought Collapse
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA225
-      card_set: RNA
-      number: '225'
-      name: Deploy/Depose
-      rarity: Uncommon
-      types: Instant
-      count: 1
-    - identifier: RNA24
-      card_set: RNA
+    - identifier: rna24
+      card_set: rna
       number: '24'
       name: Summary Judgment
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
   - type: Sorcery
     count: 2
     cards:
-    - identifier: RNA34
-      card_set: RNA
+    - identifier: rna34
+      card_set: rna
       number: '34'
       name: Clear the Mind
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA5
-      card_set: RNA
+    - identifier: rna5
+      card_set: rna
       number: '5'
       name: Bring to Trial
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
+      count: 1
+  - type: Instant // Instant
+    count: 1
+    cards:
+    - identifier: rna225
+      card_set: rna
+      number: '225'
+      name: Depose // Deploy
+      rarity: Uncommon
+      card_type: Instant // Instant
       count: 1
   count: 35
 - pack_type: Theme Booster
@@ -518,230 +521,233 @@
   - type: Creature
     count: 20
     cards:
-    - identifier: RNA92
-      card_set: RNA
+    - identifier: rna92
+      card_set: rna
       number: '92'
       name: Amplifire
       rarity: Rare
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA135
-      card_set: RNA
+    - identifier: rna135
+      card_set: rna
       number: '135'
       name: Rampaging Rendhorn
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA202
-      card_set: RNA
+    - identifier: rna202
+      card_set: rna
       number: '202'
       name: Rubblebelt Runner
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA150
-      card_set: RNA
+    - identifier: rna150
+      card_set: rna
       number: '150'
       name: Wrecking Beast
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA121
-      card_set: RNA
+    - identifier: rna121
+      card_set: rna
       number: '121'
       name: Axebane Beast
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA144
-      card_set: RNA
+    - identifier: rna144
+      card_set: rna
       number: '144'
       name: Sylvan Brushstrider
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA112
-      card_set: RNA
+    - identifier: rna112
+      card_set: rna
       number: '112'
       name: Rumbling Ruin
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA103
-      card_set: RNA
+    - identifier: rna103
+      card_set: rna
       number: '103'
       name: Ghor-Clan Wrecker
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA129
-      card_set: RNA
+    - identifier: rna129
+      card_set: rna
       number: '129'
       name: Gruul Beastmaster
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA94
-      card_set: RNA
+    - identifier: rna94
+      card_set: rna
       number: '94'
       name: Burning-Tree Vandal
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA125
-      card_set: RNA
+    - identifier: rna125
+      card_set: rna
       number: '125'
       name: Enraged Ceratok
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA173
-      card_set: RNA
+    - identifier: rna173
+      card_set: rna
       number: '173'
       name: Frenzied Arynx
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA215
-      card_set: RNA
+    - identifier: rna215
+      card_set: rna
       number: '215'
       name: Zhur-Taa Goblin
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA162
-      card_set: RNA
+    - identifier: rna162
+      card_set: rna
       number: '162'
       name: Clan Guildmage
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA210
-      card_set: RNA
+    - identifier: rna210
+      card_set: rna
       number: '210'
       name: Sunder Shaman
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA217
-      card_set: RNA
+    - identifier: rna217
+      card_set: rna
       number: '217'
       name: Rubble Slinger
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA159
-      card_set: RNA
+    - identifier: rna159
+      card_set: rna
       number: '159'
       name: Bolrac-Clan Crusher
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
   - type: Sorcery
     count: 7
     cards:
-    - identifier: RNA102
-      card_set: RNA
+    - identifier: rna102
+      card_set: rna
       number: '102'
       name: Gates Ablaze
       rarity: Uncommon
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA133
-      card_set: RNA
+    - identifier: rna133
+      card_set: rna
       number: '133'
       name: Open the Gates
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 2
-    - identifier: RNA203
-      card_set: RNA
+    - identifier: rna203
+      card_set: rna
       number: '203'
       name: Savage Smash
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 2
-    - identifier: RNA110
-      card_set: RNA
+    - identifier: rna110
+      card_set: rna
       number: '110'
       name: Rubble Reading
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA98
-      card_set: RNA
+    - identifier: rna98
+      card_set: rna
       number: '98'
       name: Deface
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-  - type: Artifact
-    count: 3
+  - type: Artifact Creature
+    count: 2
     cards:
-    - identifier: RNA232
-      card_set: RNA
+    - identifier: rna232
+      card_set: rna
       number: '232'
       name: Gate Colossus
       rarity: Uncommon
-      types: Artifact
+      card_type: Artifact Creature
       count: 1
-    - identifier: RNA234
-      card_set: RNA
-      number: '234'
-      name: Gruul Locket
-      rarity: Common
-      types: Artifact
-      count: 1
-    - identifier: RNA235
-      card_set: RNA
+    - identifier: rna235
+      card_set: rna
       number: '235'
       name: Junktroller
       rarity: Uncommon
-      types: Artifact
+      card_type: Artifact Creature
       count: 1
   - type: Land
     count: 1
     cards:
-    - identifier: RNA249
-      card_set: RNA
+    - identifier: rna249
+      card_set: rna
       number: '249'
       name: Gruul Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
+      count: 1
+  - type: Artifact
+    count: 1
+    cards:
+    - identifier: rna234
+      card_set: rna
+      number: '234'
+      name: Gruul Locket
+      rarity: Common
+      card_type: Artifact
       count: 1
   - type: Instant
     count: 3
     cards:
-    - identifier: RNA143
-      card_set: RNA
+    - identifier: rna143
+      card_set: rna
       number: '143'
       name: Stony Strength
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA146
-      card_set: RNA
+    - identifier: rna146
+      card_set: rna
       number: '146'
       name: Titanic Brawl
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA147
-      card_set: RNA
+    - identifier: rna147
+      card_set: rna
       number: '147'
       name: Tower Defense
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
       count: 1
   - type: Enchantment
     count: 1
     cards:
-    - identifier: RNA201
-      card_set: RNA
+    - identifier: rna201
+      card_set: rna
       number: '201'
       name: Rhythm of the Wild
       rarity: Uncommon
-      types: Enchantment
+      card_type: Enchantment
       count: 1
   count: 35
 - pack_type: Theme Booster
@@ -754,220 +760,229 @@
   - type: Creature
     count: 21
     cards:
-    - identifier: RNA217
-      card_set: RNA
+    - identifier: rna217
+      card_set: rna
       number: '217'
       name: Rubble Slinger
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA120
-      card_set: RNA
+    - identifier: rna120
+      card_set: rna
       number: '120'
       name: Tin Street Dodger
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA159
-      card_set: RNA
+    - identifier: rna159
+      card_set: rna
       number: '159'
       name: Bolrac-Clan Crusher
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA162
-      card_set: RNA
+    - identifier: rna162
+      card_set: rna
       number: '162'
       name: Clan Guildmage
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA210
-      card_set: RNA
+    - identifier: rna210
+      card_set: rna
       number: '210'
       name: Sunder Shaman
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA215
-      card_set: RNA
+    - identifier: rna215
+      card_set: rna
       number: '215'
       name: Zhur-Taa Goblin
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA94
-      card_set: RNA
+    - identifier: rna94
+      card_set: rna
       number: '94'
       name: Burning-Tree Vandal
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA100
-      card_set: RNA
+    - identifier: rna100
+      card_set: rna
       number: '100'
       name: Feral Maaka
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA103
-      card_set: RNA
+    - identifier: rna103
+      card_set: rna
       number: '103'
       name: Ghor-Clan Wrecker
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA105
-      card_set: RNA
+    - identifier: rna105
+      card_set: rna
       number: '105'
       name: Gravel-Hide Goblin
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA132
-      card_set: RNA
+    - identifier: rna132
+      card_set: rna
       number: '132'
       name: Mammoth Spider
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA135
-      card_set: RNA
+    - identifier: rna135
+      card_set: rna
       number: '135'
       name: Rampaging Rendhorn
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA150
-      card_set: RNA
+    - identifier: rna150
+      card_set: rna
       number: '150'
       name: Wrecking Beast
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA173
-      card_set: RNA
+    - identifier: rna173
+      card_set: rna
       number: '173'
       name: Frenzied Arynx
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA202
-      card_set: RNA
+    - identifier: rna202
+      card_set: rna
       number: '202'
       name: Rubblebelt Runner
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA97
-      card_set: RNA
+    - identifier: rna97
+      card_set: rna
       number: '97'
       name: Dagger Caster
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
   - type: Instant
-    count: 6
+    count: 5
     cards:
-    - identifier: RNA101
-      card_set: RNA
+    - identifier: rna101
+      card_set: rna
       number: '101'
       name: Flames of the Raze-Boar
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA223
-      card_set: RNA
-      number: '223'
-      name: Colossus/Collision
-      rarity: Uncommon
-      types: Instant
-      count: 1
-    - identifier: RNA93
-      card_set: RNA
+    - identifier: rna93
+      card_set: rna
       number: '93'
       name: Burn Bright
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 2
-    - identifier: RNA113
-      card_set: RNA
+    - identifier: rna113
+      card_set: rna
       number: '113'
       name: Scorchmark
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA137
-      card_set: RNA
+    - identifier: rna137
+      card_set: rna
       number: '137'
       name: Root Snare
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
   - type: Sorcery
-    count: 4
+    count: 3
     cards:
-    - identifier: RNA102
-      card_set: RNA
+    - identifier: rna102
+      card_set: rna
       number: '102'
       name: Gates Ablaze
       rarity: Uncommon
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA123
-      card_set: RNA
+    - identifier: rna123
+      card_set: rna
       number: '123'
       name: Biogenic Upgrade
       rarity: Uncommon
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA229
-      card_set: RNA
-      number: '229'
-      name: Threat/Thrash
-      rarity: Rare
-      types: Sorcery
-      count: 1
-    - identifier: RNA133
-      card_set: RNA
+    - identifier: rna133
+      card_set: rna
       number: '133'
       name: Open the Gates
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-  - type: Artifact
-    count: 3
+  - type: Instant // Instant
+    count: 1
     cards:
-    - identifier: RNA232
-      card_set: RNA
+    - identifier: rna223
+      card_set: rna
+      number: '223'
+      name: Collision // Colossus
+      rarity: Uncommon
+      card_type: Instant // Instant
+      count: 1
+  - type: Instant // Sorcery
+    count: 1
+    cards:
+    - identifier: rna229
+      card_set: rna
+      number: '229'
+      name: Thrash // Threat
+      rarity: Rare
+      card_type: Instant // Sorcery
+      count: 1
+  - type: Artifact Creature
+    count: 2
+    cards:
+    - identifier: rna232
+      card_set: rna
       number: '232'
       name: Gate Colossus
       rarity: Uncommon
-      types: Artifact
+      card_type: Artifact Creature
       count: 1
-    - identifier: RNA241
-      card_set: RNA
+    - identifier: rna241
+      card_set: rna
       number: '241'
       name: Sphinx of the Guildpact
       rarity: Uncommon
-      types: Artifact
+      card_type: Artifact Creature
       count: 1
-    - identifier: RNA234
-      card_set: RNA
+  - type: Artifact
+    count: 1
+    cards:
+    - identifier: rna234
+      card_set: rna
       number: '234'
       name: Gruul Locket
       rarity: Common
-      types: Artifact
+      card_type: Artifact
       count: 1
   - type: Land
     count: 1
     cards:
-    - identifier: RNA250
-      card_set: RNA
+    - identifier: rna250
+      card_set: rna
       number: '250'
       name: Gruul Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
       count: 1
   bought_on: 5/2/2019
   count: 35
@@ -981,230 +996,236 @@
   - type: Creature
     count: 23
     cards:
-    - identifier: RNA188
-      card_set: RNA
+    - identifier: rna188
+      card_set: rna
       number: '188'
       name: Knight of the Last Breath
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA3
-      card_set: RNA
+    - identifier: rna3
+      card_set: rna
       number: '3'
       name: Archway Angel
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA28
-      card_set: RNA
+    - identifier: rna28
+      card_set: rna
       number: '28'
       name: Twilight Panther
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA25
-      card_set: RNA
+    - identifier: rna25
+      card_set: rna
       number: '25'
       name: Syndicate Messenger
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA184
-      card_set: RNA
+    - identifier: rna184
+      card_set: rna
       number: '184'
       name: Imperious Oligarch
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA90
-      card_set: RNA
+    - identifier: rna90
+      card_set: rna
       number: '90'
       name: Vindictive Vampire
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA87
-      card_set: RNA
+    - identifier: rna87
+      card_set: rna
       number: '87'
       name: Thirsting Shade
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA19
-      card_set: RNA
+    - identifier: rna19
+      card_set: rna
       number: '19'
       name: Resolute Watchdog
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA16
-      card_set: RNA
+    - identifier: rna16
+      card_set: rna
       number: '16'
       name: Ministrant of Obligation
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA82
-      card_set: RNA
+    - identifier: rna82
+      card_set: rna
       number: '82'
       name: Plague Wight
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA72
-      card_set: RNA
+    - identifier: rna72
+      card_set: rna
       number: '72'
       name: Debtors' Transport
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA26
-      card_set: RNA
+    - identifier: rna26
+      card_set: rna
       number: '26'
       name: Tenth District Veteran
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA14
-      card_set: RNA
+    - identifier: rna14
+      card_set: rna
       number: '14'
       name: Knight of Sorrows
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA79
-      card_set: RNA
+    - identifier: rna79
+      card_set: rna
       number: '79'
       name: Orzhov Enforcer
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA67
-      card_set: RNA
+    - identifier: rna67
+      card_set: rna
       number: '67'
       name: Catacomb Crocodile
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA220
-      card_set: RNA
+    - identifier: rna220
+      card_set: rna
       number: '220'
       name: Vizkopa Vampire
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA6
-      card_set: RNA
+    - identifier: rna6
+      card_set: rna
       number: '6'
       name: Civic Stalwart
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA156
-      card_set: RNA
+    - identifier: rna156
+      card_set: rna
       number: '156'
       name: Basilica Bell-Haunt
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA194
-      card_set: RNA
+    - identifier: rna194
+      card_set: rna
       number: '194'
       name: Pitiless Pontiff
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
   - type: Land
     count: 1
     cards:
-    - identifier: RNA253
-      card_set: RNA
+    - identifier: rna253
+      card_set: rna
       number: '253'
       name: Orzhov Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
       count: 1
   - type: Artifact
-    count: 2
+    count: 1
     cards:
-    - identifier: RNA236
-      card_set: RNA
+    - identifier: rna236
+      card_set: rna
       number: '236'
       name: Orzhov Locket
       rarity: Common
-      types: Artifact
-      count: 1
-    - identifier: RNA235
-      card_set: RNA
-      number: '235'
-      name: Junktroller
-      rarity: Uncommon
-      types: Artifact
+      card_type: Artifact
       count: 1
   - type: Instant
-    count: 5
+    count: 4
     cards:
-    - identifier: RNA171
-      card_set: RNA
+    - identifier: rna171
+      card_set: rna
       number: '171'
       name: Final Payment
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 2
-    - identifier: RNA64
-      card_set: RNA
+    - identifier: rna64
+      card_set: rna
       number: '64'
       name: Bladebrand
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA224
-      card_set: RNA
-      number: '224'
-      name: Consecrate/Consume
-      rarity: Uncommon
-      types: Instant
-      count: 1
-    - identifier: RNA192
-      card_set: RNA
+    - identifier: rna192
+      card_set: rna
       number: '192'
       name: Mortify
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
       count: 1
   - type: Sorcery
     count: 3
     cards:
-    - identifier: RNA62
-      card_set: RNA
+    - identifier: rna62
+      card_set: rna
       number: '62'
       name: Bankrupt in Blood
       rarity: Uncommon
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA5
-      card_set: RNA
+    - identifier: rna5
+      card_set: rna
       number: '5'
       name: Bring to Trial
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA187
-      card_set: RNA
+    - identifier: rna187
+      card_set: rna
       number: '187'
       name: Kaya's Wrath
       rarity: Rare
-      types: Sorcery
+      card_type: Sorcery
       count: 1
   - type: Enchantment
     count: 1
     cards:
-    - identifier: RNA77
-      card_set: RNA
+    - identifier: rna77
+      card_set: rna
       number: '77'
       name: Ill-Gotten Inheritance
       rarity: Common
-      types: Enchantment
+      card_type: Enchantment
+      count: 1
+  - type: Instant // Sorcery
+    count: 1
+    cards:
+    - identifier: rna224
+      card_set: rna
+      number: '224'
+      name: Consecrate // Consume
+      rarity: Uncommon
+      card_type: Instant // Sorcery
+      count: 1
+  - type: Artifact Creature
+    count: 1
+    cards:
+    - identifier: rna235
+      card_set: rna
+      number: '235'
+      name: Junktroller
+      rarity: Uncommon
+      card_type: Artifact Creature
       count: 1
   count: 35
 - pack_type: Theme Booster
@@ -1217,213 +1238,219 @@
   - type: Creature
     count: 18
     cards:
-    - identifier: RNA196
-      card_set: RNA
+    - identifier: rna196
+      card_set: rna
       number: '196'
       name: Rafter Demon
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA78
-      card_set: RNA
+    - identifier: rna78
+      card_set: rna
       number: '78'
       name: Noxious Groodion
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA63
-      card_set: RNA
+    - identifier: rna63
+      card_set: rna
       number: '63'
       name: Blade Juggler
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA84
-      card_set: RNA
+    - identifier: rna84
+      card_set: rna
       number: '84'
       name: Rakdos Trumpeter
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA82
-      card_set: RNA
+    - identifier: rna82
+      card_set: rna
       number: '82'
       name: Plague Wight
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA116
-      card_set: RNA
+    - identifier: rna116
+      card_set: rna
       number: '116'
       name: Smelt-Ward Ignus
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA86
-      card_set: RNA
+    - identifier: rna86
+      card_set: rna
       number: '86'
       name: Spire Mangler
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA117
-      card_set: RNA
+    - identifier: rna117
+      card_set: rna
       number: '117'
       name: Spear Spewer
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA181
-      card_set: RNA
+    - identifier: rna181
+      card_set: rna
       number: '181'
       name: Hackrobat
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA197
-      card_set: RNA
+    - identifier: rna197
+      card_set: rna
       number: '197'
       name: Rakdos Firewheeler
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA118
-      card_set: RNA
+    - identifier: rna118
+      card_set: rna
       number: '118'
       name: Spikewheel Acrobat
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA198
-      card_set: RNA
+    - identifier: rna198
+      card_set: rna
       number: '198'
       name: Rakdos Roustabout
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA164
-      card_set: RNA
+    - identifier: rna164
+      card_set: rna
       number: '164'
       name: Cult Guildmage
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA216
-      card_set: RNA
+    - identifier: rna216
+      card_set: rna
       number: '216'
       name: Footlight Fiend
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA172
-      card_set: RNA
+    - identifier: rna172
+      card_set: rna
       number: '172'
       name: Fireblade Artist
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
   - type: Artifact
-    count: 2
+    count: 1
     cards:
-    - identifier: RNA237
-      card_set: RNA
+    - identifier: rna237
+      card_set: rna
       number: '237'
       name: Rakdos Locket
       rarity: Common
-      types: Artifact
-      count: 1
-    - identifier: RNA235
-      card_set: RNA
-      number: '235'
-      name: Junktroller
-      rarity: Uncommon
-      types: Artifact
+      card_type: Artifact
       count: 1
   - type: Sorcery
-    count: 10
+    count: 9
     cards:
-    - identifier: RNA222
-      card_set: RNA
-      number: '222'
-      name: Carnage/Carnival
-      rarity: Uncommon
-      types: Sorcery
-      count: 1
-    - identifier: RNA91
-      card_set: RNA
-      number: '91'
-      name: Act of Treason
-      rarity: Common
-      types: Sorcery
-      count: 1
-    - identifier: RNA71
-      card_set: RNA
-      number: '71'
-      name: Dead Revels
-      rarity: Common
-      types: Sorcery
-      count: 1
-    - identifier: RNA98
-      card_set: RNA
-      number: '98'
-      name: Deface
-      rarity: Common
-      types: Sorcery
-      count: 1
-    - identifier: RNA62
-      card_set: RNA
-      number: '62'
-      name: Bankrupt in Blood
-      rarity: Uncommon
-      types: Sorcery
-      count: 1
-    - identifier: RNA107
-      card_set: RNA
-      number: '107'
-      name: Light Up the Stage
-      rarity: Uncommon
-      types: Sorcery
-      count: 1
-    - identifier: RNA104
-      card_set: RNA
+    - identifier: rna104
+      card_set: rna
       number: '104'
       name: Goblin Gathering
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 3
-    - identifier: RNA115
-      card_set: RNA
+    - identifier: rna91
+      card_set: rna
+      number: '91'
+      name: Act of Treason
+      rarity: Common
+      card_type: Sorcery
+      count: 1
+    - identifier: rna71
+      card_set: rna
+      number: '71'
+      name: Dead Revels
+      rarity: Common
+      card_type: Sorcery
+      count: 1
+    - identifier: rna98
+      card_set: rna
+      number: '98'
+      name: Deface
+      rarity: Common
+      card_type: Sorcery
+      count: 1
+    - identifier: rna62
+      card_set: rna
+      number: '62'
+      name: Bankrupt in Blood
+      rarity: Uncommon
+      card_type: Sorcery
+      count: 1
+    - identifier: rna107
+      card_set: rna
+      number: '107'
+      name: Light Up the Stage
+      rarity: Uncommon
+      card_type: Sorcery
+      count: 1
+    - identifier: rna115
+      card_set: rna
       number: '115'
       name: Skewer the Critics
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
   - type: Instant
     count: 4
     cards:
-    - identifier: RNA176
-      card_set: RNA
+    - identifier: rna176
+      card_set: rna
       number: '176'
       name: Get the Point
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 3
-    - identifier: RNA191
-      card_set: RNA
+    - identifier: rna191
+      card_set: rna
       number: '191'
       name: Macabre Mockery
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
+      count: 1
+  - type: Instant // Sorcery
+    count: 1
+    cards:
+    - identifier: rna222
+      card_set: rna
+      number: '222'
+      name: Carnival // Carnage
+      rarity: Uncommon
+      card_type: Instant // Sorcery
+      count: 1
+  - type: Artifact Creature
+    count: 1
+    cards:
+    - identifier: rna235
+      card_set: rna
+      number: '235'
+      name: Junktroller
+      rarity: Uncommon
+      card_type: Artifact Creature
       count: 1
   - type: Enchantment
     count: 1
     cards:
-    - identifier: RNA160
-      card_set: RNA
+    - identifier: rna160
+      card_set: rna
       number: '160'
       name: Captive Audience
       rarity: Mythic
-      types: Enchantment
+      card_type: Enchantment
       count: 1
   count: 35
 - pack_type: Theme Booster
@@ -1436,216 +1463,222 @@
   - type: Creature
     count: 17
     cards:
-    - identifier: RNA198
-      card_set: RNA
+    - identifier: rna198
+      card_set: rna
       number: '198'
       name: Rakdos Roustabout
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA164
-      card_set: RNA
+    - identifier: rna164
+      card_set: rna
       number: '164'
       name: Cult Guildmage
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA181
-      card_set: RNA
+    - identifier: rna181
+      card_set: rna
       number: '181'
       name: Hackrobat
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA197
-      card_set: RNA
+    - identifier: rna197
+      card_set: rna
       number: '197'
       name: Rakdos Firewheeler
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA63
-      card_set: RNA
+    - identifier: rna63
+      card_set: rna
       number: '63'
       name: Blade Juggler
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA66
-      card_set: RNA
+    - identifier: rna66
+      card_set: rna
       number: '66'
       name: Carrion Imp
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA67
-      card_set: RNA
+    - identifier: rna67
+      card_set: rna
       number: '67'
       name: Catacomb Crocodile
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA78
-      card_set: RNA
+    - identifier: rna78
+      card_set: rna
       number: '78'
       name: Noxious Groodion
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA82
-      card_set: RNA
+    - identifier: rna82
+      card_set: rna
       number: '82'
       name: Plague Wight
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA84
-      card_set: RNA
+    - identifier: rna84
+      card_set: rna
       number: '84'
       name: Rakdos Trumpeter
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA118
-      card_set: RNA
+    - identifier: rna118
+      card_set: rna
       number: '118'
       name: Spikewheel Acrobat
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA196
-      card_set: RNA
+    - identifier: rna196
+      card_set: rna
       number: '196'
       name: Rafter Demon
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 3
-    - identifier: RNA65
-      card_set: RNA
+    - identifier: rna65
+      card_set: rna
       number: '65'
       name: Bloodmist Infiltrator
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
   - type: Sorcery
-    count: 9
+    count: 8
     cards:
-    - identifier: RNA115
-      card_set: RNA
+    - identifier: rna115
+      card_set: rna
       number: '115'
       name: Skewer the Critics
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 2
-    - identifier: RNA222
-      card_set: RNA
-      number: '222'
-      name: Carnage/Carnival
-      rarity: Uncommon
-      types: Sorcery
-      count: 1
-    - identifier: RNA69
-      card_set: RNA
+    - identifier: rna69
+      card_set: rna
       number: '69'
       name: Consign to the Pit
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA71
-      card_set: RNA
+    - identifier: rna71
+      card_set: rna
       number: '71'
       name: Dead Revels
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA73
-      card_set: RNA
+    - identifier: rna73
+      card_set: rna
       number: '73'
       name: Drill Bit
       rarity: Uncommon
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA91
-      card_set: RNA
+    - identifier: rna91
+      card_set: rna
       number: '91'
       name: Act of Treason
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA110
-      card_set: RNA
+    - identifier: rna110
+      card_set: rna
       number: '110'
       name: Rubble Reading
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA107
-      card_set: RNA
+    - identifier: rna107
+      card_set: rna
       number: '107'
       name: Light Up the Stage
       rarity: Uncommon
-      types: Sorcery
+      card_type: Sorcery
       count: 1
   - type: Enchantment
     count: 2
     cards:
-    - identifier: RNA108
-      card_set: RNA
+    - identifier: rna108
+      card_set: rna
       number: '108'
       name: Mirror March
       rarity: Rare
-      types: Enchantment
+      card_type: Enchantment
       count: 1
-    - identifier: RNA77
-      card_set: RNA
+    - identifier: rna77
+      card_set: rna
       number: '77'
       name: Ill-Gotten Inheritance
       rarity: Common
-      types: Enchantment
+      card_type: Enchantment
       count: 1
   - type: Instant
     count: 4
     cards:
-    - identifier: RNA191
-      card_set: RNA
+    - identifier: rna191
+      card_set: rna
       number: '191'
       name: Macabre Mockery
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA176
-      card_set: RNA
+    - identifier: rna176
+      card_set: rna
       number: '176'
       name: Get the Point
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 3
-  - type: Artifact
-    count: 2
+  - type: Instant // Sorcery
+    count: 1
     cards:
-    - identifier: RNA241
-      card_set: RNA
+    - identifier: rna222
+      card_set: rna
+      number: '222'
+      name: Carnival // Carnage
+      rarity: Uncommon
+      card_type: Instant // Sorcery
+      count: 1
+  - type: Artifact Creature
+    count: 1
+    cards:
+    - identifier: rna241
+      card_set: rna
       number: '241'
       name: Sphinx of the Guildpact
       rarity: Uncommon
-      types: Artifact
+      card_type: Artifact Creature
       count: 1
-    - identifier: RNA237
-      card_set: RNA
+  - type: Artifact
+    count: 1
+    cards:
+    - identifier: rna237
+      card_set: rna
       number: '237'
       name: Rakdos Locket
       rarity: Common
-      types: Artifact
+      card_type: Artifact
       count: 1
   - type: Land
     count: 1
     cards:
-    - identifier: RNA255
-      card_set: RNA
+    - identifier: rna255
+      card_set: rna
       number: '255'
       name: Rakdos Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
       count: 1
   bought_on: 5/2/2019
   count: 35
@@ -1659,237 +1692,240 @@
   - type: Creature
     count: 22
     cards:
-    - identifier: RNA206
-      card_set: RNA
+    - identifier: rna206
+      card_set: rna
       number: '206'
       name: Sharktocrab
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA218
-      card_set: RNA
+    - identifier: rna218
+      card_set: rna
       number: '218'
       name: Scuttlegator
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA44
-      card_set: RNA
+    - identifier: rna44
+      card_set: rna
       number: '44'
       name: Persistent Petitioners
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA53
-      card_set: RNA
+    - identifier: rna53
+      card_set: rna
       number: '53'
       name: Skitter Eel
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 3
-    - identifier: RNA142
-      card_set: RNA
+    - identifier: rna142
+      card_set: rna
       number: '142'
       name: Steeple Creeper
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA33
-      card_set: RNA
+    - identifier: rna33
+      card_set: rna
       number: '33'
       name: Chillbringer
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA139
-      card_set: RNA
+    - identifier: rna139
+      card_set: rna
       number: '139'
       name: Saruli Caretaker
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA47
-      card_set: RNA
+    - identifier: rna47
+      card_set: rna
       number: '47'
       name: Pteramander
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA132
-      card_set: RNA
+    - identifier: rna132
+      card_set: rna
       number: '132'
       name: Mammoth Spider
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA41
-      card_set: RNA
+    - identifier: rna41
+      card_set: rna
       number: '41'
       name: Humongulus
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA125
-      card_set: RNA
+    - identifier: rna125
+      card_set: rna
       number: '125'
       name: Enraged Ceratok
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA39
-      card_set: RNA
+    - identifier: rna39
+      card_set: rna
       number: '39'
       name: Faerie Duelist
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA140
-      card_set: RNA
+    - identifier: rna140
+      card_set: rna
       number: '140'
       name: Sauroform Hybrid
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA148
-      card_set: RNA
+    - identifier: rna148
+      card_set: rna
       number: '148'
       name: Trollbred Guardian
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA145
-      card_set: RNA
+    - identifier: rna145
+      card_set: rna
       number: '145'
       name: Territorial Boar
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA141
-      card_set: RNA
+    - identifier: rna141
+      card_set: rna
       number: '141'
       name: Silhana Wayfinder
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA174
-      card_set: RNA
+    - identifier: rna174
+      card_set: rna
       number: '174'
       name: Frilled Mystic
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA40
-      card_set: RNA
+    - identifier: rna40
+      card_set: rna
       number: '40'
       name: Gateway Sneak
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA152
-      card_set: RNA
+    - identifier: rna152
+      card_set: rna
       number: '152'
       name: Aeromunculus
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA163
-      card_set: RNA
+    - identifier: rna163
+      card_set: rna
       number: '163'
       name: Combine Guildmage
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
   - type: Instant
-    count: 8
+    count: 7
     cards:
-    - identifier: RNA153
-      card_set: RNA
-      number: '153'
-      name: Applied Biomancy
-      rarity: Common
-      types: Instant
-      count: 2
-    - identifier: RNA137
-      card_set: RNA
-      number: '137'
-      name: Root Snare
-      rarity: Common
-      types: Instant
-      count: 1
-    - identifier: RNA46
-      card_set: RNA
-      number: '46'
-      name: Prying Eyes
-      rarity: Common
-      types: Instant
-      count: 1
-    - identifier: RNA127
-      card_set: RNA
-      number: '127'
-      name: Gift of Strength
-      rarity: Common
-      types: Instant
-      count: 1
-    - identifier: RNA178
-      card_set: RNA
+    - identifier: rna178
+      card_set: rna
       number: '178'
       name: Growth Spiral
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 2
-    - identifier: RNA226
-      card_set: RNA
-      number: '226'
-      name: Incongruity/Incubation
-      rarity: Uncommon
-      types: Instant
+    - identifier: rna137
+      card_set: rna
+      number: '137'
+      name: Root Snare
+      rarity: Common
+      card_type: Instant
+      count: 1
+    - identifier: rna153
+      card_set: rna
+      number: '153'
+      name: Applied Biomancy
+      rarity: Common
+      card_type: Instant
+      count: 2
+    - identifier: rna46
+      card_set: rna
+      number: '46'
+      name: Prying Eyes
+      rarity: Common
+      card_type: Instant
+      count: 1
+    - identifier: rna127
+      card_set: rna
+      number: '127'
+      name: Gift of Strength
+      rarity: Common
+      card_type: Instant
       count: 1
   - type: Sorcery
     count: 1
     cards:
-    - identifier: RNA133
-      card_set: RNA
+    - identifier: rna133
+      card_set: rna
       number: '133'
       name: Open the Gates
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
   - type: Land
     count: 1
     cards:
-    - identifier: RNA257
-      card_set: RNA
+    - identifier: rna257
+      card_set: rna
       number: '257'
       name: Simic Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
       count: 1
   - type: Artifact
     count: 1
     cards:
-    - identifier: RNA240
-      card_set: RNA
+    - identifier: rna240
+      card_set: rna
       number: '240'
       name: Simic Locket
       rarity: Common
-      types: Artifact
+      card_type: Artifact
       count: 1
   - type: Enchantment
     count: 2
     cards:
-    - identifier: RNA54
-      card_set: RNA
+    - identifier: rna54
+      card_set: rna
       number: '54'
       name: Slimebind
       rarity: Common
-      types: Enchantment
+      card_type: Enchantment
       count: 1
-    - identifier: RNA130
-      card_set: RNA
+    - identifier: rna130
+      card_set: rna
       number: '130'
       name: Guardian Project
       rarity: Rare
-      types: Enchantment
+      card_type: Enchantment
+      count: 1
+  - type: Sorcery // Instant
+    count: 1
+    cards:
+    - identifier: rna226
+      card_set: rna
+      number: '226'
+      name: Incubation // Incongruity
+      rarity: Uncommon
+      card_type: Sorcery // Instant
       count: 1
   count: 35
 - pack_type: Planeswalker Deck
@@ -1899,177 +1935,180 @@
     alt: Planeswalker Deck - Domri - Picture
     title: Planeswalker Deck - Domri
   cards:
-  - type: Planeswalker
+  - type: Legendary Planeswalker
     count: 1
     cards:
-    - identifier: RNA269
-      card_set: RNA
+    - identifier: rna269
+      card_set: rna
       number: '269'
       name: Domri, City Smasher
       rarity: Mythic
-      types: Planeswalker
+      card_type: Legendary Planeswalker
       count: 1
   - type: Creature
     count: 24
     cards:
-    - identifier: RNA271
-      card_set: RNA
+    - identifier: rna271
+      card_set: rna
       number: '271'
       name: Charging War Boar
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 3
-    - identifier: RNA272
-      card_set: RNA
+    - identifier: rna272
+      card_set: rna
       number: '272'
       name: Domri's Nodorog
       rarity: Rare
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA96
-      card_set: RNA
+    - identifier: rna96
+      card_set: rna
       number: '96'
       name: Clamor Shaman
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA100
-      card_set: RNA
+    - identifier: rna100
+      card_set: rna
       number: '100'
       name: Feral Maaka
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA105
-      card_set: RNA
+    - identifier: rna105
+      card_set: rna
       number: '105'
       name: Gravel-Hide Goblin
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA121
-      card_set: RNA
+    - identifier: rna121
+      card_set: rna
       number: '121'
       name: Axebane Beast
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA135
-      card_set: RNA
+    - identifier: rna135
+      card_set: rna
       number: '135'
       name: Rampaging Rendhorn
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA144
-      card_set: RNA
+    - identifier: rna144
+      card_set: rna
       number: '144'
       name: Sylvan Brushstrider
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 2
-    - identifier: RNA150
-      card_set: RNA
+    - identifier: rna150
+      card_set: rna
       number: '150'
       name: Wrecking Beast
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA159
-      card_set: RNA
+    - identifier: rna159
+      card_set: rna
       number: '159'
       name: Bolrac-Clan Crusher
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA173
-      card_set: RNA
+    - identifier: rna173
+      card_set: rna
       number: '173'
       name: Frenzied Arynx
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 3
-    - identifier: RNA215
-      card_set: RNA
+    - identifier: rna215
+      card_set: rna
       number: '215'
       name: Zhur-Taa Goblin
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 3
-    - identifier: RNA124
-      card_set: RNA
+    - identifier: rna124
+      card_set: rna
       number: '124'
       name: End-Raze Forerunners
       rarity: Rare
-      types: Creature
+      card_type: Creature
       count: 1
   - type: Artifact
     count: 1
     cards:
-    - identifier: RNA233
-      card_set: RNA
+    - identifier: rna233
+      card_set: rna
       number: '233'
       name: Glass of the Guildpact
       rarity: Rare
-      types: Artifact
+      card_type: Artifact
       count: 1
   - type: Land
-    count: 26
+    count: 4
     cards:
-    - identifier: RNA264
-      card_set: RNA
-      number: '264'
-      name: Forest
-      rarity: Common
-      types: Land
-      count: 11
-    - identifier: RNA249
-      card_set: RNA
+    - identifier: rna249
+      card_set: rna
       number: '249'
       name: Gruul Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
       count: 2
-    - identifier: RNA250
-      card_set: RNA
+    - identifier: rna250
+      card_set: rna
       number: '250'
       name: Gruul Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
       count: 2
-    - identifier: RNA263
-      card_set: RNA
+  - type: Basic Land
+    count: 22
+    cards:
+    - identifier: rna264
+      card_set: rna
+      number: '264'
+      name: Forest
+      rarity: Common
+      card_type: Basic Land
+      count: 11
+    - identifier: rna263
+      card_set: rna
       number: '263'
       name: Mountain
       rarity: Common
-      types: Land
+      card_type: Basic Land
       count: 11
   - type: Instant
     count: 4
     cards:
-    - identifier: RNA93
-      card_set: RNA
+    - identifier: rna93
+      card_set: rna
       number: '93'
       name: Burn Bright
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 2
-    - identifier: RNA143
-      card_set: RNA
+    - identifier: rna143
+      card_set: rna
       number: '143'
       name: Stony Strength
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 2
   - type: Sorcery
     count: 4
     cards:
-    - identifier: RNA270
-      card_set: RNA
+    - identifier: rna270
+      card_set: rna
       number: '270'
       name: Ragefire
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 4
   count: 60
 - pack_type: Planeswalker Deck - Booster
@@ -2082,122 +2121,122 @@
   - type: Creature
     count: 9
     cards:
-    - identifier: RNA97
-      card_set: RNA
+    - identifier: rna97
+      card_set: rna
       number: '97'
       name: Dagger Caster
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA23
-      card_set: RNA
+    - identifier: rna23
+      card_set: rna
       number: '23'
       name: Spirit of the Spires
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA220
-      card_set: RNA
+    - identifier: rna220
+      card_set: rna
       number: '220'
       name: Vizkopa Vampire
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA49
-      card_set: RNA
+    - identifier: rna49
+      card_set: rna
       number: '49'
       name: Sage's Row Savant
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA111
-      card_set: RNA
+    - identifier: rna111
+      card_set: rna
       number: '111'
       name: Rubblebelt Recluse
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA14
-      card_set: RNA
+    - identifier: rna14
+      card_set: rna
       number: '14'
       name: Knight of Sorrows
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA67
-      card_set: RNA
+    - identifier: rna67
+      card_set: rna
       number: '67'
       name: Catacomb Crocodile
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA184
-      card_set: RNA
+    - identifier: rna184
+      card_set: rna
       number: '184'
       name: Imperious Oligarch
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA15
-      card_set: RNA
+    - identifier: rna15
+      card_set: rna
       number: '15'
       name: Lumbering Battlement
       rarity: Rare
-      types: Creature
+      card_type: Creature
       count: 1
   - type: Sorcery
     count: 3
     cards:
-    - identifier: RNA133
-      card_set: RNA
+    - identifier: rna133
+      card_set: rna
       number: '133'
       name: Open the Gates
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA69
-      card_set: RNA
+    - identifier: rna69
+      card_set: rna
       number: '69'
       name: Consign to the Pit
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA91
-      card_set: RNA
+    - identifier: rna91
+      card_set: rna
       number: '91'
       name: Act of Treason
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
   - type: Instant
     count: 1
     cards:
-    - identifier: RNA176
-      card_set: RNA
+    - identifier: rna176
+      card_set: rna
       number: '176'
       name: Get the Point
       rarity: Common
-      types: Instant
+      card_type: Instant
       count: 1
   - type: Artifact
     count: 1
     cards:
-    - identifier: RNA238
-      card_set: RNA
+    - identifier: rna238
+      card_set: rna
       number: '238'
       name: Scrabbling Claws
       rarity: Uncommon
-      types: Artifact
+      card_type: Artifact
       count: 1
   - type: Land
     count: 1
     cards:
-    - identifier: RNA250
-      card_set: RNA
+    - identifier: rna250
+      card_set: rna
       number: '250'
       name: Gruul Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
       count: 1
   count: 15
 - pack_type: Planeswalker Deck - Booster
@@ -2210,122 +2249,122 @@
   - type: Instant
     count: 2
     cards:
-    - identifier: RNA136
-      card_set: RNA
+    - identifier: rna136
+      card_set: rna
       number: '136'
       name: Regenesis
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
       count: 1
-    - identifier: RNA134
-      card_set: RNA
+    - identifier: rna134
+      card_set: rna
       number: '134'
       name: Rampage of the Clans
       rarity: Rare
-      types: Instant
+      card_type: Instant
       count: 1
   - type: Creature
     count: 9
     cards:
-    - identifier: RNA218
-      card_set: RNA
+    - identifier: rna218
+      card_set: rna
       number: '218'
       name: Scuttlegator
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA155
-      card_set: RNA
+    - identifier: rna155
+      card_set: rna
       number: '155'
       name: Azorius Skyguard
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA44
-      card_set: RNA
+    - identifier: rna44
+      card_set: rna
       number: '44'
       name: Persistent Petitioners
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA202
-      card_set: RNA
+    - identifier: rna202
+      card_set: rna
       number: '202'
       name: Rubblebelt Runner
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA17
-      card_set: RNA
+    - identifier: rna17
+      card_set: rna
       number: '17'
       name: Prowling Caracal
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA216
-      card_set: RNA
+    - identifier: rna216
+      card_set: rna
       number: '216'
       name: Footlight Fiend
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA53
-      card_set: RNA
+    - identifier: rna53
+      card_set: rna
       number: '53'
       name: Skitter Eel
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA150
-      card_set: RNA
+    - identifier: rna150
+      card_set: rna
       number: '150'
       name: Wrecking Beast
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-    - identifier: RNA60
-      card_set: RNA
+    - identifier: rna60
+      card_set: rna
       number: '60'
       name: Windstorm Drake
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
       count: 1
   - type: Sorcery
     count: 2
     cards:
-    - identifier: RNA133
-      card_set: RNA
+    - identifier: rna133
+      card_set: rna
       number: '133'
       name: Open the Gates
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA98
-      card_set: RNA
+    - identifier: rna98
+      card_set: rna
       number: '98'
       name: Deface
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
   - type: Artifact
     count: 1
     cards:
-    - identifier: RNA236
-      card_set: RNA
+    - identifier: rna236
+      card_set: rna
       number: '236'
       name: Orzhov Locket
       rarity: Common
-      types: Artifact
+      card_type: Artifact
       count: 1
   - type: Land
     count: 1
     cards:
-    - identifier: RNA252
-      card_set: RNA
+    - identifier: rna252
+      card_set: rna
       number: '252'
       name: Orzhov Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
       count: 1
   count: 15
 - pack_type: Guild Kit
@@ -2335,120 +2374,303 @@
     alt: Azorius Kit Box Picture
     title: Guild Kit - Azorius
   tokens:
-    GK2: 5, 5, 5, 5, 5
+    gk2: 5, 5, 5, 5, 5
   cards:
-  - type: Creature
-    count: 5
+  - type: Legendary Creature
+    count: 3
     cards:
-    - identifier: GK252
-      card_set: GK2
+    - identifier: gk252
+      card_set: gk2
       number: '52'
       name: Rakdos, Lord of Riots
       rarity: Mythic
-      types: Creature
+      card_type: Legendary Creature
       count: 1
-    - identifier: RNA109
-      card_set: RNA
-      number: '109'
-      name: Rix Maadi Reveler
+    - identifier: gk265
+      card_set: gk2
+      number: '65'
+      name: Lyzolda, the Blood Witch
       rarity: Rare
-      types: Creature
+      card_type: Legendary Creature
       count: 1
-    - identifier: RNA85
-      card_set: RNA
-      number: '85'
-      name: Spawn of Mayhem
-      rarity: Mythic
-      types: Creature
+    - identifier: gk271
+      card_set: gk2
+      number: '71'
+      name: Rakdos the Defiler
+      rarity: Rare
+      card_type: Legendary Creature
       count: 1
-    - identifier: RNA197
-      card_set: RNA
-      number: '197'
-      name: Rakdos Firewheeler
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: RNA63
-      card_set: RNA
+  - type: Creature
+    count: 18
+    cards:
+    - identifier: rna63
+      card_set: rna
       number: '63'
       name: Blade Juggler
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-  - type: Land
-    count: 20
-    cards:
-    - identifier: RNA256
-      card_set: RNA
-      number: '256'
-      name: Rakdos Guildgate
-      rarity: Common
-      types: Land
-      count: 2
-    - identifier: GK278
-      card_set: GK2
-      number: '78'
-      name: Swamp
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: GK279
-      card_set: GK2
-      number: '79'
-      name: Mountain
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: RNA255
-      card_set: RNA
-      number: '255'
-      name: Rakdos Guildgate
-      rarity: Common
-      types: Land
-      count: 2
-  - type: Enchantment
-    count: 2
-    cards:
-    - identifier: RNA213
-      card_set: RNA
-      number: '213'
-      name: Theater of Horrors
+    - identifier: gk257
+      card_set: gk2
+      number: '57'
+      name: Rakdos Pit Dragon
       rarity: Rare
-      types: Enchantment
+      card_type: Creature
       count: 1
-    - identifier: RNA74
-      card_set: RNA
-      number: '74'
-      name: Font of Agonies
+    - identifier: gk266
+      card_set: gk2
+      number: '66'
+      name: Master of Cruelties
+      rarity: Mythic
+      card_type: Creature
+      count: 1
+    - identifier: gk262
+      card_set: gk2
+      number: '62'
+      name: Carnival Hellsteed
       rarity: Rare
-      types: Enchantment
+      card_type: Creature
+      count: 1
+    - identifier: gk259
+      card_set: gk2
+      number: '59'
+      name: Utvara Hellkite
+      rarity: Mythic
+      card_type: Creature
+      count: 1
+    - identifier: gk267
+      card_set: gk2
+      number: '67'
+      name: Rakdos Cackler
+      rarity: Uncommon
+      card_type: Creature
+      count: 2
+    - identifier: gk254
+      card_set: gk2
+      number: '54'
+      name: Thrill-Kill Assassin
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: gk269
+      card_set: gk2
+      number: '69'
+      name: Rakdos Guildmage
+      rarity: Uncommon
+      card_type: Creature
+      count: 2
+    - identifier: gk270
+      card_set: gk2
+      number: '70'
+      name: Rakdos Shred-Freak
+      rarity: Common
+      card_type: Creature
+      count: 1
+    - identifier: gk258
+      card_set: gk2
+      number: '58'
+      name: Splatter Thug
+      rarity: Common
+      card_type: Creature
+      count: 1
+    - identifier: gk264
+      card_set: gk2
+      number: '64'
+      name: Jagged Poppet
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: gk253
+      card_set: gk2
+      number: '53'
+      name: Crypt Champion
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: rna109
+      card_set: rna
+      number: '109'
+      name: Rix Maadi Reveler
+      rarity: Rare
+      card_type: Creature
+      count: 1
+    - identifier: rna85
+      card_set: rna
+      number: '85'
+      name: Spawn of Mayhem
+      rarity: Mythic
+      card_type: Creature
+      count: 1
+    - identifier: rna197
+      card_set: rna
+      number: '197'
+      name: Rakdos Firewheeler
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: gk261
+      card_set: gk2
+      number: '61'
+      name: Avatar of Discord
+      rarity: Rare
+      card_type: Creature
       count: 1
   - type: Sorcery
-    count: 3
+    count: 5
     cards:
-    - identifier: RNA115
-      card_set: RNA
+    - identifier: gk263
+      card_set: gk2
+      number: '63'
+      name: Dreadbore
+      rarity: Rare
+      card_type: Sorcery
+      count: 1
+    - identifier: gk256
+      card_set: gk2
+      number: '56'
+      name: Demonfire
+      rarity: Rare
+      card_type: Sorcery
+      count: 1
+    - identifier: gk272
+      card_set: gk2
+      number: '72'
+      name: Rakdos's Return
+      rarity: Mythic
+      card_type: Sorcery
+      count: 1
+    - identifier: rna115
+      card_set: rna
       number: '115'
       name: Skewer the Critics
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA71
-      card_set: RNA
+    - identifier: rna71
+      card_set: rna
       number: '71'
       name: Dead Revels
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA222
-      card_set: RNA
-      number: '222'
-      name: Carnage/Carnival
+  - type: Land
+    count: 8
+    cards:
+    - identifier: rna256
+      card_set: rna
+      number: '256'
+      name: Rakdos Guildgate
+      rarity: Common
+      card_type: Land
+      count: 2
+    - identifier: gk277
+      card_set: gk2
+      number: '77'
+      name: Rakdos Carnarium
+      rarity: Common
+      card_type: Land
+      count: 4
+    - identifier: rna255
+      card_set: rna
+      number: '255'
+      name: Rakdos Guildgate
+      rarity: Common
+      card_type: Land
+      count: 2
+  - type: Basic Land
+    count: 16
+    cards:
+    - identifier: gk279
+      card_set: gk2
+      number: '79'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land
+      count: 8
+    - identifier: gk278
+      card_set: gk2
+      number: '78'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      count: 8
+  - type: Enchantment
+    count: 3
+    cards:
+    - identifier: gk273
+      card_set: gk2
+      number: '73'
+      name: Riot Spikes
+      rarity: Common
+      card_type: Enchantment
+      count: 1
+    - identifier: rna213
+      card_set: rna
+      number: '213'
+      name: Theater of Horrors
+      rarity: Rare
+      card_type: Enchantment
+      count: 1
+    - identifier: rna74
+      card_set: rna
+      number: '74'
+      name: Font of Agonies
+      rarity: Rare
+      card_type: Enchantment
+      count: 1
+  - type: Artifact
+    count: 3
+    cards:
+    - identifier: gk276
+      card_set: gk2
+      number: '76'
+      name: Rakdos Signet
       rarity: Uncommon
-      types: Sorcery
+      card_type: Artifact
+      count: 2
+    - identifier: gk275
+      card_set: gk2
+      number: '75'
+      name: Rakdos Keyrune
+      rarity: Uncommon
+      card_type: Artifact
+      count: 1
+  - type: Instant
+    count: 3
+    cards:
+    - identifier: gk268
+      card_set: gk2
+      number: '68'
+      name: Rakdos Charm
+      rarity: Uncommon
+      card_type: Instant
+      count: 1
+    - identifier: gk260
+      card_set: gk2
+      number: '60'
+      name: Auger Spree
+      rarity: Common
+      card_type: Instant
+      count: 1
+    - identifier: gk255
+      card_set: gk2
+      number: '55'
+      name: Cackling Flames
+      rarity: Common
+      card_type: Instant
+      count: 1
+  - type: Instant // Sorcery
+    count: 1
+    cards:
+    - identifier: rna222
+      card_set: rna
+      number: '222'
+      name: Carnival // Carnage
+      rarity: Uncommon
+      card_type: Instant // Sorcery
       count: 1
   bought_on: 5/2/2019
-  count: 30
+  count: 60
 - pack_type: Guild Kit
   name: Gruul
   image:
@@ -2456,120 +2678,303 @@
     alt: Gruul Kit Box Picture
     title: Guild Kit - Gruul
   tokens:
-    GK2: 5, 5, 5, 5, 5
+    gk2: 5, 5, 5, 5, 5
   cards:
-  - type: Creature
-    count: 5
+  - type: Legendary Creature
+    count: 3
     cards:
-    - identifier: GK252
-      card_set: GK2
+    - identifier: gk252
+      card_set: gk2
       number: '52'
       name: Rakdos, Lord of Riots
       rarity: Mythic
-      types: Creature
+      card_type: Legendary Creature
       count: 1
-    - identifier: RNA109
-      card_set: RNA
-      number: '109'
-      name: Rix Maadi Reveler
+    - identifier: gk265
+      card_set: gk2
+      number: '65'
+      name: Lyzolda, the Blood Witch
       rarity: Rare
-      types: Creature
+      card_type: Legendary Creature
       count: 1
-    - identifier: RNA85
-      card_set: RNA
-      number: '85'
-      name: Spawn of Mayhem
-      rarity: Mythic
-      types: Creature
+    - identifier: gk271
+      card_set: gk2
+      number: '71'
+      name: Rakdos the Defiler
+      rarity: Rare
+      card_type: Legendary Creature
       count: 1
-    - identifier: RNA197
-      card_set: RNA
-      number: '197'
-      name: Rakdos Firewheeler
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: RNA63
-      card_set: RNA
+  - type: Creature
+    count: 18
+    cards:
+    - identifier: rna63
+      card_set: rna
       number: '63'
       name: Blade Juggler
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-  - type: Land
-    count: 20
-    cards:
-    - identifier: RNA256
-      card_set: RNA
-      number: '256'
-      name: Rakdos Guildgate
-      rarity: Common
-      types: Land
-      count: 2
-    - identifier: GK278
-      card_set: GK2
-      number: '78'
-      name: Swamp
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: GK279
-      card_set: GK2
-      number: '79'
-      name: Mountain
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: RNA255
-      card_set: RNA
-      number: '255'
-      name: Rakdos Guildgate
-      rarity: Common
-      types: Land
-      count: 2
-  - type: Enchantment
-    count: 2
-    cards:
-    - identifier: RNA213
-      card_set: RNA
-      number: '213'
-      name: Theater of Horrors
+    - identifier: gk257
+      card_set: gk2
+      number: '57'
+      name: Rakdos Pit Dragon
       rarity: Rare
-      types: Enchantment
+      card_type: Creature
       count: 1
-    - identifier: RNA74
-      card_set: RNA
-      number: '74'
-      name: Font of Agonies
+    - identifier: gk266
+      card_set: gk2
+      number: '66'
+      name: Master of Cruelties
+      rarity: Mythic
+      card_type: Creature
+      count: 1
+    - identifier: gk262
+      card_set: gk2
+      number: '62'
+      name: Carnival Hellsteed
       rarity: Rare
-      types: Enchantment
+      card_type: Creature
+      count: 1
+    - identifier: gk259
+      card_set: gk2
+      number: '59'
+      name: Utvara Hellkite
+      rarity: Mythic
+      card_type: Creature
+      count: 1
+    - identifier: gk267
+      card_set: gk2
+      number: '67'
+      name: Rakdos Cackler
+      rarity: Uncommon
+      card_type: Creature
+      count: 2
+    - identifier: gk254
+      card_set: gk2
+      number: '54'
+      name: Thrill-Kill Assassin
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: gk269
+      card_set: gk2
+      number: '69'
+      name: Rakdos Guildmage
+      rarity: Uncommon
+      card_type: Creature
+      count: 2
+    - identifier: gk270
+      card_set: gk2
+      number: '70'
+      name: Rakdos Shred-Freak
+      rarity: Common
+      card_type: Creature
+      count: 1
+    - identifier: gk258
+      card_set: gk2
+      number: '58'
+      name: Splatter Thug
+      rarity: Common
+      card_type: Creature
+      count: 1
+    - identifier: gk264
+      card_set: gk2
+      number: '64'
+      name: Jagged Poppet
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: gk253
+      card_set: gk2
+      number: '53'
+      name: Crypt Champion
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: rna109
+      card_set: rna
+      number: '109'
+      name: Rix Maadi Reveler
+      rarity: Rare
+      card_type: Creature
+      count: 1
+    - identifier: rna85
+      card_set: rna
+      number: '85'
+      name: Spawn of Mayhem
+      rarity: Mythic
+      card_type: Creature
+      count: 1
+    - identifier: rna197
+      card_set: rna
+      number: '197'
+      name: Rakdos Firewheeler
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: gk261
+      card_set: gk2
+      number: '61'
+      name: Avatar of Discord
+      rarity: Rare
+      card_type: Creature
       count: 1
   - type: Sorcery
-    count: 3
+    count: 5
     cards:
-    - identifier: RNA115
-      card_set: RNA
+    - identifier: gk263
+      card_set: gk2
+      number: '63'
+      name: Dreadbore
+      rarity: Rare
+      card_type: Sorcery
+      count: 1
+    - identifier: gk256
+      card_set: gk2
+      number: '56'
+      name: Demonfire
+      rarity: Rare
+      card_type: Sorcery
+      count: 1
+    - identifier: gk272
+      card_set: gk2
+      number: '72'
+      name: Rakdos's Return
+      rarity: Mythic
+      card_type: Sorcery
+      count: 1
+    - identifier: rna115
+      card_set: rna
       number: '115'
       name: Skewer the Critics
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA71
-      card_set: RNA
+    - identifier: rna71
+      card_set: rna
       number: '71'
       name: Dead Revels
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA222
-      card_set: RNA
-      number: '222'
-      name: Carnage/Carnival
+  - type: Land
+    count: 8
+    cards:
+    - identifier: rna256
+      card_set: rna
+      number: '256'
+      name: Rakdos Guildgate
+      rarity: Common
+      card_type: Land
+      count: 2
+    - identifier: gk277
+      card_set: gk2
+      number: '77'
+      name: Rakdos Carnarium
+      rarity: Common
+      card_type: Land
+      count: 4
+    - identifier: rna255
+      card_set: rna
+      number: '255'
+      name: Rakdos Guildgate
+      rarity: Common
+      card_type: Land
+      count: 2
+  - type: Basic Land
+    count: 16
+    cards:
+    - identifier: gk279
+      card_set: gk2
+      number: '79'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land
+      count: 8
+    - identifier: gk278
+      card_set: gk2
+      number: '78'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      count: 8
+  - type: Enchantment
+    count: 3
+    cards:
+    - identifier: gk273
+      card_set: gk2
+      number: '73'
+      name: Riot Spikes
+      rarity: Common
+      card_type: Enchantment
+      count: 1
+    - identifier: rna213
+      card_set: rna
+      number: '213'
+      name: Theater of Horrors
+      rarity: Rare
+      card_type: Enchantment
+      count: 1
+    - identifier: rna74
+      card_set: rna
+      number: '74'
+      name: Font of Agonies
+      rarity: Rare
+      card_type: Enchantment
+      count: 1
+  - type: Artifact
+    count: 3
+    cards:
+    - identifier: gk276
+      card_set: gk2
+      number: '76'
+      name: Rakdos Signet
       rarity: Uncommon
-      types: Sorcery
+      card_type: Artifact
+      count: 2
+    - identifier: gk275
+      card_set: gk2
+      number: '75'
+      name: Rakdos Keyrune
+      rarity: Uncommon
+      card_type: Artifact
+      count: 1
+  - type: Instant
+    count: 3
+    cards:
+    - identifier: gk268
+      card_set: gk2
+      number: '68'
+      name: Rakdos Charm
+      rarity: Uncommon
+      card_type: Instant
+      count: 1
+    - identifier: gk260
+      card_set: gk2
+      number: '60'
+      name: Auger Spree
+      rarity: Common
+      card_type: Instant
+      count: 1
+    - identifier: gk255
+      card_set: gk2
+      number: '55'
+      name: Cackling Flames
+      rarity: Common
+      card_type: Instant
+      count: 1
+  - type: Instant // Sorcery
+    count: 1
+    cards:
+    - identifier: rna222
+      card_set: rna
+      number: '222'
+      name: Carnival // Carnage
+      rarity: Uncommon
+      card_type: Instant // Sorcery
       count: 1
   bought_on: 5/2/2019
-  count: 30
+  count: 60
 - pack_type: Guild Kit
   name: Orzhov
   image:
@@ -2577,120 +2982,303 @@
     alt: Orzhov Kit Box Picture
     title: Guild Kit - Orzhov
   tokens:
-    GK2: 5, 5, 5, 5, 5
+    gk2: 5, 5, 5, 5, 5
   cards:
-  - type: Creature
-    count: 5
+  - type: Legendary Creature
+    count: 3
     cards:
-    - identifier: GK252
-      card_set: GK2
+    - identifier: gk252
+      card_set: gk2
       number: '52'
       name: Rakdos, Lord of Riots
       rarity: Mythic
-      types: Creature
+      card_type: Legendary Creature
       count: 1
-    - identifier: RNA109
-      card_set: RNA
-      number: '109'
-      name: Rix Maadi Reveler
+    - identifier: gk265
+      card_set: gk2
+      number: '65'
+      name: Lyzolda, the Blood Witch
       rarity: Rare
-      types: Creature
+      card_type: Legendary Creature
       count: 1
-    - identifier: RNA85
-      card_set: RNA
-      number: '85'
-      name: Spawn of Mayhem
-      rarity: Mythic
-      types: Creature
+    - identifier: gk271
+      card_set: gk2
+      number: '71'
+      name: Rakdos the Defiler
+      rarity: Rare
+      card_type: Legendary Creature
       count: 1
-    - identifier: RNA197
-      card_set: RNA
-      number: '197'
-      name: Rakdos Firewheeler
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: RNA63
-      card_set: RNA
+  - type: Creature
+    count: 18
+    cards:
+    - identifier: rna63
+      card_set: rna
       number: '63'
       name: Blade Juggler
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-  - type: Land
-    count: 20
-    cards:
-    - identifier: RNA256
-      card_set: RNA
-      number: '256'
-      name: Rakdos Guildgate
-      rarity: Common
-      types: Land
-      count: 2
-    - identifier: GK278
-      card_set: GK2
-      number: '78'
-      name: Swamp
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: GK279
-      card_set: GK2
-      number: '79'
-      name: Mountain
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: RNA255
-      card_set: RNA
-      number: '255'
-      name: Rakdos Guildgate
-      rarity: Common
-      types: Land
-      count: 2
-  - type: Enchantment
-    count: 2
-    cards:
-    - identifier: RNA213
-      card_set: RNA
-      number: '213'
-      name: Theater of Horrors
+    - identifier: gk257
+      card_set: gk2
+      number: '57'
+      name: Rakdos Pit Dragon
       rarity: Rare
-      types: Enchantment
+      card_type: Creature
       count: 1
-    - identifier: RNA74
-      card_set: RNA
-      number: '74'
-      name: Font of Agonies
+    - identifier: gk266
+      card_set: gk2
+      number: '66'
+      name: Master of Cruelties
+      rarity: Mythic
+      card_type: Creature
+      count: 1
+    - identifier: gk262
+      card_set: gk2
+      number: '62'
+      name: Carnival Hellsteed
       rarity: Rare
-      types: Enchantment
+      card_type: Creature
+      count: 1
+    - identifier: gk259
+      card_set: gk2
+      number: '59'
+      name: Utvara Hellkite
+      rarity: Mythic
+      card_type: Creature
+      count: 1
+    - identifier: gk267
+      card_set: gk2
+      number: '67'
+      name: Rakdos Cackler
+      rarity: Uncommon
+      card_type: Creature
+      count: 2
+    - identifier: gk254
+      card_set: gk2
+      number: '54'
+      name: Thrill-Kill Assassin
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: gk269
+      card_set: gk2
+      number: '69'
+      name: Rakdos Guildmage
+      rarity: Uncommon
+      card_type: Creature
+      count: 2
+    - identifier: gk270
+      card_set: gk2
+      number: '70'
+      name: Rakdos Shred-Freak
+      rarity: Common
+      card_type: Creature
+      count: 1
+    - identifier: gk258
+      card_set: gk2
+      number: '58'
+      name: Splatter Thug
+      rarity: Common
+      card_type: Creature
+      count: 1
+    - identifier: gk264
+      card_set: gk2
+      number: '64'
+      name: Jagged Poppet
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: gk253
+      card_set: gk2
+      number: '53'
+      name: Crypt Champion
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: rna109
+      card_set: rna
+      number: '109'
+      name: Rix Maadi Reveler
+      rarity: Rare
+      card_type: Creature
+      count: 1
+    - identifier: rna85
+      card_set: rna
+      number: '85'
+      name: Spawn of Mayhem
+      rarity: Mythic
+      card_type: Creature
+      count: 1
+    - identifier: rna197
+      card_set: rna
+      number: '197'
+      name: Rakdos Firewheeler
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: gk261
+      card_set: gk2
+      number: '61'
+      name: Avatar of Discord
+      rarity: Rare
+      card_type: Creature
       count: 1
   - type: Sorcery
-    count: 3
+    count: 5
     cards:
-    - identifier: RNA115
-      card_set: RNA
+    - identifier: gk263
+      card_set: gk2
+      number: '63'
+      name: Dreadbore
+      rarity: Rare
+      card_type: Sorcery
+      count: 1
+    - identifier: gk256
+      card_set: gk2
+      number: '56'
+      name: Demonfire
+      rarity: Rare
+      card_type: Sorcery
+      count: 1
+    - identifier: gk272
+      card_set: gk2
+      number: '72'
+      name: Rakdos's Return
+      rarity: Mythic
+      card_type: Sorcery
+      count: 1
+    - identifier: rna115
+      card_set: rna
       number: '115'
       name: Skewer the Critics
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA71
-      card_set: RNA
+    - identifier: rna71
+      card_set: rna
       number: '71'
       name: Dead Revels
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA222
-      card_set: RNA
-      number: '222'
-      name: Carnage/Carnival
+  - type: Land
+    count: 8
+    cards:
+    - identifier: rna256
+      card_set: rna
+      number: '256'
+      name: Rakdos Guildgate
+      rarity: Common
+      card_type: Land
+      count: 2
+    - identifier: gk277
+      card_set: gk2
+      number: '77'
+      name: Rakdos Carnarium
+      rarity: Common
+      card_type: Land
+      count: 4
+    - identifier: rna255
+      card_set: rna
+      number: '255'
+      name: Rakdos Guildgate
+      rarity: Common
+      card_type: Land
+      count: 2
+  - type: Basic Land
+    count: 16
+    cards:
+    - identifier: gk279
+      card_set: gk2
+      number: '79'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land
+      count: 8
+    - identifier: gk278
+      card_set: gk2
+      number: '78'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      count: 8
+  - type: Enchantment
+    count: 3
+    cards:
+    - identifier: gk273
+      card_set: gk2
+      number: '73'
+      name: Riot Spikes
+      rarity: Common
+      card_type: Enchantment
+      count: 1
+    - identifier: rna213
+      card_set: rna
+      number: '213'
+      name: Theater of Horrors
+      rarity: Rare
+      card_type: Enchantment
+      count: 1
+    - identifier: rna74
+      card_set: rna
+      number: '74'
+      name: Font of Agonies
+      rarity: Rare
+      card_type: Enchantment
+      count: 1
+  - type: Artifact
+    count: 3
+    cards:
+    - identifier: gk276
+      card_set: gk2
+      number: '76'
+      name: Rakdos Signet
       rarity: Uncommon
-      types: Sorcery
+      card_type: Artifact
+      count: 2
+    - identifier: gk275
+      card_set: gk2
+      number: '75'
+      name: Rakdos Keyrune
+      rarity: Uncommon
+      card_type: Artifact
+      count: 1
+  - type: Instant
+    count: 3
+    cards:
+    - identifier: gk268
+      card_set: gk2
+      number: '68'
+      name: Rakdos Charm
+      rarity: Uncommon
+      card_type: Instant
+      count: 1
+    - identifier: gk260
+      card_set: gk2
+      number: '60'
+      name: Auger Spree
+      rarity: Common
+      card_type: Instant
+      count: 1
+    - identifier: gk255
+      card_set: gk2
+      number: '55'
+      name: Cackling Flames
+      rarity: Common
+      card_type: Instant
+      count: 1
+  - type: Instant // Sorcery
+    count: 1
+    cards:
+    - identifier: rna222
+      card_set: rna
+      number: '222'
+      name: Carnival // Carnage
+      rarity: Uncommon
+      card_type: Instant // Sorcery
       count: 1
   bought_on: 5/2/2019
-  count: 30
+  count: 60
 - pack_type: Guild Kit
   name: Rakdos
   image:
@@ -2698,120 +3286,303 @@
     alt: Rakdos Guild Kit Box Picture
     title: Guild Kit - Rakdos
   tokens:
-    GK2: 5, 5, 5, 5, 5
+    gk2: 5, 5, 5, 5, 5
   cards:
-  - type: Creature
-    count: 5
+  - type: Legendary Creature
+    count: 3
     cards:
-    - identifier: GK252
-      card_set: GK2
+    - identifier: gk252
+      card_set: gk2
       number: '52'
       name: Rakdos, Lord of Riots
       rarity: Mythic
-      types: Creature
+      card_type: Legendary Creature
       count: 1
-    - identifier: RNA109
-      card_set: RNA
-      number: '109'
-      name: Rix Maadi Reveler
+    - identifier: gk265
+      card_set: gk2
+      number: '65'
+      name: Lyzolda, the Blood Witch
       rarity: Rare
-      types: Creature
+      card_type: Legendary Creature
       count: 1
-    - identifier: RNA85
-      card_set: RNA
-      number: '85'
-      name: Spawn of Mayhem
-      rarity: Mythic
-      types: Creature
+    - identifier: gk271
+      card_set: gk2
+      number: '71'
+      name: Rakdos the Defiler
+      rarity: Rare
+      card_type: Legendary Creature
       count: 1
-    - identifier: RNA197
-      card_set: RNA
-      number: '197'
-      name: Rakdos Firewheeler
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: RNA63
-      card_set: RNA
+  - type: Creature
+    count: 18
+    cards:
+    - identifier: rna63
+      card_set: rna
       number: '63'
       name: Blade Juggler
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-  - type: Land
-    count: 20
-    cards:
-    - identifier: RNA256
-      card_set: RNA
-      number: '256'
-      name: Rakdos Guildgate
-      rarity: Common
-      types: Land
-      count: 2
-    - identifier: GK278
-      card_set: GK2
-      number: '78'
-      name: Swamp
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: GK279
-      card_set: GK2
-      number: '79'
-      name: Mountain
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: RNA255
-      card_set: RNA
-      number: '255'
-      name: Rakdos Guildgate
-      rarity: Common
-      types: Land
-      count: 2
-  - type: Enchantment
-    count: 2
-    cards:
-    - identifier: RNA213
-      card_set: RNA
-      number: '213'
-      name: Theater of Horrors
+    - identifier: gk257
+      card_set: gk2
+      number: '57'
+      name: Rakdos Pit Dragon
       rarity: Rare
-      types: Enchantment
+      card_type: Creature
       count: 1
-    - identifier: RNA74
-      card_set: RNA
-      number: '74'
-      name: Font of Agonies
+    - identifier: gk266
+      card_set: gk2
+      number: '66'
+      name: Master of Cruelties
+      rarity: Mythic
+      card_type: Creature
+      count: 1
+    - identifier: gk262
+      card_set: gk2
+      number: '62'
+      name: Carnival Hellsteed
       rarity: Rare
-      types: Enchantment
+      card_type: Creature
+      count: 1
+    - identifier: gk259
+      card_set: gk2
+      number: '59'
+      name: Utvara Hellkite
+      rarity: Mythic
+      card_type: Creature
+      count: 1
+    - identifier: gk267
+      card_set: gk2
+      number: '67'
+      name: Rakdos Cackler
+      rarity: Uncommon
+      card_type: Creature
+      count: 2
+    - identifier: gk254
+      card_set: gk2
+      number: '54'
+      name: Thrill-Kill Assassin
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: gk269
+      card_set: gk2
+      number: '69'
+      name: Rakdos Guildmage
+      rarity: Uncommon
+      card_type: Creature
+      count: 2
+    - identifier: gk270
+      card_set: gk2
+      number: '70'
+      name: Rakdos Shred-Freak
+      rarity: Common
+      card_type: Creature
+      count: 1
+    - identifier: gk258
+      card_set: gk2
+      number: '58'
+      name: Splatter Thug
+      rarity: Common
+      card_type: Creature
+      count: 1
+    - identifier: gk264
+      card_set: gk2
+      number: '64'
+      name: Jagged Poppet
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: gk253
+      card_set: gk2
+      number: '53'
+      name: Crypt Champion
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: rna109
+      card_set: rna
+      number: '109'
+      name: Rix Maadi Reveler
+      rarity: Rare
+      card_type: Creature
+      count: 1
+    - identifier: rna85
+      card_set: rna
+      number: '85'
+      name: Spawn of Mayhem
+      rarity: Mythic
+      card_type: Creature
+      count: 1
+    - identifier: rna197
+      card_set: rna
+      number: '197'
+      name: Rakdos Firewheeler
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: gk261
+      card_set: gk2
+      number: '61'
+      name: Avatar of Discord
+      rarity: Rare
+      card_type: Creature
       count: 1
   - type: Sorcery
-    count: 3
+    count: 5
     cards:
-    - identifier: RNA115
-      card_set: RNA
+    - identifier: gk263
+      card_set: gk2
+      number: '63'
+      name: Dreadbore
+      rarity: Rare
+      card_type: Sorcery
+      count: 1
+    - identifier: gk256
+      card_set: gk2
+      number: '56'
+      name: Demonfire
+      rarity: Rare
+      card_type: Sorcery
+      count: 1
+    - identifier: gk272
+      card_set: gk2
+      number: '72'
+      name: Rakdos's Return
+      rarity: Mythic
+      card_type: Sorcery
+      count: 1
+    - identifier: rna115
+      card_set: rna
       number: '115'
       name: Skewer the Critics
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA71
-      card_set: RNA
+    - identifier: rna71
+      card_set: rna
       number: '71'
       name: Dead Revels
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA222
-      card_set: RNA
-      number: '222'
-      name: Carnage/Carnival
+  - type: Land
+    count: 8
+    cards:
+    - identifier: rna256
+      card_set: rna
+      number: '256'
+      name: Rakdos Guildgate
+      rarity: Common
+      card_type: Land
+      count: 2
+    - identifier: gk277
+      card_set: gk2
+      number: '77'
+      name: Rakdos Carnarium
+      rarity: Common
+      card_type: Land
+      count: 4
+    - identifier: rna255
+      card_set: rna
+      number: '255'
+      name: Rakdos Guildgate
+      rarity: Common
+      card_type: Land
+      count: 2
+  - type: Basic Land
+    count: 16
+    cards:
+    - identifier: gk279
+      card_set: gk2
+      number: '79'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land
+      count: 8
+    - identifier: gk278
+      card_set: gk2
+      number: '78'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      count: 8
+  - type: Enchantment
+    count: 3
+    cards:
+    - identifier: gk273
+      card_set: gk2
+      number: '73'
+      name: Riot Spikes
+      rarity: Common
+      card_type: Enchantment
+      count: 1
+    - identifier: rna213
+      card_set: rna
+      number: '213'
+      name: Theater of Horrors
+      rarity: Rare
+      card_type: Enchantment
+      count: 1
+    - identifier: rna74
+      card_set: rna
+      number: '74'
+      name: Font of Agonies
+      rarity: Rare
+      card_type: Enchantment
+      count: 1
+  - type: Artifact
+    count: 3
+    cards:
+    - identifier: gk276
+      card_set: gk2
+      number: '76'
+      name: Rakdos Signet
       rarity: Uncommon
-      types: Sorcery
+      card_type: Artifact
+      count: 2
+    - identifier: gk275
+      card_set: gk2
+      number: '75'
+      name: Rakdos Keyrune
+      rarity: Uncommon
+      card_type: Artifact
+      count: 1
+  - type: Instant
+    count: 3
+    cards:
+    - identifier: gk268
+      card_set: gk2
+      number: '68'
+      name: Rakdos Charm
+      rarity: Uncommon
+      card_type: Instant
+      count: 1
+    - identifier: gk260
+      card_set: gk2
+      number: '60'
+      name: Auger Spree
+      rarity: Common
+      card_type: Instant
+      count: 1
+    - identifier: gk255
+      card_set: gk2
+      number: '55'
+      name: Cackling Flames
+      rarity: Common
+      card_type: Instant
+      count: 1
+  - type: Instant // Sorcery
+    count: 1
+    cards:
+    - identifier: rna222
+      card_set: rna
+      number: '222'
+      name: Carnival // Carnage
+      rarity: Uncommon
+      card_type: Instant // Sorcery
       count: 1
   bought_on: 5/2/2019
-  count: 30
+  count: 60
 - pack_type: Guild Kit
   name: Simic
   image:
@@ -2819,117 +3590,300 @@
     alt: Simic Kit Box Picture
     title: Guild Kit - Simic
   tokens:
-    GK2: 5, 5, 5, 5, 5
+    gk2: 5, 5, 5, 5, 5
   cards:
-  - type: Creature
-    count: 5
+  - type: Legendary Creature
+    count: 3
     cards:
-    - identifier: GK252
-      card_set: GK2
+    - identifier: gk252
+      card_set: gk2
       number: '52'
       name: Rakdos, Lord of Riots
       rarity: Mythic
-      types: Creature
+      card_type: Legendary Creature
       count: 1
-    - identifier: RNA109
-      card_set: RNA
-      number: '109'
-      name: Rix Maadi Reveler
+    - identifier: gk265
+      card_set: gk2
+      number: '65'
+      name: Lyzolda, the Blood Witch
       rarity: Rare
-      types: Creature
+      card_type: Legendary Creature
       count: 1
-    - identifier: RNA85
-      card_set: RNA
-      number: '85'
-      name: Spawn of Mayhem
-      rarity: Mythic
-      types: Creature
+    - identifier: gk271
+      card_set: gk2
+      number: '71'
+      name: Rakdos the Defiler
+      rarity: Rare
+      card_type: Legendary Creature
       count: 1
-    - identifier: RNA197
-      card_set: RNA
-      number: '197'
-      name: Rakdos Firewheeler
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: RNA63
-      card_set: RNA
+  - type: Creature
+    count: 18
+    cards:
+    - identifier: rna63
+      card_set: rna
       number: '63'
       name: Blade Juggler
       rarity: Common
-      types: Creature
+      card_type: Creature
       count: 1
-  - type: Land
-    count: 20
-    cards:
-    - identifier: RNA256
-      card_set: RNA
-      number: '256'
-      name: Rakdos Guildgate
-      rarity: Common
-      types: Land
-      count: 2
-    - identifier: GK278
-      card_set: GK2
-      number: '78'
-      name: Swamp
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: GK279
-      card_set: GK2
-      number: '79'
-      name: Mountain
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: RNA255
-      card_set: RNA
-      number: '255'
-      name: Rakdos Guildgate
-      rarity: Common
-      types: Land
-      count: 2
-  - type: Enchantment
-    count: 2
-    cards:
-    - identifier: RNA213
-      card_set: RNA
-      number: '213'
-      name: Theater of Horrors
+    - identifier: gk257
+      card_set: gk2
+      number: '57'
+      name: Rakdos Pit Dragon
       rarity: Rare
-      types: Enchantment
+      card_type: Creature
       count: 1
-    - identifier: RNA74
-      card_set: RNA
-      number: '74'
-      name: Font of Agonies
+    - identifier: gk266
+      card_set: gk2
+      number: '66'
+      name: Master of Cruelties
+      rarity: Mythic
+      card_type: Creature
+      count: 1
+    - identifier: gk262
+      card_set: gk2
+      number: '62'
+      name: Carnival Hellsteed
       rarity: Rare
-      types: Enchantment
+      card_type: Creature
+      count: 1
+    - identifier: gk259
+      card_set: gk2
+      number: '59'
+      name: Utvara Hellkite
+      rarity: Mythic
+      card_type: Creature
+      count: 1
+    - identifier: gk267
+      card_set: gk2
+      number: '67'
+      name: Rakdos Cackler
+      rarity: Uncommon
+      card_type: Creature
+      count: 2
+    - identifier: gk254
+      card_set: gk2
+      number: '54'
+      name: Thrill-Kill Assassin
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: gk269
+      card_set: gk2
+      number: '69'
+      name: Rakdos Guildmage
+      rarity: Uncommon
+      card_type: Creature
+      count: 2
+    - identifier: gk270
+      card_set: gk2
+      number: '70'
+      name: Rakdos Shred-Freak
+      rarity: Common
+      card_type: Creature
+      count: 1
+    - identifier: gk258
+      card_set: gk2
+      number: '58'
+      name: Splatter Thug
+      rarity: Common
+      card_type: Creature
+      count: 1
+    - identifier: gk264
+      card_set: gk2
+      number: '64'
+      name: Jagged Poppet
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: gk253
+      card_set: gk2
+      number: '53'
+      name: Crypt Champion
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: rna109
+      card_set: rna
+      number: '109'
+      name: Rix Maadi Reveler
+      rarity: Rare
+      card_type: Creature
+      count: 1
+    - identifier: rna85
+      card_set: rna
+      number: '85'
+      name: Spawn of Mayhem
+      rarity: Mythic
+      card_type: Creature
+      count: 1
+    - identifier: rna197
+      card_set: rna
+      number: '197'
+      name: Rakdos Firewheeler
+      rarity: Uncommon
+      card_type: Creature
+      count: 1
+    - identifier: gk261
+      card_set: gk2
+      number: '61'
+      name: Avatar of Discord
+      rarity: Rare
+      card_type: Creature
       count: 1
   - type: Sorcery
-    count: 3
+    count: 5
     cards:
-    - identifier: RNA115
-      card_set: RNA
+    - identifier: gk263
+      card_set: gk2
+      number: '63'
+      name: Dreadbore
+      rarity: Rare
+      card_type: Sorcery
+      count: 1
+    - identifier: gk256
+      card_set: gk2
+      number: '56'
+      name: Demonfire
+      rarity: Rare
+      card_type: Sorcery
+      count: 1
+    - identifier: gk272
+      card_set: gk2
+      number: '72'
+      name: Rakdos's Return
+      rarity: Mythic
+      card_type: Sorcery
+      count: 1
+    - identifier: rna115
+      card_set: rna
       number: '115'
       name: Skewer the Critics
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA71
-      card_set: RNA
+    - identifier: rna71
+      card_set: rna
       number: '71'
       name: Dead Revels
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
       count: 1
-    - identifier: RNA222
-      card_set: RNA
-      number: '222'
-      name: Carnage/Carnival
+  - type: Land
+    count: 8
+    cards:
+    - identifier: rna256
+      card_set: rna
+      number: '256'
+      name: Rakdos Guildgate
+      rarity: Common
+      card_type: Land
+      count: 2
+    - identifier: gk277
+      card_set: gk2
+      number: '77'
+      name: Rakdos Carnarium
+      rarity: Common
+      card_type: Land
+      count: 4
+    - identifier: rna255
+      card_set: rna
+      number: '255'
+      name: Rakdos Guildgate
+      rarity: Common
+      card_type: Land
+      count: 2
+  - type: Basic Land
+    count: 16
+    cards:
+    - identifier: gk279
+      card_set: gk2
+      number: '79'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land
+      count: 8
+    - identifier: gk278
+      card_set: gk2
+      number: '78'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      count: 8
+  - type: Enchantment
+    count: 3
+    cards:
+    - identifier: gk273
+      card_set: gk2
+      number: '73'
+      name: Riot Spikes
+      rarity: Common
+      card_type: Enchantment
+      count: 1
+    - identifier: rna213
+      card_set: rna
+      number: '213'
+      name: Theater of Horrors
+      rarity: Rare
+      card_type: Enchantment
+      count: 1
+    - identifier: rna74
+      card_set: rna
+      number: '74'
+      name: Font of Agonies
+      rarity: Rare
+      card_type: Enchantment
+      count: 1
+  - type: Artifact
+    count: 3
+    cards:
+    - identifier: gk276
+      card_set: gk2
+      number: '76'
+      name: Rakdos Signet
       rarity: Uncommon
-      types: Sorcery
+      card_type: Artifact
+      count: 2
+    - identifier: gk275
+      card_set: gk2
+      number: '75'
+      name: Rakdos Keyrune
+      rarity: Uncommon
+      card_type: Artifact
+      count: 1
+  - type: Instant
+    count: 3
+    cards:
+    - identifier: gk268
+      card_set: gk2
+      number: '68'
+      name: Rakdos Charm
+      rarity: Uncommon
+      card_type: Instant
+      count: 1
+    - identifier: gk260
+      card_set: gk2
+      number: '60'
+      name: Auger Spree
+      rarity: Common
+      card_type: Instant
+      count: 1
+    - identifier: gk255
+      card_set: gk2
+      number: '55'
+      name: Cackling Flames
+      rarity: Common
+      card_type: Instant
+      count: 1
+  - type: Instant // Sorcery
+    count: 1
+    cards:
+    - identifier: rna222
+      card_set: rna
+      number: '222'
+      name: Carnival // Carnage
+      rarity: Uncommon
+      card_type: Instant // Sorcery
       count: 1
   bought_on: 5/2/2019
-  count: 30
+  count: 60

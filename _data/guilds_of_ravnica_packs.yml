@@ -6,272 +6,314 @@
     alt: Boros Guild Kit Box Picture
     title: Guild Kit - Boros
   cards:
-  - type: Creature
-    count: 25
+  - type: Legendary Creature
+    count: 3
     cards:
-    - identifier: GRN176
-      card_set: GRN
-      number: '176'
-      name: Hammer Dropper
-      rarity: Common
-      types: Creature
-      count: 1
-    - identifier: GK182
-      card_set: GK1
-      number: '82'
-      name: Legion Loyalist
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK185
-      card_set: GK1
-      number: '85'
-      name: Boros Reckoner
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK189
-      card_set: GK1
-      number: '89'
-      name: Firemane Avenger
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK194
-      card_set: GK1
-      number: '94'
-      name: Spark Trooper
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK183
-      card_set: GK1
-      number: '83'
-      name: Agrus Kos, Wojek Veteran
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK188
-      card_set: GK1
-      number: '88'
-      name: Firemane Angel
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK193
-      card_set: GK1
-      number: '93'
-      name: Razia, Boros Archangel
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK181
-      card_set: GK1
-      number: '81'
-      name: Frenzied Goblin
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GK178
-      card_set: GK1
-      number: '78'
-      name: Boros Elite
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GK180
-      card_set: GK1
-      number: '80'
-      name: Bomber Corps
-      rarity: Common
-      types: Creature
-      count: 1
-    - identifier: GK179
-      card_set: GK1
-      number: '79'
-      name: Daring Skyjek
-      rarity: Common
-      types: Creature
-      count: 1
-    - identifier: GK186
-      card_set: GK1
-      number: '86'
-      name: Boros Swiftblade
-      rarity: Uncommon
-      types: Creature
-      count: 2
-    - identifier: GK195
-      card_set: GK1
-      number: '95'
-      name: Sunhome Guildmage
-      rarity: Uncommon
-      types: Creature
-      count: 2
-    - identifier: GRN203
-      card_set: GRN
-      number: '203'
-      name: Swiftblade Vindicator
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GRN109
-      card_set: GRN
-      number: '109'
-      name: Legion Warboss
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GRN19
-      card_set: GRN
-      number: '19'
-      name: Light of the Legion
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GRN26
-      card_set: GRN
-      number: '26'
-      name: Sunhome Stalwart
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GRN120
-      card_set: GRN
-      number: '120'
-      name: Wojek Bodyguard
-      rarity: Common
-      types: Creature
-      count: 1
-    - identifier: GRN1
-      card_set: GRN
-      number: '1'
-      name: Blade Instructor
-      rarity: Common
-      types: Creature
-      count: 1
-    - identifier: GRN198
-      card_set: GRN
-      number: '198'
-      name: Skyknight Legionnaire
-      rarity: Common
-      types: Creature
-      count: 2
-    - identifier: GK177
-      card_set: GK1
+    - identifier: gk177
+      card_set: gk1
       number: '77'
       name: Aurelia, the Warleader
       rarity: Mythic
-      types: Creature
+      card_type: Legendary Creature
+      mana_cost: "{2}{R}{R}{W}{W}"
+      count: 1
+    - identifier: gk183
+      card_set: gk1
+      number: '83'
+      name: Agrus Kos, Wojek Veteran
+      rarity: Rare
+      card_type: Legendary Creature
+      mana_cost: "{3}{R}{W}"
+      count: 1
+    - identifier: gk193
+      card_set: gk1
+      number: '93'
+      name: Razia, Boros Archangel
+      rarity: Rare
+      card_type: Legendary Creature
+      mana_cost: "{4}{R}{R}{W}{W}"
+      count: 1
+  - type: Creature
+    count: 22
+    cards:
+    - identifier: grn176
+      card_set: grn
+      number: '176'
+      name: Hammer Dropper
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{R}{W}"
+      count: 1
+    - identifier: gk185
+      card_set: gk1
+      number: '85'
+      name: Boros Reckoner
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{R/W}{R/W}{R/W}"
+      count: 1
+    - identifier: gk189
+      card_set: gk1
+      number: '89'
+      name: Firemane Avenger
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{2}{R}{W}"
+      count: 1
+    - identifier: gk194
+      card_set: gk1
+      number: '94'
+      name: Spark Trooper
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{1}{R}{R}{W}"
+      count: 1
+    - identifier: gk188
+      card_set: gk1
+      number: '88'
+      name: Firemane Angel
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{3}{R}{W}{W}"
+      count: 1
+    - identifier: gk181
+      card_set: gk1
+      number: '81'
+      name: Frenzied Goblin
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{R}"
+      count: 1
+    - identifier: gk178
+      card_set: gk1
+      number: '78'
+      name: Boros Elite
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{W}"
+      count: 1
+    - identifier: gk180
+      card_set: gk1
+      number: '80'
+      name: Bomber Corps
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{R}"
+      count: 1
+    - identifier: gk179
+      card_set: gk1
+      number: '79'
+      name: Daring Skyjek
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{W}"
+      count: 1
+    - identifier: gk186
+      card_set: gk1
+      number: '86'
+      name: Boros Swiftblade
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{R}{W}"
+      count: 2
+    - identifier: gk195
+      card_set: gk1
+      number: '95'
+      name: Sunhome Guildmage
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{R}{W}"
+      count: 2
+    - identifier: grn203
+      card_set: grn
+      number: '203'
+      name: Swiftblade Vindicator
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{R}{W}"
+      count: 1
+    - identifier: grn109
+      card_set: grn
+      number: '109'
+      name: Legion Warboss
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{2}{R}"
+      count: 1
+    - identifier: grn19
+      card_set: grn
+      number: '19'
+      name: Light of the Legion
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{4}{W}{W}"
+      count: 1
+    - identifier: grn26
+      card_set: grn
+      number: '26'
+      name: Sunhome Stalwart
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{1}{W}"
+      count: 1
+    - identifier: grn120
+      card_set: grn
+      number: '120'
+      name: Wojek Bodyguard
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{R}"
+      count: 1
+    - identifier: grn1
+      card_set: grn
+      number: '1'
+      name: Blade Instructor
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{W}"
+      count: 1
+    - identifier: grn198
+      card_set: grn
+      number: '198'
+      name: Skyknight Legionnaire
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{R}{W}"
+      count: 2
+    - identifier: gk182
+      card_set: gk1
+      number: '82'
+      name: Legion Loyalist
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{R}"
       count: 1
   - type: Instant
     count: 4
     cards:
-    - identifier: GK192
-      card_set: GK1
+    - identifier: gk192
+      card_set: gk1
       number: '92'
       name: Master Warcraft
       rarity: Rare
-      types: Instant
+      card_type: Instant
+      mana_cost: "{2}{R/W}{R/W}"
       count: 1
-    - identifier: GK184
-      card_set: GK1
+    - identifier: gk184
+      card_set: gk1
       number: '84'
       name: Boros Charm
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
+      mana_cost: "{R}{W}"
       count: 1
-    - identifier: GK190
-      card_set: GK1
+    - identifier: gk190
+      card_set: gk1
       number: '90'
       name: Lightning Helix
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
+      mana_cost: "{R}{W}"
       count: 1
-    - identifier: GK191
-      card_set: GK1
+    - identifier: gk191
+      card_set: gk1
       number: '91'
       name: Martial Glory
       rarity: Common
-      types: Instant
+      card_type: Instant
+      mana_cost: "{R}{W}"
       count: 1
   - type: Sorcery
     count: 3
     cards:
-    - identifier: GK187
-      card_set: GK1
+    - identifier: gk187
+      card_set: gk1
       number: '87'
       name: Brightflame
       rarity: Rare
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{X}{R}{R}{W}{W}"
       count: 1
-    - identifier: GRN12
-      card_set: GRN
+    - identifier: grn12
+      card_set: grn
       number: '12'
       name: Gird for Battle
       rarity: Uncommon
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{W}"
       count: 1
-    - identifier: GRN27
-      card_set: GRN
+    - identifier: grn27
+      card_set: grn
       number: '27'
       name: Sworn Companions
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{2}{W}"
       count: 1
   - type: Land
-    count: 25
+    count: 9
     cards:
-    - identifier: GRN243
-      card_set: GRN
+    - identifier: grn243
+      card_set: grn
       number: '243'
       name: Boros Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
+      mana_cost: ''
       count: 4
-    - identifier: GK198
-      card_set: GK1
+    - identifier: gk198
+      card_set: gk1
       number: '98'
       name: Boros Garrison
       rarity: Common
-      types: Land
+      card_type: Land
+      mana_cost: ''
       count: 4
-    - identifier: GK199
-      card_set: GK1
+    - identifier: gk199
+      card_set: gk1
       number: '99'
       name: Sunhome, Fortress of the Legion
       rarity: Uncommon
-      types: Land
+      card_type: Land
+      mana_cost: ''
       count: 1
-    - identifier: GK1101
-      card_set: GK1
-      number: '101'
-      name: Mountain
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: GK1100
-      card_set: GK1
+  - type: Basic Land
+    count: 16
+    cards:
+    - identifier: gk1100
+      card_set: gk1
       number: '100'
       name: Plains
       rarity: Common
-      types: Land
+      card_type: Basic Land
+      mana_cost: ''
+      count: 8
+    - identifier: gk1101
+      card_set: gk1
+      number: '101'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
       count: 8
   - type: Artifact
     count: 3
     cards:
-    - identifier: GK197
-      card_set: GK1
+    - identifier: gk197
+      card_set: gk1
       number: '97'
       name: Boros Signet
       rarity: Common
-      types: Artifact
+      card_type: Artifact
+      mana_cost: "{2}"
       count: 2
-    - identifier: GK196
-      card_set: GK1
+    - identifier: gk196
+      card_set: gk1
       number: '96'
       name: Boros Keyrune
       rarity: Uncommon
-      types: Artifact
+      card_type: Artifact
+      mana_cost: "{3}"
       count: 1
   count: 60
 - pack_type: Guild Kit
@@ -281,281 +323,327 @@
     alt: Dimir Guild Kit Box Picture
     title: Guild Kit - Dimir
   tokens:
-    GK1: 1, 1, 1, 1, 1
+    gk1: 1, 1, 1, 1, 1
   cards:
-  - type: Creature
-    count: 17
+  - type: Legendary Creature
+    count: 5
     cards:
-    - identifier: GRN191
-      card_set: GRN
-      number: '191'
-      name: Nightveil Predator
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GK112
-      card_set: GK1
-      number: '12'
-      name: Dimir Doppelganger
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK119
-      card_set: GK1
-      number: '19'
-      name: Nightveil Specter
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK19
-      card_set: GK1
-      number: '9'
-      name: Circu, Dimir Lobotomist
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK116
-      card_set: GK1
-      number: '16'
-      name: Lazav, Dimir Mastermind
-      rarity: Mythic
-      types: Creature
-      count: 1
-    - identifier: GK110
-      card_set: GK1
-      number: '10'
-      name: Consuming Aberration
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK117
-      card_set: GK1
-      number: '17'
-      name: Mirko Vosk, Mind Drinker
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK120
-      card_set: GK1
-      number: '20'
-      name: Szadek, Lord of Secrets
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK113
-      card_set: GK1
-      number: '13'
-      name: Dimir Guildmage
-      rarity: Uncommon
-      types: Creature
-      count: 2
-    - identifier: GK118
-      card_set: GK1
-      number: '18'
-      name: Moroii
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GK16
-      card_set: GK1
-      number: '6'
-      name: Netherborn Phalanx
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GK114
-      card_set: GK1
-      number: '14'
-      name: Dinrova Horror
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GRN63
-      card_set: GRN
-      number: '63'
-      name: Blood Operative
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GRN61
-      card_set: GRN
-      number: '61'
-      name: Barrier of Bones
-      rarity: Common
-      types: Creature
-      count: 1
-    - identifier: GRN58
-      card_set: GRN
-      number: '58'
-      name: Wall of Mist
-      rarity: Common
-      types: Creature
-      count: 1
-    - identifier: GK11
-      card_set: GK1
+    - identifier: gk11
+      card_set: gk1
       number: '1'
       name: Etrata, the Silencer
       rarity: Rare
-      types: Creature
+      card_type: Legendary Creature
+      mana_cost: "{2}{U}{B}"
+      count: 1
+    - identifier: gk19
+      card_set: gk1
+      number: '9'
+      name: Circu, Dimir Lobotomist
+      rarity: Rare
+      card_type: Legendary Creature
+      mana_cost: "{2}{U}{B}"
+      count: 1
+    - identifier: gk116
+      card_set: gk1
+      number: '16'
+      name: Lazav, Dimir Mastermind
+      rarity: Mythic
+      card_type: Legendary Creature
+      mana_cost: "{U}{U}{B}{B}"
+      count: 1
+    - identifier: gk117
+      card_set: gk1
+      number: '17'
+      name: Mirko Vosk, Mind Drinker
+      rarity: Rare
+      card_type: Legendary Creature
+      mana_cost: "{3}{U}{B}"
+      count: 1
+    - identifier: gk120
+      card_set: gk1
+      number: '20'
+      name: Szadek, Lord of Secrets
+      rarity: Rare
+      card_type: Legendary Creature
+      mana_cost: "{3}{U}{U}{B}{B}"
+      count: 1
+  - type: Creature
+    count: 12
+    cards:
+    - identifier: grn191
+      card_set: grn
+      number: '191'
+      name: Nightveil Predator
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{U}{U}{B}{B}"
+      count: 1
+    - identifier: gk119
+      card_set: gk1
+      number: '19'
+      name: Nightveil Specter
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{U/B}{U/B}{U/B}"
+      count: 1
+    - identifier: gk110
+      card_set: gk1
+      number: '10'
+      name: Consuming Aberration
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{3}{U}{B}"
+      count: 1
+    - identifier: gk113
+      card_set: gk1
+      number: '13'
+      name: Dimir Guildmage
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{U/B}{U/B}"
+      count: 2
+    - identifier: gk118
+      card_set: gk1
+      number: '18'
+      name: Moroii
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{2}{U}{B}"
+      count: 1
+    - identifier: gk16
+      card_set: gk1
+      number: '6'
+      name: Netherborn Phalanx
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{5}{B}"
+      count: 1
+    - identifier: gk114
+      card_set: gk1
+      number: '14'
+      name: Dinrova Horror
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{4}{U}{B}"
+      count: 1
+    - identifier: grn63
+      card_set: grn
+      number: '63'
+      name: Blood Operative
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{1}{B}{B}"
+      count: 1
+    - identifier: grn61
+      card_set: grn
+      number: '61'
+      name: Barrier of Bones
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{B}"
+      count: 1
+    - identifier: grn58
+      card_set: grn
+      number: '58'
+      name: Wall of Mist
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{U}"
+      count: 1
+    - identifier: gk112
+      card_set: gk1
+      number: '12'
+      name: Dimir Doppelganger
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{1}{U}{B}"
       count: 1
   - type: Sorcery
     count: 7
     cards:
-    - identifier: GK115
-      card_set: GK1
+    - identifier: gk115
+      card_set: gk1
       number: '15'
       name: Glimpse the Unthinkable
       rarity: Rare
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{U}{B}"
       count: 1
-    - identifier: GK12
-      card_set: GK1
+    - identifier: gk12
+      card_set: gk1
       number: '2'
       name: Stolen Identity
       rarity: Rare
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{4}{U}{U}"
       count: 1
-    - identifier: GK18
-      card_set: GK1
+    - identifier: gk18
+      card_set: gk1
       number: '8'
       name: Call of the Nightwing
       rarity: Uncommon
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{2}{U}{B}"
       count: 1
-    - identifier: GK17
-      card_set: GK1
+    - identifier: gk17
+      card_set: gk1
       number: '7'
       name: Ribbons of Night
       rarity: Uncommon
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{4}{B}"
       count: 2
-    - identifier: GRN76
-      card_set: GRN
+    - identifier: grn76
+      card_set: grn
       number: '76'
       name: Mephitic Vapors
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{2}{B}"
       count: 1
-    - identifier: GRN193
-      card_set: GRN
+    - identifier: grn193
+      card_set: grn
       number: '193'
       name: Notion Rain
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{1}{U}{B}"
       count: 1
   - type: Land
-    count: 24
+    count: 8
     cards:
-    - identifier: GRN245
-      card_set: GRN
+    - identifier: grn245
+      card_set: grn
       number: '245'
       name: Dimir Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
+      mana_cost: ''
       count: 4
-    - identifier: GK123
-      card_set: GK1
+    - identifier: gk123
+      card_set: gk1
       number: '23'
       name: Dimir Aqueduct
       rarity: Common
-      types: Land
+      card_type: Land
+      mana_cost: ''
       count: 4
-    - identifier: GK124
-      card_set: GK1
-      number: '24'
-      name: Island
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: GK125
-      card_set: GK1
+  - type: Basic Land
+    count: 16
+    cards:
+    - identifier: gk125
+      card_set: gk1
       number: '25'
       name: Swamp
       rarity: Common
-      types: Land
+      card_type: Basic Land
+      mana_cost: ''
+      count: 8
+    - identifier: gk124
+      card_set: gk1
+      number: '24'
+      name: Island
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
       count: 8
   - type: Artifact
     count: 2
     cards:
-    - identifier: GK122
-      card_set: GK1
+    - identifier: gk122
+      card_set: gk1
       number: '22'
       name: Dimir Signet
       rarity: Common
-      types: Artifact
+      card_type: Artifact
+      mana_cost: "{2}"
       count: 2
   - type: Instant
-    count: 10
+    count: 9
     cards:
-    - identifier: GRN223
-      card_set: GRN
-      number: '223'
-      name: Dispersal/Discovery
-      rarity: Uncommon
-      types: Instant
-      count: 1
-    - identifier: GK15
-      card_set: GK1
-      number: '5'
-      name: Last Gasp
-      rarity: Common
-      types: Instant
-      count: 1
-    - identifier: GK111
-      card_set: GK1
-      number: '11'
-      name: Dimir Charm
-      rarity: Uncommon
-      types: Instant
-      count: 1
-    - identifier: GK121
-      card_set: GK1
-      number: '21'
-      name: Warped Physique
-      rarity: Uncommon
-      types: Instant
-      count: 1
-    - identifier: GK13
-      card_set: GK1
-      number: '3'
-      name: Syncopate
-      rarity: Uncommon
-      types: Instant
-      count: 1
-    - identifier: GRN44
-      card_set: GRN
-      number: '44'
-      name: Mission Briefing
-      rarity: Rare
-      types: Instant
-      count: 1
-    - identifier: GRN37
-      card_set: GRN
-      number: '37'
-      name: Disdainful Stroke
-      rarity: Common
-      types: Instant
-      count: 1
-    - identifier: GRN56
-      card_set: GRN
-      number: '56'
-      name: Unexplained Disappearance
-      rarity: Common
-      types: Instant
-      count: 1
-    - identifier: GRN83
-      card_set: GRN
+    - identifier: grn83
+      card_set: grn
       number: '83'
       name: Price of Fame
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
+      mana_cost: "{3}{B}"
       count: 1
-    - identifier: GK14
-      card_set: GK1
+    - identifier: gk15
+      card_set: gk1
+      number: '5'
+      name: Last Gasp
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{1}{B}"
+      count: 1
+    - identifier: gk111
+      card_set: gk1
+      number: '11'
+      name: Dimir Charm
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{U}{B}"
+      count: 1
+    - identifier: gk121
+      card_set: gk1
+      number: '21'
+      name: Warped Physique
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{U}{B}"
+      count: 1
+    - identifier: gk13
+      card_set: gk1
+      number: '3'
+      name: Syncopate
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{X}{U}"
+      count: 1
+    - identifier: grn44
+      card_set: grn
+      number: '44'
+      name: Mission Briefing
+      rarity: Rare
+      card_type: Instant
+      mana_cost: "{U}{U}"
+      count: 1
+    - identifier: grn37
+      card_set: grn
+      number: '37'
+      name: Disdainful Stroke
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{1}{U}"
+      count: 1
+    - identifier: grn56
+      card_set: grn
+      number: '56'
+      name: Unexplained Disappearance
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{1}{U}"
+      count: 1
+    - identifier: gk14
+      card_set: gk1
       number: '4'
       name: Telling Time
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
+      mana_cost: "{1}{U}"
+      count: 1
+  - type: Sorcery // Instant
+    count: 1
+    cards:
+    - identifier: grn223
+      card_set: grn
+      number: '223'
+      name: Discovery // Dispersal
+      rarity: Uncommon
+      card_type: Sorcery // Instant
+      mana_cost: "{1}{U/B} // {3}{U}{B}"
       count: 1
   count: 60
 - pack_type: Guild Kit
@@ -565,285 +653,331 @@
     alt: Golgari Guild Kit Box Picture
     title: Guild Kit - Golgari
   tokens:
-    GK1: 5, 5, 5, 5, 5
+    gk1: 5, 5, 5, 5, 5
   cards:
-  - type: Creature
-    count: 21
+  - type: Legendary Creature
+    count: 4
     cards:
-    - identifier: GRN175
-      card_set: GRN
-      number: '175'
-      name: Golgari Findbroker
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GK159
-      card_set: GK1
-      number: '59'
-      name: Deathrite Shaman
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK167
-      card_set: GK1
-      number: '67'
-      name: Lotleth Troll
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK155
-      card_set: GK1
-      number: '55'
-      name: Deadbridge Goliath
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK169
-      card_set: GK1
-      number: '69'
-      name: Savra, Queen of the Golgari
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK165
-      card_set: GK1
-      number: '65'
-      name: Jarad, Golgari Lich Lord
-      rarity: Mythic
-      types: Creature
-      count: 1
-    - identifier: GK163
-      card_set: GK1
-      number: '63'
-      name: Grave-Shell Scarab
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK171
-      card_set: GK1
-      number: '71'
-      name: Sisters of Stone Death
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK156
-      card_set: GK1
-      number: '56'
-      name: Elves of Deep Shadow
-      rarity: Common
-      types: Creature
-      count: 2
-    - identifier: GK166
-      card_set: GK1
-      number: '66'
-      name: Korozda Guildmage
-      rarity: Uncommon
-      types: Creature
-      count: 2
-    - identifier: GK153
-      card_set: GK1
-      number: '53'
-      name: Stinkweed Imp
-      rarity: Common
-      types: Creature
-      count: 1
-    - identifier: GK170
-      card_set: GK1
-      number: '70'
-      name: Shambling Shell
-      rarity: Common
-      types: Creature
-      count: 1
-    - identifier: GK152
-      card_set: GK1
-      number: '52'
-      name: Slum Reaper
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GRN160
-      card_set: GRN
-      number: '160'
-      name: Charnel Troll
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GRN132
-      card_set: GRN
-      number: '132'
-      name: Hatchery Spider
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GRN173
-      card_set: GRN
-      number: '173'
-      name: Glowspore Shaman
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GRN82
-      card_set: GRN
-      number: '82'
-      name: Plaguecrafter
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GRN196
-      card_set: GRN
-      number: '196'
-      name: Rhizome Lurcher
-      rarity: Common
-      types: Creature
-      count: 1
-    - identifier: GK150
-      card_set: GK1
+    - identifier: gk150
+      card_set: gk1
       number: '50'
       name: Izoni, Thousand-Eyed
       rarity: Rare
-      types: Creature
+      card_type: Legendary Creature
+      mana_cost: "{2}{B}{B}{G}{G}"
+      count: 1
+    - identifier: gk169
+      card_set: gk1
+      number: '69'
+      name: Savra, Queen of the Golgari
+      rarity: Rare
+      card_type: Legendary Creature
+      mana_cost: "{2}{B}{G}"
+      count: 1
+    - identifier: gk165
+      card_set: gk1
+      number: '65'
+      name: Jarad, Golgari Lich Lord
+      rarity: Mythic
+      card_type: Legendary Creature
+      mana_cost: "{B}{B}{G}{G}"
+      count: 1
+    - identifier: gk171
+      card_set: gk1
+      number: '71'
+      name: Sisters of Stone Death
+      rarity: Rare
+      card_type: Legendary Creature
+      mana_cost: "{4}{B}{B}{G}{G}"
+      count: 1
+  - type: Creature
+    count: 17
+    cards:
+    - identifier: grn175
+      card_set: grn
+      number: '175'
+      name: Golgari Findbroker
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{B}{B}{G}{G}"
+      count: 1
+    - identifier: gk167
+      card_set: gk1
+      number: '67'
+      name: Lotleth Troll
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{B}{G}"
+      count: 1
+    - identifier: gk155
+      card_set: gk1
+      number: '55'
+      name: Deadbridge Goliath
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{2}{G}{G}"
+      count: 1
+    - identifier: gk163
+      card_set: gk1
+      number: '63'
+      name: Grave-Shell Scarab
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{2}{B}{G}{G}"
+      count: 1
+    - identifier: gk156
+      card_set: gk1
+      number: '56'
+      name: Elves of Deep Shadow
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{G}"
+      count: 2
+    - identifier: gk166
+      card_set: gk1
+      number: '66'
+      name: Korozda Guildmage
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{B}{G}"
+      count: 2
+    - identifier: gk153
+      card_set: gk1
+      number: '53'
+      name: Stinkweed Imp
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{B}"
+      count: 1
+    - identifier: gk170
+      card_set: gk1
+      number: '70'
+      name: Shambling Shell
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{B}{G}"
+      count: 1
+    - identifier: gk152
+      card_set: gk1
+      number: '52'
+      name: Slum Reaper
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{3}{B}"
+      count: 1
+    - identifier: grn160
+      card_set: grn
+      number: '160'
+      name: Charnel Troll
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{1}{B}{G}"
+      count: 1
+    - identifier: grn132
+      card_set: grn
+      number: '132'
+      name: Hatchery Spider
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{5}{G}{G}"
+      count: 1
+    - identifier: grn173
+      card_set: grn
+      number: '173'
+      name: Glowspore Shaman
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{B}{G}"
+      count: 1
+    - identifier: grn82
+      card_set: grn
+      number: '82'
+      name: Plaguecrafter
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{2}{B}"
+      count: 1
+    - identifier: grn196
+      card_set: grn
+      number: '196'
+      name: Rhizome Lurcher
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{B}{G}"
+      count: 1
+    - identifier: gk159
+      card_set: gk1
+      number: '59'
+      name: Deathrite Shaman
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{B/G}"
       count: 1
   - type: Instant
-    count: 8
+    count: 7
     cards:
-    - identifier: GRN230
-      card_set: GRN
-      number: '230'
-      name: Statue/Status
-      rarity: Uncommon
-      types: Instant
-      count: 1
-    - identifier: GK151
-      card_set: GK1
-      number: '51'
-      name: Darkblast
-      rarity: Uncommon
-      types: Instant
-      count: 2
-    - identifier: GK162
-      card_set: GK1
-      number: '62'
-      name: Golgari Charm
-      rarity: Uncommon
-      types: Instant
-      count: 1
-    - identifier: GK164
-      card_set: GK1
-      number: '64'
-      name: Grisly Salvage
-      rarity: Common
-      types: Instant
-      count: 1
-    - identifier: GK168
-      card_set: GK1
-      number: '68'
-      name: Putrefy
-      rarity: Uncommon
-      types: Instant
-      count: 1
-    - identifier: GRN79
-      card_set: GRN
-      number: '79'
-      name: Necrotic Wound
-      rarity: Uncommon
-      types: Instant
-      count: 1
-    - identifier: GK157
-      card_set: GK1
+    - identifier: gk157
+      card_set: gk1
       number: '57'
       name: Abrupt Decay
       rarity: Rare
-      types: Instant
+      card_type: Instant
+      mana_cost: "{B}{G}"
+      count: 1
+    - identifier: gk151
+      card_set: gk1
+      number: '51'
+      name: Darkblast
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{B}"
+      count: 2
+    - identifier: gk162
+      card_set: gk1
+      number: '62'
+      name: Golgari Charm
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{B}{G}"
+      count: 1
+    - identifier: gk164
+      card_set: gk1
+      number: '64'
+      name: Grisly Salvage
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{B}{G}"
+      count: 1
+    - identifier: gk168
+      card_set: gk1
+      number: '68'
+      name: Putrefy
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{1}{B}{G}"
+      count: 1
+    - identifier: grn79
+      card_set: grn
+      number: '79'
+      name: Necrotic Wound
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{B}"
       count: 1
   - type: Enchantment
     count: 1
     cards:
-    - identifier: GK158
-      card_set: GK1
+    - identifier: gk158
+      card_set: gk1
       number: '58'
       name: Deadbridge Chant
       rarity: Mythic
-      types: Enchantment
+      card_type: Enchantment
+      mana_cost: "{4}{B}{G}"
       count: 1
   - type: Sorcery
     count: 4
     cards:
-    - identifier: GK161
-      card_set: GK1
+    - identifier: gk161
+      card_set: gk1
       number: '61'
       name: Gaze of Granite
       rarity: Rare
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{X}{B}{B}{G}"
       count: 1
-    - identifier: GK160
-      card_set: GK1
+    - identifier: gk160
+      card_set: gk1
       number: '60'
       name: Drown in Filth
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{B}{G}"
       count: 1
-    - identifier: GK172
-      card_set: GK1
+    - identifier: gk172
+      card_set: gk1
       number: '72'
       name: Treasured Find
       rarity: Uncommon
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{B}{G}"
       count: 1
-    - identifier: GK154
-      card_set: GK1
+    - identifier: gk154
+      card_set: gk1
       number: '54'
       name: Vigor Mortis
       rarity: Uncommon
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{2}{B}{B}"
       count: 1
   - type: Land
-    count: 24
+    count: 8
     cards:
-    - identifier: GRN249
-      card_set: GRN
+    - identifier: grn249
+      card_set: grn
       number: '249'
       name: Golgari Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
+      mana_cost: ''
       count: 2
-    - identifier: GK174
-      card_set: GK1
+    - identifier: gk174
+      card_set: gk1
       number: '74'
       name: Golgari Rot Farm
       rarity: Common
-      types: Land
+      card_type: Land
+      mana_cost: ''
       count: 4
-    - identifier: GK175
-      card_set: GK1
-      number: '75'
-      name: Swamp
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: GK176
-      card_set: GK1
-      number: '76'
-      name: Forest
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: GRN248
-      card_set: GRN
+    - identifier: grn248
+      card_set: grn
       number: '248'
       name: Golgari Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
+      mana_cost: ''
       count: 2
+  - type: Basic Land
+    count: 16
+    cards:
+    - identifier: gk176
+      card_set: gk1
+      number: '76'
+      name: Forest
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 8
+    - identifier: gk175
+      card_set: gk1
+      number: '75'
+      name: Swamp
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 8
   - type: Artifact
     count: 2
     cards:
-    - identifier: GK173
-      card_set: GK1
+    - identifier: gk173
+      card_set: gk1
       number: '73'
       name: Golgari Signet
       rarity: Common
-      types: Artifact
+      card_type: Artifact
+      mana_cost: "{2}"
       count: 2
+  - type: Instant // Instant
+    count: 1
+    cards:
+    - identifier: grn230
+      card_set: grn
+      number: '230'
+      name: Status // Statue
+      rarity: Uncommon
+      card_type: Instant // Instant
+      mana_cost: "{B/G} // {2}{B}{G}"
+      count: 1
   count: 60
 - pack_type: Guild Kit
   name: Izzet
@@ -852,277 +986,322 @@
     alt: Izzet Guild Kit Box Picture
     title: Guild Kit - Izzet
   tokens:
-    GK1: 3, 3, 3, 3, 3
+    gk1: 3, 3, 3, 3, 3
   cards:
-  - type: Creature
-    count: 15
+  - type: Legendary Creature
+    count: 2
     cards:
-    - identifier: GRN163
-      card_set: GRN
-      number: '163'
-      name: Crackling Drake
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GK144
-      card_set: GK1
-      number: '44'
-      name: Tibor and Lumia
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK139
-      card_set: GK1
-      number: '39'
-      name: Hypersonic Dragon
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK136
-      card_set: GK1
-      number: '36'
-      name: Djinn Illuminatus
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK142
-      card_set: GK1
-      number: '42'
-      name: Nivix Guildmage
-      rarity: Uncommon
-      types: Creature
-      count: 2
-    - identifier: GK131
-      card_set: GK1
-      number: '31'
-      name: Guttersnipe
-      rarity: Uncommon
-      types: Creature
-      count: 2
-    - identifier: GK138
-      card_set: GK1
-      number: '38'
-      name: Gelectrode
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GRN98
-      card_set: GRN
-      number: '98'
-      name: Erratic Cyclops
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GRN97
-      card_set: GRN
-      number: '97'
-      name: Electrostatic Field
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GRN174
-      card_set: GRN
-      number: '174'
-      name: Goblin Electromancer
-      rarity: Common
-      types: Creature
-      count: 1
-    - identifier: GRN214
-      card_set: GRN
-      number: '214'
-      name: Wee Dragonauts
-      rarity: Uncommon
-      types: Creature
-      count: 2
-    - identifier: GK126
-      card_set: GK1
+    - identifier: gk126
+      card_set: gk1
       number: '26'
       name: Niv-Mizzet, the Firemind
       rarity: Rare
-      types: Creature
+      card_type: Legendary Creature
+      mana_cost: "{2}{U}{U}{R}{R}"
+      count: 1
+    - identifier: gk144
+      card_set: gk1
+      number: '44'
+      name: Tibor and Lumia
+      rarity: Rare
+      card_type: Legendary Creature
+      mana_cost: "{2}{U}{R}"
+      count: 1
+  - type: Creature
+    count: 13
+    cards:
+    - identifier: grn163
+      card_set: grn
+      number: '163'
+      name: Crackling Drake
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{U}{U}{R}{R}"
+      count: 1
+    - identifier: gk136
+      card_set: gk1
+      number: '36'
+      name: Djinn Illuminatus
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{5}{U/R}{U/R}"
+      count: 1
+    - identifier: gk142
+      card_set: gk1
+      number: '42'
+      name: Nivix Guildmage
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{U}{R}"
+      count: 2
+    - identifier: gk131
+      card_set: gk1
+      number: '31'
+      name: Guttersnipe
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{2}{R}"
+      count: 2
+    - identifier: gk138
+      card_set: gk1
+      number: '38'
+      name: Gelectrode
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{1}{U}{R}"
+      count: 1
+    - identifier: grn98
+      card_set: grn
+      number: '98'
+      name: Erratic Cyclops
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{3}{R}"
+      count: 1
+    - identifier: grn97
+      card_set: grn
+      number: '97'
+      name: Electrostatic Field
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{1}{R}"
+      count: 1
+    - identifier: grn174
+      card_set: grn
+      number: '174'
+      name: Goblin Electromancer
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{U}{R}"
+      count: 1
+    - identifier: grn214
+      card_set: grn
+      number: '214'
+      name: Wee Dragonauts
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{1}{U}{R}"
+      count: 2
+    - identifier: gk139
+      card_set: gk1
+      number: '39'
+      name: Hypersonic Dragon
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{3}{U}{R}"
       count: 1
   - type: Sorcery
     count: 8
     cards:
-    - identifier: GRN154
-      card_set: GRN
+    - identifier: grn154
+      card_set: grn
       number: '154'
       name: Beacon Bolt
       rarity: Uncommon
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{1}{U}{R}"
       count: 1
-    - identifier: GK143
-      card_set: GK1
+    - identifier: gk143
+      card_set: gk1
       number: '43'
       name: Stitch in Time
       rarity: Rare
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{1}{U}{R}"
       count: 1
-    - identifier: GK140
-      card_set: GK1
+    - identifier: gk140
+      card_set: gk1
       number: '40'
       name: Invoke the Firemind
       rarity: Rare
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{X}{U}{U}{R}"
       count: 1
-    - identifier: GK134
-      card_set: GK1
+    - identifier: gk134
+      card_set: gk1
       number: '34'
       name: Shattering Spree
       rarity: Uncommon
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{R}"
       count: 1
-    - identifier: GK130
-      card_set: GK1
+    - identifier: gk130
+      card_set: gk1
       number: '30'
       name: Goblin Rally
       rarity: Uncommon
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{3}{R}{R}"
       count: 1
-    - identifier: GRN51
-      card_set: GRN
+    - identifier: grn51
+      card_set: grn
       number: '51'
       name: Quasiduplicate
       rarity: Rare
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{1}{U}{U}"
       count: 1
-    - identifier: GRN96
-      card_set: GRN
+    - identifier: grn96
+      card_set: grn
       number: '96'
       name: Direct Current
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{1}{R}{R}"
       count: 1
-    - identifier: GK132
-      card_set: GK1
+    - identifier: gk132
+      card_set: gk1
       number: '32'
       name: Mizzium Mortars
       rarity: Rare
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{1}{R}"
       count: 1
   - type: Instant
-    count: 10
+    count: 9
     cards:
-    - identifier: GRN32
-      card_set: GRN
+    - identifier: grn32
+      card_set: grn
       number: '32'
       name: Chemister's Insight
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
+      mana_cost: "{3}{U}"
       count: 1
-    - identifier: GK135
-      card_set: GK1
+    - identifier: gk135
+      card_set: gk1
       number: '35'
       name: Cerebral Vortex
       rarity: Rare
-      types: Instant
+      card_type: Instant
+      mana_cost: "{1}{U}{R}"
       count: 1
-    - identifier: GK129
-      card_set: GK1
+    - identifier: gk129
+      card_set: gk1
       number: '29'
       name: Electrickery
       rarity: Common
-      types: Instant
+      card_type: Instant
+      mana_cost: "{R}"
       count: 1
-    - identifier: GK133
-      card_set: GK1
+    - identifier: gk133
+      card_set: gk1
       number: '33'
       name: Pyromatics
       rarity: Common
-      types: Instant
+      card_type: Instant
+      mana_cost: "{1}{R}"
       count: 1
-    - identifier: GK141
-      card_set: GK1
+    - identifier: gk141
+      card_set: gk1
       number: '41'
       name: Izzet Charm
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
+      mana_cost: "{U}{R}"
       count: 1
-    - identifier: GK127
-      card_set: GK1
+    - identifier: gk127
+      card_set: gk1
       number: '27'
       name: Thunderheads
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
+      mana_cost: "{2}{U}"
       count: 1
-    - identifier: GK137
-      card_set: GK1
+    - identifier: gk137
+      card_set: gk1
       number: '37'
       name: Electrolyze
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
+      mana_cost: "{1}{U}{R}"
       count: 1
-    - identifier: GK145
-      card_set: GK1
-      number: '45'
-      name: Turn/Burn
-      rarity: Uncommon
-      types: Instant
-      count: 1
-    - identifier: GRN52
-      card_set: GRN
+    - identifier: grn52
+      card_set: grn
       number: '52'
       name: Radical Idea
       rarity: Common
-      types: Instant
+      card_type: Instant
+      mana_cost: "{1}{U}"
       count: 1
-    - identifier: GK128
-      card_set: GK1
+    - identifier: gk128
+      card_set: gk1
       number: '28'
       name: Char
       rarity: Rare
-      types: Instant
+      card_type: Instant
+      mana_cost: "{2}{R}"
       count: 1
   - type: Land
-    count: 24
+    count: 8
     cards:
-    - identifier: GRN251
-      card_set: GRN
+    - identifier: grn251
+      card_set: grn
       number: '251'
       name: Izzet Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
+      mana_cost: ''
       count: 4
-    - identifier: GK147
-      card_set: GK1
+    - identifier: gk147
+      card_set: gk1
       number: '47'
       name: Izzet Boilerworks
       rarity: Common
-      types: Land
+      card_type: Land
+      mana_cost: ''
       count: 4
-    - identifier: GK148
-      card_set: GK1
-      number: '48'
-      name: Island
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: GK149
-      card_set: GK1
+  - type: Basic Land
+    count: 16
+    cards:
+    - identifier: gk149
+      card_set: gk1
       number: '49'
       name: Mountain
       rarity: Common
-      types: Land
+      card_type: Basic Land
+      mana_cost: ''
+      count: 8
+    - identifier: gk148
+      card_set: gk1
+      number: '48'
+      name: Island
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
       count: 8
   - type: Artifact
     count: 2
     cards:
-    - identifier: GK146
-      card_set: GK1
+    - identifier: gk146
+      card_set: gk1
       number: '46'
       name: Izzet Signet
       rarity: Common
-      types: Artifact
+      card_type: Artifact
+      mana_cost: "{2}"
       count: 2
+  - type: Instant // Instant
+    count: 1
+    cards:
+    - identifier: gk145
+      card_set: gk1
+      number: '45'
+      name: Turn // Burn
+      rarity: Uncommon
+      card_type: Instant // Instant
+      mana_cost: "{2}{U} // {1}{R}"
+      count: 1
   - type: Enchantment
     count: 1
     cards:
-    - identifier: GRN171
-      card_set: GRN
+    - identifier: grn171
+      card_set: grn
       number: '171'
       name: Firemind's Research
       rarity: Rare
-      types: Enchantment
+      card_type: Enchantment
+      mana_cost: "{U}{R}"
       count: 1
   count: 60
 - pack_type: Guild Kit
@@ -1132,270 +1311,311 @@
     alt: Selesnya Guild Kit Box Picture
     title: Guild Kit - Selesnya
   tokens:
-    GK1: 6, 6, 9, 10, 11
+    gk1: 6, 6, 9, 10, 11
   cards:
-  - type: Creature
-    count: 16
+  - type: Legendary Creature
+    count: 2
     cards:
-    - identifier: GRN144
-      card_set: GRN
-      number: '144'
-      name: Siege Wurm
-      rarity: Common
-      types: Creature
-      count: 1
-    - identifier: GK1114
-      card_set: GK1
-      number: '114'
-      name: Loxodon Hierarch
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK1108
-      card_set: GK1
-      number: '108'
-      name: Armada Wurm
-      rarity: Mythic
-      types: Creature
-      count: 1
-    - identifier: GK1121
-      card_set: GK1
-      number: '121'
-      name: Tolsimir Wolfblood
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GK1111
-      card_set: GK1
-      number: '111'
-      name: Dryad Militant
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GK1118
-      card_set: GK1
-      number: '118'
-      name: Selesnya Evangel
-      rarity: Common
-      types: Creature
-      count: 2
-    - identifier: GK1122
-      card_set: GK1
-      number: '122'
-      name: Watchwolf
-      rarity: Uncommon
-      types: Creature
-      count: 2
-    - identifier: GK1119
-      card_set: GK1
-      number: '119'
-      name: Selesnya Guildmage
-      rarity: Uncommon
-      types: Creature
-      count: 2
-    - identifier: GK1110
-      card_set: GK1
-      number: '110'
-      name: Centaur Healer
-      rarity: Common
-      types: Creature
-      count: 1
-    - identifier: GRN30
-      card_set: GRN
-      number: '30'
-      name: Venerated Loxodon
-      rarity: Rare
-      types: Creature
-      count: 1
-    - identifier: GRN219
-      card_set: GRN
-      number: '219'
-      name: Vernadi Shieldmate
-      rarity: Common
-      types: Creature
-      count: 1
-    - identifier: GRN161
-      card_set: GRN
-      number: '161'
-      name: Conclave Cavalier
-      rarity: Uncommon
-      types: Creature
-      count: 1
-    - identifier: GK1102
-      card_set: GK1
+    - identifier: gk1102
+      card_set: gk1
       number: '102'
       name: Trostani, Selesnya's Voice
       rarity: Mythic
-      types: Creature
+      card_type: Legendary Creature
+      mana_cost: "{G}{G}{W}{W}"
+      count: 1
+    - identifier: gk1121
+      card_set: gk1
+      number: '121'
+      name: Tolsimir Wolfblood
+      rarity: Rare
+      card_type: Legendary Creature
+      mana_cost: "{4}{G}{W}"
+      count: 1
+  - type: Creature
+    count: 14
+    cards:
+    - identifier: grn144
+      card_set: grn
+      number: '144'
+      name: Siege Wurm
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{5}{G}{G}"
+      count: 1
+    - identifier: gk1108
+      card_set: gk1
+      number: '108'
+      name: Armada Wurm
+      rarity: Mythic
+      card_type: Creature
+      mana_cost: "{2}{G}{G}{W}{W}"
+      count: 1
+    - identifier: gk1111
+      card_set: gk1
+      number: '111'
+      name: Dryad Militant
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{G/W}"
+      count: 1
+    - identifier: gk1118
+      card_set: gk1
+      number: '118'
+      name: Selesnya Evangel
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{G}{W}"
+      count: 2
+    - identifier: gk1122
+      card_set: gk1
+      number: '122'
+      name: Watchwolf
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{G}{W}"
+      count: 2
+    - identifier: gk1119
+      card_set: gk1
+      number: '119'
+      name: Selesnya Guildmage
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{G/W}{G/W}"
+      count: 2
+    - identifier: gk1110
+      card_set: gk1
+      number: '110'
+      name: Centaur Healer
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{G}{W}"
+      count: 1
+    - identifier: grn30
+      card_set: grn
+      number: '30'
+      name: Venerated Loxodon
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{4}{W}"
+      count: 1
+    - identifier: grn219
+      card_set: grn
+      number: '219'
+      name: Vernadi Shieldmate
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{G/W}"
+      count: 1
+    - identifier: grn161
+      card_set: grn
+      number: '161'
+      name: Conclave Cavalier
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{G}{G}{W}{W}"
+      count: 1
+    - identifier: gk1114
+      card_set: gk1
+      number: '114'
+      name: Loxodon Hierarch
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{2}{G}{W}"
       count: 1
   - type: Land
-    count: 25
+    count: 9
     cards:
-    - identifier: GRN256
-      card_set: GRN
+    - identifier: grn256
+      card_set: grn
       number: '256'
       name: Selesnya Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
+      mana_cost: ''
       count: 2
-    - identifier: GK1125
-      card_set: GK1
+    - identifier: gk1125
+      card_set: gk1
       number: '125'
       name: Selesnya Sanctuary
       rarity: Common
-      types: Land
+      card_type: Land
+      mana_cost: ''
       count: 4
-    - identifier: GK1126
-      card_set: GK1
-      number: '126'
-      name: Plains
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: GK1127
-      card_set: GK1
-      number: '127'
-      name: Forest
-      rarity: Common
-      types: Land
-      count: 8
-    - identifier: GRN255
-      card_set: GRN
+    - identifier: grn255
+      card_set: grn
       number: '255'
       name: Selesnya Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
+      mana_cost: ''
       count: 2
-    - identifier: GK1124
-      card_set: GK1
+    - identifier: gk1124
+      card_set: gk1
       number: '124'
       name: Grove of the Guardian
       rarity: Rare
-      types: Land
+      card_type: Land
+      mana_cost: ''
       count: 1
   - type: Enchantment
     count: 5
     cards:
-    - identifier: GK1112
-      card_set: GK1
+    - identifier: gk1112
+      card_set: gk1
       number: '112'
       name: Glare of Subdual
       rarity: Rare
-      types: Enchantment
+      card_type: Enchantment
+      mana_cost: "{2}{G}{W}"
       count: 1
-    - identifier: GK1113
-      card_set: GK1
+    - identifier: gk1113
+      card_set: gk1
       number: '113'
       name: Growing Ranks
       rarity: Rare
-      types: Enchantment
+      card_type: Enchantment
+      mana_cost: "{2}{G/W}{G/W}"
       count: 1
-    - identifier: GK1116
-      card_set: GK1
+    - identifier: gk1116
+      card_set: gk1
       number: '116'
       name: Privileged Position
       rarity: Rare
-      types: Enchantment
+      card_type: Enchantment
+      mana_cost: "{2}{G/W}{G/W}{G/W}"
       count: 1
-    - identifier: GK1115
-      card_set: GK1
+    - identifier: gk1115
+      card_set: gk1
       number: '115'
       name: Pollenbright Wings
       rarity: Uncommon
-      types: Enchantment
+      card_type: Enchantment
+      mana_cost: "{4}{G}{W}"
       count: 1
-    - identifier: GRN6
-      card_set: GRN
+    - identifier: grn6
+      card_set: grn
       number: '6'
       name: Conclave Tribunal
       rarity: Uncommon
-      types: Enchantment
+      card_type: Enchantment
+      mana_cost: "{3}{W}"
       count: 1
   - type: Instant
     count: 9
     cards:
-    - identifier: GRN124
-      card_set: GRN
+    - identifier: grn124
+      card_set: grn
       number: '124'
       name: Bounty of Might
       rarity: Rare
-      types: Instant
+      card_type: Instant
+      mana_cost: "{4}{G}{G}"
       count: 1
-    - identifier: GK1105
-      card_set: GK1
+    - identifier: gk1105
+      card_set: gk1
       number: '105'
       name: Gather Courage
       rarity: Common
-      types: Instant
+      card_type: Instant
+      mana_cost: "{G}"
       count: 1
-    - identifier: GK1117
-      card_set: GK1
+    - identifier: gk1117
+      card_set: gk1
       number: '117'
       name: Selesnya Charm
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
+      mana_cost: "{G}{W}"
       count: 1
-    - identifier: GK1120
-      card_set: GK1
+    - identifier: gk1120
+      card_set: gk1
       number: '120'
       name: Sundering Growth
       rarity: Common
-      types: Instant
+      card_type: Instant
+      mana_cost: "{G/W}{G/W}"
       count: 1
-    - identifier: GK1103
-      card_set: GK1
+    - identifier: gk1103
+      card_set: gk1
       number: '103'
       name: Devouring Light
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
+      mana_cost: "{1}{W}{W}"
       count: 2
-    - identifier: GK1106
-      card_set: GK1
+    - identifier: gk1106
+      card_set: gk1
       number: '106'
       name: Scatter the Seeds
       rarity: Common
-      types: Instant
+      card_type: Instant
+      mana_cost: "{3}{G}{G}"
       count: 2
-    - identifier: GK1107
-      card_set: GK1
+    - identifier: gk1107
+      card_set: gk1
       number: '107'
       name: Advent of the Wurm
       rarity: Rare
-      types: Instant
+      card_type: Instant
+      mana_cost: "{1}{G}{G}{W}"
       count: 1
   - type: Sorcery
     count: 3
     cards:
-    - identifier: GK1104
-      card_set: GK1
+    - identifier: gk1104
+      card_set: gk1
       number: '104'
       name: Hour of Reckoning
       rarity: Rare
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{4}{W}{W}{W}"
       count: 1
-    - identifier: GK1109
-      card_set: GK1
+    - identifier: gk1109
+      card_set: gk1
       number: '109'
       name: Call of the Conclave
       rarity: Uncommon
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{G}{W}"
       count: 1
-    - identifier: GRN157
-      card_set: GRN
+    - identifier: grn157
+      card_set: grn
       number: '157'
       name: Camaraderie
       rarity: Rare
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{4}{G}{W}"
       count: 1
+  - type: Basic Land
+    count: 16
+    cards:
+    - identifier: gk1127
+      card_set: gk1
+      number: '127'
+      name: Forest
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 8
+    - identifier: gk1126
+      card_set: gk1
+      number: '126'
+      name: Plains
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 8
   - type: Artifact
     count: 2
     cards:
-    - identifier: GK1123
-      card_set: GK1
+    - identifier: gk1123
+      card_set: gk1
       number: '123'
       name: Selesnya Signet
       rarity: Common
-      types: Artifact
+      card_type: Artifact
+      mana_cost: "{2}"
       count: 2
   count: 60
 - pack_type: Prerelease Pack
@@ -1405,129 +1625,144 @@
     alt: Boros Prerelease Pack Box Picture
     title: Prerelease Pack - Rakdos
   tokens:
-    GRN: 4
+    grn: 4
   cards:
   - type: Enchantment
     count: 2
     cards:
-    - identifier: RNA108
-      card_set: RNA
+    - identifier: rna108
+      card_set: rna
       number: '108'
       name: Mirror March
       rarity: Rare
-      types: Enchantment
+      card_type: Enchantment
+      mana_cost: "{5}{R}"
       count: 1
-    - identifier: RNA95
-      card_set: RNA
+    - identifier: rna95
+      card_set: rna
       number: '95'
       name: Cavalcade of Calamity
       rarity: Uncommon
-      types: Enchantment
+      card_type: Enchantment
+      mana_cost: "{1}{R}"
       count: 1
   - type: Artifact
     count: 1
     cards:
-    - identifier: RNA237
-      card_set: RNA
+    - identifier: rna237
+      card_set: rna
       number: '237'
       name: Rakdos Locket
       rarity: Common
-      types: Artifact
+      card_type: Artifact
+      mana_cost: "{3}"
       count: 1
   - type: Instant
     count: 3
     cards:
-    - identifier: RNA68
-      card_set: RNA
+    - identifier: rna68
+      card_set: rna
       number: '68'
       name: Clear the Stage
       rarity: Uncommon
-      types: Instant
+      card_type: Instant
+      mana_cost: "{4}{B}"
       count: 1
-    - identifier: RNA89
-      card_set: RNA
+    - identifier: rna89
+      card_set: rna
       number: '89'
       name: Undercity's Embrace
       rarity: Common
-      types: Instant
+      card_type: Instant
+      mana_cost: "{2}{B}"
       count: 1
-    - identifier: RNA176
-      card_set: RNA
+    - identifier: rna176
+      card_set: rna
       number: '176'
       name: Get the Point
       rarity: Common
-      types: Instant
+      card_type: Instant
+      mana_cost: "{3}{B}{R}"
       count: 1
   - type: Creature
     count: 7
     cards:
-    - identifier: RNA172
-      card_set: RNA
+    - identifier: rna172
+      card_set: rna
       number: '172'
       name: Fireblade Artist
       rarity: Uncommon
-      types: Creature
+      card_type: Creature
+      mana_cost: "{B}{R}"
       count: 1
-    - identifier: RNA66
-      card_set: RNA
+    - identifier: rna66
+      card_set: rna
       number: '66'
       name: Carrion Imp
       rarity: Common
-      types: Creature
+      card_type: Creature
+      mana_cost: "{3}{B}"
       count: 1
-    - identifier: RNA100
-      card_set: RNA
+    - identifier: rna100
+      card_set: rna
       number: '100'
       name: Feral Maaka
       rarity: Common
-      types: Creature
+      card_type: Creature
+      mana_cost: "{1}{R}"
       count: 1
-    - identifier: RNA63
-      card_set: RNA
+    - identifier: rna63
+      card_set: rna
       number: '63'
       name: Blade Juggler
       rarity: Common
-      types: Creature
+      card_type: Creature
+      mana_cost: "{4}{B}"
       count: 1
-    - identifier: RNA111
-      card_set: RNA
+    - identifier: rna111
+      card_set: rna
       number: '111'
       name: Rubblebelt Recluse
       rarity: Common
-      types: Creature
+      card_type: Creature
+      mana_cost: "{4}{R}"
       count: 1
-    - identifier: RNA216
-      card_set: RNA
+    - identifier: rna216
+      card_set: rna
       number: '216'
       name: Footlight Fiend
       rarity: Common
-      types: Creature
+      card_type: Creature
+      mana_cost: "{B/R}"
       count: 1
-    - identifier: RNA84
-      card_set: RNA
+    - identifier: rna84
+      card_set: rna
       number: '84'
       name: Rakdos Trumpeter
       rarity: Common
-      types: Creature
+      card_type: Creature
+      mana_cost: "{1}{B}"
       count: 1
   - type: Sorcery
     count: 1
     cards:
-    - identifier: RNA110
-      card_set: RNA
+    - identifier: rna110
+      card_set: rna
       number: '110'
       name: Rubble Reading
       rarity: Common
-      types: Sorcery
+      card_type: Sorcery
+      mana_cost: "{3}{R}"
       count: 1
   - type: Land
     count: 1
     cards:
-    - identifier: RNA255
-      card_set: RNA
+    - identifier: rna255
+      card_set: rna
       number: '255'
       name: Rakdos Guildgate
       rarity: Common
-      types: Land
+      card_type: Land
+      mana_cost: ''
       count: 1
   count: 15
