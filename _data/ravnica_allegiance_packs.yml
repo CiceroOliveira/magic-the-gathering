@@ -17,6 +17,7 @@
       name: Kaya, Orzhov Usurper
       rarity: Mythic
       card_type: Legendary Planeswalker
+      mana_cost: "{1}{W}{B}"
       count: 1
   - type: Instant
     count: 4
@@ -27,6 +28,7 @@
       name: Unbreakable Formation
       rarity: Rare
       card_type: Instant
+      mana_cost: "{2}{W}"
       count: 1
     - identifier: rna13
       card_set: rna
@@ -34,6 +36,7 @@
       name: Justiciar's Portal
       rarity: Common
       card_type: Instant
+      mana_cost: "{1}{W}"
       count: 1
     - identifier: rna4
       card_set: rna
@@ -41,6 +44,7 @@
       name: Arrester's Zeal
       rarity: Common
       card_type: Instant
+      mana_cost: "{W}"
       count: 1
     - identifier: rna209
       card_set: rna
@@ -48,6 +52,7 @@
       name: Sphinx's Insight
       rarity: Common
       card_type: Instant
+      mana_cost: "{2}{W}{U}"
       count: 1
   - type: Artifact
     count: 1
@@ -58,6 +63,7 @@
       name: Azorius Locket
       rarity: Common
       card_type: Artifact
+      mana_cost: "{3}"
       count: 1
   - type: Creature
     count: 8
@@ -68,6 +74,7 @@
       name: Impassioned Orator
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{W}"
       count: 1
     - identifier: rna40
       card_set: rna
@@ -75,6 +82,7 @@
       name: Gateway Sneak
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{2}{U}"
       count: 1
     - identifier: rna50
       card_set: rna
@@ -82,6 +90,7 @@
       name: Senate Courier
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{U}"
       count: 1
     - identifier: rna219
       card_set: rna
@@ -89,6 +98,7 @@
       name: Senate Griffin
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{W/U}{W/U}"
       count: 1
     - identifier: rna49
       card_set: rna
@@ -96,6 +106,7 @@
       name: Sage's Row Savant
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{U}"
       count: 1
     - identifier: rna154
       card_set: rna
@@ -103,6 +114,7 @@
       name: Azorius Knight-Arbiter
       rarity: Common
       card_type: Creature
+      mana_cost: "{3}{W}{U}"
       count: 1
     - identifier: rna44
       card_set: rna
@@ -110,6 +122,7 @@
       name: Persistent Petitioners
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{U}"
       count: 1
     - identifier: rna155
       card_set: rna
@@ -117,6 +130,7 @@
       name: Azorius Skyguard
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{4}{W}{U}"
       count: 1
   - type: Enchantment
     count: 1
@@ -127,6 +141,7 @@
       name: Sky Tether
       rarity: Uncommon
       card_type: Enchantment
+      mana_cost: "{W}"
       count: 1
   - type: Land
     count: 1
@@ -137,8 +152,154 @@
       name: Azorius Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 1
   count: 16
+- pack_type: Prerelease Pack
+  name: Gruul
+  tokens:
+    rna: 4
+  image:
+    name: prerelease_pack_gruul.png
+    alt: Gruul Prerelease Pack Box Picture
+    title: Prerelease Pack - Gruul
+  cards:
+  - type: Creature
+    count: 8
+    cards:
+    - identifier: rna132
+      card_set: rna
+      number: '132'
+      name: Mammoth Spider
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{4}{G}"
+      count: 1
+    - identifier: rna162
+      card_set: rna
+      number: '162'
+      name: Clan Guildmage
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{R}{G}"
+      count: 1
+    - identifier: rna145
+      card_set: rna
+      number: '145'
+      name: Territorial Boar
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{G}"
+      count: 1
+    - identifier: rna117
+      card_set: rna
+      number: '117'
+      name: Spear Spewer
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{R}"
+      count: 1
+    - identifier: rna135
+      card_set: rna
+      number: '135'
+      name: Rampaging Rendhorn
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{4}{G}"
+      count: 1
+    - identifier: rna103
+      card_set: rna
+      number: '103'
+      name: Ghor-Clan Wrecker
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{3}{R}"
+      count: 1
+    - identifier: rna202
+      card_set: rna
+      number: '202'
+      name: Rubblebelt Runner
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{R}{G}"
+      count: 1
+    - identifier: rna200
+      card_set: rna
+      number: '200'
+      name: Ravager Wurm
+      rarity: Mythic
+      card_type: Creature
+      mana_cost: "{3}{R}{G}{G}"
+      count: 1
+  - type: Artifact
+    count: 1
+    cards:
+    - identifier: rna234
+      card_set: rna
+      number: '234'
+      name: Gruul Locket
+      rarity: Common
+      card_type: Artifact
+      mana_cost: "{3}"
+      count: 1
+  - type: Artifact Creature
+    count: 1
+    cards:
+    - identifier: rna232
+      card_set: rna
+      number: '232'
+      name: Gate Colossus
+      rarity: Uncommon
+      card_type: Artifact Creature
+      mana_cost: "{8}"
+      count: 1
+  - type: Sorcery
+    count: 4
+    cards:
+    - identifier: rna102
+      card_set: rna
+      number: '102'
+      name: Gates Ablaze
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{2}{R}"
+      count: 1
+    - identifier: rna203
+      card_set: rna
+      number: '203'
+      name: Savage Smash
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{1}{R}{G}"
+      count: 1
+    - identifier: rna133
+      card_set: rna
+      number: '133'
+      name: Open the Gates
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{G}"
+      count: 1
+    - identifier: rna98
+      card_set: rna
+      number: '98'
+      name: Deface
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{R}"
+      count: 1
+  - type: Land
+    count: 1
+    cards:
+    - identifier: rna250
+      card_set: rna
+      number: '250'
+      name: Gruul Guildgate
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+  count: 15
 - pack_type: Prerelease Pack
   name: Rakdos
   tokens:
@@ -157,6 +318,7 @@
       name: Mirror March
       rarity: Rare
       card_type: Enchantment
+      mana_cost: "{5}{R}"
       count: 1
     - identifier: rna95
       card_set: rna
@@ -164,6 +326,7 @@
       name: Cavalcade of Calamity
       rarity: Uncommon
       card_type: Enchantment
+      mana_cost: "{1}{R}"
       count: 1
   - type: Artifact
     count: 1
@@ -174,6 +337,7 @@
       name: Rakdos Locket
       rarity: Common
       card_type: Artifact
+      mana_cost: "{3}"
       count: 1
   - type: Instant
     count: 3
@@ -184,6 +348,7 @@
       name: Clear the Stage
       rarity: Uncommon
       card_type: Instant
+      mana_cost: "{4}{B}"
       count: 1
     - identifier: rna89
       card_set: rna
@@ -191,6 +356,7 @@
       name: Undercity's Embrace
       rarity: Common
       card_type: Instant
+      mana_cost: "{2}{B}"
       count: 1
     - identifier: rna176
       card_set: rna
@@ -198,6 +364,7 @@
       name: Get the Point
       rarity: Common
       card_type: Instant
+      mana_cost: "{3}{B}{R}"
       count: 1
   - type: Creature
     count: 7
@@ -208,6 +375,7 @@
       name: Fireblade Artist
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B}{R}"
       count: 1
     - identifier: rna66
       card_set: rna
@@ -215,6 +383,7 @@
       name: Carrion Imp
       rarity: Common
       card_type: Creature
+      mana_cost: "{3}{B}"
       count: 1
     - identifier: rna100
       card_set: rna
@@ -222,6 +391,7 @@
       name: Feral Maaka
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{R}"
       count: 1
     - identifier: rna63
       card_set: rna
@@ -229,6 +399,7 @@
       name: Blade Juggler
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{B}"
       count: 1
     - identifier: rna111
       card_set: rna
@@ -236,6 +407,7 @@
       name: Rubblebelt Recluse
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{R}"
       count: 1
     - identifier: rna216
       card_set: rna
@@ -243,6 +415,7 @@
       name: Footlight Fiend
       rarity: Common
       card_type: Creature
+      mana_cost: "{B/R}"
       count: 1
     - identifier: rna84
       card_set: rna
@@ -250,6 +423,7 @@
       name: Rakdos Trumpeter
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{B}"
       count: 1
   - type: Sorcery
     count: 1
@@ -260,6 +434,7 @@
       name: Rubble Reading
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{3}{R}"
       count: 1
   - type: Land
     count: 1
@@ -270,6 +445,7 @@
       name: Rakdos Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 1
   count: 15
 - pack_type: Theme Booster
@@ -288,6 +464,7 @@
       name: Deputy of Detention
       rarity: Rare
       card_type: Creature
+      mana_cost: "{1}{W}{U}"
       count: 1
     - identifier: rna7
       card_set: rna
@@ -295,6 +472,7 @@
       name: Concordia Pegasus
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{W}"
       count: 1
     - identifier: rna219
       card_set: rna
@@ -302,6 +480,7 @@
       name: Senate Griffin
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{W/U}{W/U}"
       count: 2
     - identifier: rna12
       card_set: rna
@@ -309,6 +488,7 @@
       name: Impassioned Orator
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{W}"
       count: 1
     - identifier: rna40
       card_set: rna
@@ -316,6 +496,7 @@
       name: Gateway Sneak
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{2}{U}"
       count: 1
     - identifier: rna9
       card_set: rna
@@ -323,6 +504,7 @@
       name: Forbidding Spirit
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{W}{W}"
       count: 1
     - identifier: rna23
       card_set: rna
@@ -330,6 +512,7 @@
       name: Spirit of the Spires
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{3}{W}"
       count: 1
     - identifier: rna60
       card_set: rna
@@ -337,6 +520,7 @@
       name: Windstorm Drake
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{4}{U}"
       count: 1
     - identifier: rna33
       card_set: rna
@@ -344,6 +528,7 @@
       name: Chillbringer
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{U}"
       count: 1
     - identifier: rna154
       card_set: rna
@@ -351,6 +536,7 @@
       name: Azorius Knight-Arbiter
       rarity: Common
       card_type: Creature
+      mana_cost: "{3}{W}{U}"
       count: 3
     - identifier: rna204
       card_set: rna
@@ -358,6 +544,7 @@
       name: Senate Guildmage
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{W}{U}"
       count: 1
     - identifier: rna208
       card_set: rna
@@ -365,6 +552,7 @@
       name: Sphinx of New Prahv
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{W}{W}{U}{U}"
       count: 1
   - type: Artifact
     count: 2
@@ -375,6 +563,7 @@
       name: Azorius Locket
       rarity: Common
       card_type: Artifact
+      mana_cost: "{3}"
       count: 1
     - identifier: rna238
       card_set: rna
@@ -382,6 +571,7 @@
       name: Scrabbling Claws
       rarity: Uncommon
       card_type: Artifact
+      mana_cost: "{1}"
       count: 1
   - type: Enchantment
     count: 5
@@ -392,6 +582,7 @@
       name: Lawmage's Binding
       rarity: Common
       card_type: Enchantment
+      mana_cost: "{1}{W}{U}"
       count: 2
     - identifier: rna20
       card_set: rna
@@ -399,6 +590,7 @@
       name: Sentinel's Mark
       rarity: Uncommon
       card_type: Enchantment
+      mana_cost: "{1}{W}"
       count: 1
     - identifier: rna168
       card_set: rna
@@ -406,6 +598,7 @@
       name: Dovin's Acuity
       rarity: Uncommon
       card_type: Enchantment
+      mana_cost: "{1}{W}{U}"
       count: 1
     - identifier: rna182
       card_set: rna
@@ -413,6 +606,7 @@
       name: High Alert
       rarity: Uncommon
       card_type: Enchantment
+      mana_cost: "{1}{W}{U}"
       count: 1
   - type: Land
     count: 1
@@ -423,6 +617,7 @@
       name: Azorius Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 1
   - type: Instant
     count: 9
@@ -433,6 +628,7 @@
       name: Sphinx's Insight
       rarity: Common
       card_type: Instant
+      mana_cost: "{2}{W}{U}"
       count: 2
     - identifier: rna37
       card_set: rna
@@ -440,6 +636,7 @@
       name: Essence Capture
       rarity: Uncommon
       card_type: Instant
+      mana_cost: "{U}{U}"
       count: 1
     - identifier: rna31
       card_set: rna
@@ -447,6 +644,7 @@
       name: Arrester's Admonition
       rarity: Common
       card_type: Instant
+      mana_cost: "{2}{U}"
       count: 1
     - identifier: rna4
       card_set: rna
@@ -454,6 +652,7 @@
       name: Arrester's Zeal
       rarity: Common
       card_type: Instant
+      mana_cost: "{W}"
       count: 1
     - identifier: rna18
       card_set: rna
@@ -461,6 +660,7 @@
       name: Rally to Battle
       rarity: Uncommon
       card_type: Instant
+      mana_cost: "{3}{W}"
       count: 1
     - identifier: rna48
       card_set: rna
@@ -468,6 +668,7 @@
       name: Quench
       rarity: Common
       card_type: Instant
+      mana_cost: "{1}{U}"
       count: 1
     - identifier: rna57
       card_set: rna
@@ -475,6 +676,7 @@
       name: Thought Collapse
       rarity: Common
       card_type: Instant
+      mana_cost: "{1}{U}{U}"
       count: 1
     - identifier: rna24
       card_set: rna
@@ -482,6 +684,7 @@
       name: Summary Judgment
       rarity: Common
       card_type: Instant
+      mana_cost: "{1}{W}"
       count: 1
   - type: Sorcery
     count: 2
@@ -492,6 +695,7 @@
       name: Clear the Mind
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{2}{U}"
       count: 1
     - identifier: rna5
       card_set: rna
@@ -499,6 +703,7 @@
       name: Bring to Trial
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{2}{W}"
       count: 1
   - type: Instant // Instant
     count: 1
@@ -509,6 +714,7 @@
       name: Depose // Deploy
       rarity: Uncommon
       card_type: Instant // Instant
+      mana_cost: "{1}{W/U} // {2}{W}{U}"
       count: 1
   count: 35
 - pack_type: Theme Booster
@@ -527,6 +733,7 @@
       name: Amplifire
       rarity: Rare
       card_type: Creature
+      mana_cost: "{2}{R}{R}"
       count: 1
     - identifier: rna135
       card_set: rna
@@ -534,6 +741,7 @@
       name: Rampaging Rendhorn
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{G}"
       count: 1
     - identifier: rna202
       card_set: rna
@@ -541,6 +749,7 @@
       name: Rubblebelt Runner
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{R}{G}"
       count: 2
     - identifier: rna150
       card_set: rna
@@ -548,6 +757,7 @@
       name: Wrecking Beast
       rarity: Common
       card_type: Creature
+      mana_cost: "{5}{G}{G}"
       count: 2
     - identifier: rna121
       card_set: rna
@@ -555,6 +765,7 @@
       name: Axebane Beast
       rarity: Common
       card_type: Creature
+      mana_cost: "{3}{G}"
       count: 1
     - identifier: rna144
       card_set: rna
@@ -562,6 +773,7 @@
       name: Sylvan Brushstrider
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{G}"
       count: 1
     - identifier: rna112
       card_set: rna
@@ -569,6 +781,7 @@
       name: Rumbling Ruin
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{5}{R}"
       count: 1
     - identifier: rna103
       card_set: rna
@@ -576,6 +789,7 @@
       name: Ghor-Clan Wrecker
       rarity: Common
       card_type: Creature
+      mana_cost: "{3}{R}"
       count: 1
     - identifier: rna129
       card_set: rna
@@ -583,6 +797,7 @@
       name: Gruul Beastmaster
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{3}{G}"
       count: 1
     - identifier: rna94
       card_set: rna
@@ -590,6 +805,7 @@
       name: Burning-Tree Vandal
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: rna125
       card_set: rna
@@ -597,6 +813,7 @@
       name: Enraged Ceratok
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{2}{G}{G}"
       count: 1
     - identifier: rna173
       card_set: rna
@@ -604,6 +821,7 @@
       name: Frenzied Arynx
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{R}{G}"
       count: 2
     - identifier: rna215
       card_set: rna
@@ -611,6 +829,7 @@
       name: Zhur-Taa Goblin
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{R}{G}"
       count: 1
     - identifier: rna162
       card_set: rna
@@ -618,6 +837,7 @@
       name: Clan Guildmage
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{R}{G}"
       count: 1
     - identifier: rna210
       card_set: rna
@@ -625,6 +845,7 @@
       name: Sunder Shaman
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{R}{R}{G}{G}"
       count: 1
     - identifier: rna217
       card_set: rna
@@ -632,6 +853,7 @@
       name: Rubble Slinger
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{R/G}"
       count: 1
     - identifier: rna159
       card_set: rna
@@ -639,6 +861,7 @@
       name: Bolrac-Clan Crusher
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{3}{R}{G}"
       count: 1
   - type: Sorcery
     count: 7
@@ -649,6 +872,7 @@
       name: Gates Ablaze
       rarity: Uncommon
       card_type: Sorcery
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: rna133
       card_set: rna
@@ -656,6 +880,7 @@
       name: Open the Gates
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{G}"
       count: 2
     - identifier: rna203
       card_set: rna
@@ -663,6 +888,7 @@
       name: Savage Smash
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{1}{R}{G}"
       count: 2
     - identifier: rna110
       card_set: rna
@@ -670,6 +896,7 @@
       name: Rubble Reading
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{3}{R}"
       count: 1
     - identifier: rna98
       card_set: rna
@@ -677,6 +904,7 @@
       name: Deface
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{R}"
       count: 1
   - type: Artifact Creature
     count: 2
@@ -687,6 +915,7 @@
       name: Gate Colossus
       rarity: Uncommon
       card_type: Artifact Creature
+      mana_cost: "{8}"
       count: 1
     - identifier: rna235
       card_set: rna
@@ -694,6 +923,7 @@
       name: Junktroller
       rarity: Uncommon
       card_type: Artifact Creature
+      mana_cost: "{4}"
       count: 1
   - type: Land
     count: 1
@@ -704,6 +934,7 @@
       name: Gruul Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 1
   - type: Artifact
     count: 1
@@ -714,6 +945,7 @@
       name: Gruul Locket
       rarity: Common
       card_type: Artifact
+      mana_cost: "{3}"
       count: 1
   - type: Instant
     count: 3
@@ -724,6 +956,7 @@
       name: Stony Strength
       rarity: Common
       card_type: Instant
+      mana_cost: "{G}"
       count: 1
     - identifier: rna146
       card_set: rna
@@ -731,6 +964,7 @@
       name: Titanic Brawl
       rarity: Common
       card_type: Instant
+      mana_cost: "{1}{G}"
       count: 1
     - identifier: rna147
       card_set: rna
@@ -738,6 +972,7 @@
       name: Tower Defense
       rarity: Uncommon
       card_type: Instant
+      mana_cost: "{1}{G}"
       count: 1
   - type: Enchantment
     count: 1
@@ -748,6 +983,7 @@
       name: Rhythm of the Wild
       rarity: Uncommon
       card_type: Enchantment
+      mana_cost: "{1}{R}{G}"
       count: 1
   count: 35
 - pack_type: Theme Booster
@@ -766,6 +1002,7 @@
       name: Rubble Slinger
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{R/G}"
       count: 2
     - identifier: rna120
       card_set: rna
@@ -773,6 +1010,7 @@
       name: Tin Street Dodger
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{R}"
       count: 1
     - identifier: rna159
       card_set: rna
@@ -780,6 +1018,7 @@
       name: Bolrac-Clan Crusher
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{3}{R}{G}"
       count: 1
     - identifier: rna162
       card_set: rna
@@ -787,6 +1026,7 @@
       name: Clan Guildmage
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{R}{G}"
       count: 1
     - identifier: rna210
       card_set: rna
@@ -794,6 +1034,7 @@
       name: Sunder Shaman
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{R}{R}{G}{G}"
       count: 1
     - identifier: rna215
       card_set: rna
@@ -801,6 +1042,7 @@
       name: Zhur-Taa Goblin
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{R}{G}"
       count: 1
     - identifier: rna94
       card_set: rna
@@ -808,6 +1050,7 @@
       name: Burning-Tree Vandal
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: rna100
       card_set: rna
@@ -815,6 +1058,7 @@
       name: Feral Maaka
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{R}"
       count: 1
     - identifier: rna103
       card_set: rna
@@ -822,6 +1066,7 @@
       name: Ghor-Clan Wrecker
       rarity: Common
       card_type: Creature
+      mana_cost: "{3}{R}"
       count: 2
     - identifier: rna105
       card_set: rna
@@ -829,6 +1074,7 @@
       name: Gravel-Hide Goblin
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{R}"
       count: 2
     - identifier: rna132
       card_set: rna
@@ -836,6 +1082,7 @@
       name: Mammoth Spider
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{G}"
       count: 1
     - identifier: rna135
       card_set: rna
@@ -843,6 +1090,7 @@
       name: Rampaging Rendhorn
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{G}"
       count: 1
     - identifier: rna150
       card_set: rna
@@ -850,6 +1098,7 @@
       name: Wrecking Beast
       rarity: Common
       card_type: Creature
+      mana_cost: "{5}{G}{G}"
       count: 1
     - identifier: rna173
       card_set: rna
@@ -857,6 +1106,7 @@
       name: Frenzied Arynx
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{R}{G}"
       count: 2
     - identifier: rna202
       card_set: rna
@@ -864,6 +1114,7 @@
       name: Rubblebelt Runner
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{R}{G}"
       count: 2
     - identifier: rna97
       card_set: rna
@@ -871,6 +1122,7 @@
       name: Dagger Caster
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{3}{R}"
       count: 1
   - type: Instant
     count: 5
@@ -881,6 +1133,7 @@
       name: Flames of the Raze-Boar
       rarity: Uncommon
       card_type: Instant
+      mana_cost: "{5}{R}"
       count: 1
     - identifier: rna93
       card_set: rna
@@ -888,6 +1141,7 @@
       name: Burn Bright
       rarity: Common
       card_type: Instant
+      mana_cost: "{2}{R}"
       count: 2
     - identifier: rna113
       card_set: rna
@@ -895,6 +1149,7 @@
       name: Scorchmark
       rarity: Common
       card_type: Instant
+      mana_cost: "{1}{R}"
       count: 1
     - identifier: rna137
       card_set: rna
@@ -902,6 +1157,7 @@
       name: Root Snare
       rarity: Common
       card_type: Instant
+      mana_cost: "{1}{G}"
       count: 1
   - type: Sorcery
     count: 3
@@ -912,6 +1168,7 @@
       name: Gates Ablaze
       rarity: Uncommon
       card_type: Sorcery
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: rna123
       card_set: rna
@@ -919,6 +1176,7 @@
       name: Biogenic Upgrade
       rarity: Uncommon
       card_type: Sorcery
+      mana_cost: "{4}{G}{G}"
       count: 1
     - identifier: rna133
       card_set: rna
@@ -926,6 +1184,7 @@
       name: Open the Gates
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{G}"
       count: 1
   - type: Instant // Instant
     count: 1
@@ -936,6 +1195,7 @@
       name: Collision // Colossus
       rarity: Uncommon
       card_type: Instant // Instant
+      mana_cost: "{1}{R/G} // {R}{G}"
       count: 1
   - type: Instant // Sorcery
     count: 1
@@ -946,6 +1206,7 @@
       name: Thrash // Threat
       rarity: Rare
       card_type: Instant // Sorcery
+      mana_cost: "{R/G}{R/G} // {2}{R}{G}"
       count: 1
   - type: Artifact Creature
     count: 2
@@ -956,6 +1217,7 @@
       name: Gate Colossus
       rarity: Uncommon
       card_type: Artifact Creature
+      mana_cost: "{8}"
       count: 1
     - identifier: rna241
       card_set: rna
@@ -963,6 +1225,7 @@
       name: Sphinx of the Guildpact
       rarity: Uncommon
       card_type: Artifact Creature
+      mana_cost: "{7}"
       count: 1
   - type: Artifact
     count: 1
@@ -973,6 +1236,7 @@
       name: Gruul Locket
       rarity: Common
       card_type: Artifact
+      mana_cost: "{3}"
       count: 1
   - type: Land
     count: 1
@@ -983,6 +1247,7 @@
       name: Gruul Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 1
   bought_on: 5/2/2019
   count: 35
@@ -1002,6 +1267,7 @@
       name: Knight of the Last Breath
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{5}{W}{B}"
       count: 2
     - identifier: rna3
       card_set: rna
@@ -1009,6 +1275,7 @@
       name: Archway Angel
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{5}{W}"
       count: 1
     - identifier: rna28
       card_set: rna
@@ -1016,6 +1283,7 @@
       name: Twilight Panther
       rarity: Common
       card_type: Creature
+      mana_cost: "{W}"
       count: 1
     - identifier: rna25
       card_set: rna
@@ -1023,6 +1291,7 @@
       name: Syndicate Messenger
       rarity: Common
       card_type: Creature
+      mana_cost: "{3}{W}"
       count: 2
     - identifier: rna184
       card_set: rna
@@ -1030,6 +1299,7 @@
       name: Imperious Oligarch
       rarity: Common
       card_type: Creature
+      mana_cost: "{W}{B}"
       count: 2
     - identifier: rna90
       card_set: rna
@@ -1037,6 +1307,7 @@
       name: Vindictive Vampire
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{3}{B}"
       count: 1
     - identifier: rna87
       card_set: rna
@@ -1044,6 +1315,7 @@
       name: Thirsting Shade
       rarity: Common
       card_type: Creature
+      mana_cost: "{B}"
       count: 1
     - identifier: rna19
       card_set: rna
@@ -1051,6 +1323,7 @@
       name: Resolute Watchdog
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{W}"
       count: 1
     - identifier: rna16
       card_set: rna
@@ -1058,6 +1331,7 @@
       name: Ministrant of Obligation
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{2}{W}"
       count: 1
     - identifier: rna82
       card_set: rna
@@ -1065,6 +1339,7 @@
       name: Plague Wight
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{B}"
       count: 1
     - identifier: rna72
       card_set: rna
@@ -1072,6 +1347,7 @@
       name: Debtors' Transport
       rarity: Common
       card_type: Creature
+      mana_cost: "{5}{B}"
       count: 1
     - identifier: rna26
       card_set: rna
@@ -1079,6 +1355,7 @@
       name: Tenth District Veteran
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{W}"
       count: 1
     - identifier: rna14
       card_set: rna
@@ -1086,6 +1363,7 @@
       name: Knight of Sorrows
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{W}"
       count: 1
     - identifier: rna79
       card_set: rna
@@ -1093,6 +1371,7 @@
       name: Orzhov Enforcer
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{B}"
       count: 1
     - identifier: rna67
       card_set: rna
@@ -1100,6 +1379,7 @@
       name: Catacomb Crocodile
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{B}"
       count: 1
     - identifier: rna220
       card_set: rna
@@ -1107,6 +1387,7 @@
       name: Vizkopa Vampire
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{W/B}"
       count: 2
     - identifier: rna6
       card_set: rna
@@ -1114,6 +1395,7 @@
       name: Civic Stalwart
       rarity: Common
       card_type: Creature
+      mana_cost: "{3}{W}"
       count: 1
     - identifier: rna156
       card_set: rna
@@ -1121,6 +1403,7 @@
       name: Basilica Bell-Haunt
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{W}{W}{B}{B}"
       count: 1
     - identifier: rna194
       card_set: rna
@@ -1128,6 +1411,7 @@
       name: Pitiless Pontiff
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{W}{B}"
       count: 1
   - type: Land
     count: 1
@@ -1138,6 +1422,7 @@
       name: Orzhov Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 1
   - type: Artifact
     count: 1
@@ -1148,6 +1433,7 @@
       name: Orzhov Locket
       rarity: Common
       card_type: Artifact
+      mana_cost: "{3}"
       count: 1
   - type: Instant
     count: 4
@@ -1158,6 +1444,7 @@
       name: Final Payment
       rarity: Common
       card_type: Instant
+      mana_cost: "{W}{B}"
       count: 2
     - identifier: rna64
       card_set: rna
@@ -1165,6 +1452,7 @@
       name: Bladebrand
       rarity: Common
       card_type: Instant
+      mana_cost: "{1}{B}"
       count: 1
     - identifier: rna192
       card_set: rna
@@ -1172,6 +1460,7 @@
       name: Mortify
       rarity: Uncommon
       card_type: Instant
+      mana_cost: "{1}{W}{B}"
       count: 1
   - type: Sorcery
     count: 3
@@ -1182,6 +1471,7 @@
       name: Bankrupt in Blood
       rarity: Uncommon
       card_type: Sorcery
+      mana_cost: "{1}{B}"
       count: 1
     - identifier: rna5
       card_set: rna
@@ -1189,6 +1479,7 @@
       name: Bring to Trial
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{2}{W}"
       count: 1
     - identifier: rna187
       card_set: rna
@@ -1196,6 +1487,7 @@
       name: Kaya's Wrath
       rarity: Rare
       card_type: Sorcery
+      mana_cost: "{W}{W}{B}{B}"
       count: 1
   - type: Enchantment
     count: 1
@@ -1206,6 +1498,7 @@
       name: Ill-Gotten Inheritance
       rarity: Common
       card_type: Enchantment
+      mana_cost: "{3}{B}"
       count: 1
   - type: Instant // Sorcery
     count: 1
@@ -1216,6 +1509,7 @@
       name: Consecrate // Consume
       rarity: Uncommon
       card_type: Instant // Sorcery
+      mana_cost: "{1}{W/B} // {2}{W}{B}"
       count: 1
   - type: Artifact Creature
     count: 1
@@ -1226,6 +1520,7 @@
       name: Junktroller
       rarity: Uncommon
       card_type: Artifact Creature
+      mana_cost: "{4}"
       count: 1
   count: 35
 - pack_type: Theme Booster
@@ -1244,6 +1539,7 @@
       name: Rafter Demon
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{B}{R}"
       count: 2
     - identifier: rna78
       card_set: rna
@@ -1251,6 +1547,7 @@
       name: Noxious Groodion
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{B}"
       count: 2
     - identifier: rna63
       card_set: rna
@@ -1258,6 +1555,7 @@
       name: Blade Juggler
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{B}"
       count: 1
     - identifier: rna84
       card_set: rna
@@ -1265,6 +1563,7 @@
       name: Rakdos Trumpeter
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{B}"
       count: 1
     - identifier: rna82
       card_set: rna
@@ -1272,6 +1571,7 @@
       name: Plague Wight
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{B}"
       count: 1
     - identifier: rna116
       card_set: rna
@@ -1279,6 +1579,7 @@
       name: Smelt-Ward Ignus
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{R}"
       count: 1
     - identifier: rna86
       card_set: rna
@@ -1286,6 +1587,7 @@
       name: Spire Mangler
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{2}{B}"
       count: 1
     - identifier: rna117
       card_set: rna
@@ -1293,6 +1595,7 @@
       name: Spear Spewer
       rarity: Common
       card_type: Creature
+      mana_cost: "{R}"
       count: 1
     - identifier: rna181
       card_set: rna
@@ -1300,6 +1603,7 @@
       name: Hackrobat
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: rna197
       card_set: rna
@@ -1307,6 +1611,7 @@
       name: Rakdos Firewheeler
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B}{B}{R}{R}"
       count: 1
     - identifier: rna118
       card_set: rna
@@ -1314,6 +1619,7 @@
       name: Spikewheel Acrobat
       rarity: Common
       card_type: Creature
+      mana_cost: "{3}{R}"
       count: 2
     - identifier: rna198
       card_set: rna
@@ -1321,6 +1627,7 @@
       name: Rakdos Roustabout
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: rna164
       card_set: rna
@@ -1328,6 +1635,7 @@
       name: Cult Guildmage
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B}{R}"
       count: 1
     - identifier: rna216
       card_set: rna
@@ -1335,6 +1643,7 @@
       name: Footlight Fiend
       rarity: Common
       card_type: Creature
+      mana_cost: "{B/R}"
       count: 1
     - identifier: rna172
       card_set: rna
@@ -1342,6 +1651,7 @@
       name: Fireblade Artist
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B}{R}"
       count: 1
   - type: Artifact
     count: 1
@@ -1352,6 +1662,7 @@
       name: Rakdos Locket
       rarity: Common
       card_type: Artifact
+      mana_cost: "{3}"
       count: 1
   - type: Sorcery
     count: 9
@@ -1362,6 +1673,7 @@
       name: Goblin Gathering
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{2}{R}"
       count: 3
     - identifier: rna91
       card_set: rna
@@ -1369,6 +1681,7 @@
       name: Act of Treason
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: rna71
       card_set: rna
@@ -1376,6 +1689,7 @@
       name: Dead Revels
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{3}{B}"
       count: 1
     - identifier: rna98
       card_set: rna
@@ -1383,6 +1697,7 @@
       name: Deface
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{R}"
       count: 1
     - identifier: rna62
       card_set: rna
@@ -1390,6 +1705,7 @@
       name: Bankrupt in Blood
       rarity: Uncommon
       card_type: Sorcery
+      mana_cost: "{1}{B}"
       count: 1
     - identifier: rna107
       card_set: rna
@@ -1397,6 +1713,7 @@
       name: Light Up the Stage
       rarity: Uncommon
       card_type: Sorcery
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: rna115
       card_set: rna
@@ -1404,6 +1721,7 @@
       name: Skewer the Critics
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{2}{R}"
       count: 1
   - type: Instant
     count: 4
@@ -1414,6 +1732,7 @@
       name: Get the Point
       rarity: Common
       card_type: Instant
+      mana_cost: "{3}{B}{R}"
       count: 3
     - identifier: rna191
       card_set: rna
@@ -1421,6 +1740,7 @@
       name: Macabre Mockery
       rarity: Uncommon
       card_type: Instant
+      mana_cost: "{2}{B}{R}"
       count: 1
   - type: Instant // Sorcery
     count: 1
@@ -1431,6 +1751,7 @@
       name: Carnival // Carnage
       rarity: Uncommon
       card_type: Instant // Sorcery
+      mana_cost: "{B/R} // {2}{B}{R}"
       count: 1
   - type: Artifact Creature
     count: 1
@@ -1441,6 +1762,7 @@
       name: Junktroller
       rarity: Uncommon
       card_type: Artifact Creature
+      mana_cost: "{4}"
       count: 1
   - type: Enchantment
     count: 1
@@ -1451,6 +1773,7 @@
       name: Captive Audience
       rarity: Mythic
       card_type: Enchantment
+      mana_cost: "{5}{B}{R}"
       count: 1
   count: 35
 - pack_type: Theme Booster
@@ -1469,6 +1792,7 @@
       name: Rakdos Roustabout
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: rna164
       card_set: rna
@@ -1476,6 +1800,7 @@
       name: Cult Guildmage
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B}{R}"
       count: 1
     - identifier: rna181
       card_set: rna
@@ -1483,6 +1808,7 @@
       name: Hackrobat
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: rna197
       card_set: rna
@@ -1490,6 +1816,7 @@
       name: Rakdos Firewheeler
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B}{B}{R}{R}"
       count: 1
     - identifier: rna63
       card_set: rna
@@ -1497,6 +1824,7 @@
       name: Blade Juggler
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{B}"
       count: 2
     - identifier: rna66
       card_set: rna
@@ -1504,6 +1832,7 @@
       name: Carrion Imp
       rarity: Common
       card_type: Creature
+      mana_cost: "{3}{B}"
       count: 1
     - identifier: rna67
       card_set: rna
@@ -1511,6 +1840,7 @@
       name: Catacomb Crocodile
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{B}"
       count: 1
     - identifier: rna78
       card_set: rna
@@ -1518,6 +1848,7 @@
       name: Noxious Groodion
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{B}"
       count: 1
     - identifier: rna82
       card_set: rna
@@ -1525,6 +1856,7 @@
       name: Plague Wight
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{B}"
       count: 1
     - identifier: rna84
       card_set: rna
@@ -1532,6 +1864,7 @@
       name: Rakdos Trumpeter
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{B}"
       count: 1
     - identifier: rna118
       card_set: rna
@@ -1539,6 +1872,7 @@
       name: Spikewheel Acrobat
       rarity: Common
       card_type: Creature
+      mana_cost: "{3}{R}"
       count: 2
     - identifier: rna196
       card_set: rna
@@ -1546,6 +1880,7 @@
       name: Rafter Demon
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{B}{R}"
       count: 3
     - identifier: rna65
       card_set: rna
@@ -1553,6 +1888,7 @@
       name: Bloodmist Infiltrator
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{2}{B}"
       count: 1
   - type: Sorcery
     count: 8
@@ -1563,6 +1899,7 @@
       name: Skewer the Critics
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{2}{R}"
       count: 2
     - identifier: rna69
       card_set: rna
@@ -1570,6 +1907,7 @@
       name: Consign to the Pit
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{5}{B}"
       count: 1
     - identifier: rna71
       card_set: rna
@@ -1577,6 +1915,7 @@
       name: Dead Revels
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{3}{B}"
       count: 1
     - identifier: rna73
       card_set: rna
@@ -1584,6 +1923,7 @@
       name: Drill Bit
       rarity: Uncommon
       card_type: Sorcery
+      mana_cost: "{2}{B}"
       count: 1
     - identifier: rna91
       card_set: rna
@@ -1591,6 +1931,7 @@
       name: Act of Treason
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: rna110
       card_set: rna
@@ -1598,6 +1939,7 @@
       name: Rubble Reading
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{3}{R}"
       count: 1
     - identifier: rna107
       card_set: rna
@@ -1605,6 +1947,7 @@
       name: Light Up the Stage
       rarity: Uncommon
       card_type: Sorcery
+      mana_cost: "{2}{R}"
       count: 1
   - type: Enchantment
     count: 2
@@ -1615,6 +1958,7 @@
       name: Mirror March
       rarity: Rare
       card_type: Enchantment
+      mana_cost: "{5}{R}"
       count: 1
     - identifier: rna77
       card_set: rna
@@ -1622,6 +1966,7 @@
       name: Ill-Gotten Inheritance
       rarity: Common
       card_type: Enchantment
+      mana_cost: "{3}{B}"
       count: 1
   - type: Instant
     count: 4
@@ -1632,6 +1977,7 @@
       name: Macabre Mockery
       rarity: Uncommon
       card_type: Instant
+      mana_cost: "{2}{B}{R}"
       count: 1
     - identifier: rna176
       card_set: rna
@@ -1639,6 +1985,7 @@
       name: Get the Point
       rarity: Common
       card_type: Instant
+      mana_cost: "{3}{B}{R}"
       count: 3
   - type: Instant // Sorcery
     count: 1
@@ -1649,6 +1996,7 @@
       name: Carnival // Carnage
       rarity: Uncommon
       card_type: Instant // Sorcery
+      mana_cost: "{B/R} // {2}{B}{R}"
       count: 1
   - type: Artifact Creature
     count: 1
@@ -1659,6 +2007,7 @@
       name: Sphinx of the Guildpact
       rarity: Uncommon
       card_type: Artifact Creature
+      mana_cost: "{7}"
       count: 1
   - type: Artifact
     count: 1
@@ -1669,6 +2018,7 @@
       name: Rakdos Locket
       rarity: Common
       card_type: Artifact
+      mana_cost: "{3}"
       count: 1
   - type: Land
     count: 1
@@ -1679,6 +2029,7 @@
       name: Rakdos Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 1
   bought_on: 5/2/2019
   count: 35
@@ -1698,6 +2049,7 @@
       name: Sharktocrab
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{2}{G}{U}"
       count: 1
     - identifier: rna218
       card_set: rna
@@ -1705,6 +2057,7 @@
       name: Scuttlegator
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{G/U}{G/U}"
       count: 1
     - identifier: rna44
       card_set: rna
@@ -1712,6 +2065,7 @@
       name: Persistent Petitioners
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{U}"
       count: 1
     - identifier: rna53
       card_set: rna
@@ -1719,6 +2073,7 @@
       name: Skitter Eel
       rarity: Common
       card_type: Creature
+      mana_cost: "{3}{U}"
       count: 3
     - identifier: rna142
       card_set: rna
@@ -1726,6 +2081,7 @@
       name: Steeple Creeper
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{G}"
       count: 1
     - identifier: rna33
       card_set: rna
@@ -1733,6 +2089,7 @@
       name: Chillbringer
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{U}"
       count: 1
     - identifier: rna139
       card_set: rna
@@ -1740,6 +2097,7 @@
       name: Saruli Caretaker
       rarity: Common
       card_type: Creature
+      mana_cost: "{G}"
       count: 1
     - identifier: rna47
       card_set: rna
@@ -1747,6 +2105,7 @@
       name: Pteramander
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{U}"
       count: 1
     - identifier: rna132
       card_set: rna
@@ -1754,6 +2113,7 @@
       name: Mammoth Spider
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{G}"
       count: 1
     - identifier: rna41
       card_set: rna
@@ -1761,6 +2121,7 @@
       name: Humongulus
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{U}"
       count: 1
     - identifier: rna125
       card_set: rna
@@ -1768,6 +2129,7 @@
       name: Enraged Ceratok
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{2}{G}{G}"
       count: 1
     - identifier: rna39
       card_set: rna
@@ -1775,6 +2137,7 @@
       name: Faerie Duelist
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{U}"
       count: 1
     - identifier: rna140
       card_set: rna
@@ -1782,6 +2145,7 @@
       name: Sauroform Hybrid
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{G}"
       count: 1
     - identifier: rna148
       card_set: rna
@@ -1789,6 +2153,7 @@
       name: Trollbred Guardian
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{4}{G}"
       count: 1
     - identifier: rna145
       card_set: rna
@@ -1796,6 +2161,7 @@
       name: Territorial Boar
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{G}"
       count: 1
     - identifier: rna141
       card_set: rna
@@ -1803,6 +2169,7 @@
       name: Silhana Wayfinder
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{G}"
       count: 1
     - identifier: rna174
       card_set: rna
@@ -1810,6 +2177,7 @@
       name: Frilled Mystic
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{G}{G}{U}{U}"
       count: 1
     - identifier: rna40
       card_set: rna
@@ -1817,6 +2185,7 @@
       name: Gateway Sneak
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{2}{U}"
       count: 1
     - identifier: rna152
       card_set: rna
@@ -1824,6 +2193,7 @@
       name: Aeromunculus
       rarity: Common
       card_type: Creature
+      mana_cost: "{1}{G}{U}"
       count: 1
     - identifier: rna163
       card_set: rna
@@ -1831,6 +2201,7 @@
       name: Combine Guildmage
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{G}{U}"
       count: 1
   - type: Instant
     count: 7
@@ -1841,6 +2212,7 @@
       name: Growth Spiral
       rarity: Common
       card_type: Instant
+      mana_cost: "{G}{U}"
       count: 2
     - identifier: rna137
       card_set: rna
@@ -1848,6 +2220,7 @@
       name: Root Snare
       rarity: Common
       card_type: Instant
+      mana_cost: "{1}{G}"
       count: 1
     - identifier: rna153
       card_set: rna
@@ -1855,6 +2228,7 @@
       name: Applied Biomancy
       rarity: Common
       card_type: Instant
+      mana_cost: "{G}{U}"
       count: 2
     - identifier: rna46
       card_set: rna
@@ -1862,6 +2236,7 @@
       name: Prying Eyes
       rarity: Common
       card_type: Instant
+      mana_cost: "{4}{U}{U}"
       count: 1
     - identifier: rna127
       card_set: rna
@@ -1869,6 +2244,7 @@
       name: Gift of Strength
       rarity: Common
       card_type: Instant
+      mana_cost: "{1}{G}"
       count: 1
   - type: Sorcery
     count: 1
@@ -1879,6 +2255,7 @@
       name: Open the Gates
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{G}"
       count: 1
   - type: Land
     count: 1
@@ -1889,6 +2266,7 @@
       name: Simic Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 1
   - type: Artifact
     count: 1
@@ -1899,6 +2277,7 @@
       name: Simic Locket
       rarity: Common
       card_type: Artifact
+      mana_cost: "{3}"
       count: 1
   - type: Enchantment
     count: 2
@@ -1909,6 +2288,7 @@
       name: Slimebind
       rarity: Common
       card_type: Enchantment
+      mana_cost: "{1}{U}"
       count: 1
     - identifier: rna130
       card_set: rna
@@ -1916,6 +2296,7 @@
       name: Guardian Project
       rarity: Rare
       card_type: Enchantment
+      mana_cost: "{3}{G}"
       count: 1
   - type: Sorcery // Instant
     count: 1
@@ -1926,447 +2307,9 @@
       name: Incubation // Incongruity
       rarity: Uncommon
       card_type: Sorcery // Instant
+      mana_cost: "{G/U} // {1}{G}{U}"
       count: 1
   count: 35
-- pack_type: Planeswalker Deck
-  name: Domri
-  image:
-    name: planeswalker_deck_domri.png
-    alt: Planeswalker Deck - Domri - Picture
-    title: Planeswalker Deck - Domri
-  cards:
-  - type: Legendary Planeswalker
-    count: 1
-    cards:
-    - identifier: rna269
-      card_set: rna
-      number: '269'
-      name: Domri, City Smasher
-      rarity: Mythic
-      card_type: Legendary Planeswalker
-      count: 1
-  - type: Creature
-    count: 24
-    cards:
-    - identifier: rna271
-      card_set: rna
-      number: '271'
-      name: Charging War Boar
-      rarity: Uncommon
-      card_type: Creature
-      count: 3
-    - identifier: rna272
-      card_set: rna
-      number: '272'
-      name: Domri's Nodorog
-      rarity: Rare
-      card_type: Creature
-      count: 2
-    - identifier: rna96
-      card_set: rna
-      number: '96'
-      name: Clamor Shaman
-      rarity: Uncommon
-      card_type: Creature
-      count: 2
-    - identifier: rna100
-      card_set: rna
-      number: '100'
-      name: Feral Maaka
-      rarity: Common
-      card_type: Creature
-      count: 2
-    - identifier: rna105
-      card_set: rna
-      number: '105'
-      name: Gravel-Hide Goblin
-      rarity: Common
-      card_type: Creature
-      count: 2
-    - identifier: rna121
-      card_set: rna
-      number: '121'
-      name: Axebane Beast
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna135
-      card_set: rna
-      number: '135'
-      name: Rampaging Rendhorn
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna144
-      card_set: rna
-      number: '144'
-      name: Sylvan Brushstrider
-      rarity: Common
-      card_type: Creature
-      count: 2
-    - identifier: rna150
-      card_set: rna
-      number: '150'
-      name: Wrecking Beast
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna159
-      card_set: rna
-      number: '159'
-      name: Bolrac-Clan Crusher
-      rarity: Uncommon
-      card_type: Creature
-      count: 1
-    - identifier: rna173
-      card_set: rna
-      number: '173'
-      name: Frenzied Arynx
-      rarity: Common
-      card_type: Creature
-      count: 3
-    - identifier: rna215
-      card_set: rna
-      number: '215'
-      name: Zhur-Taa Goblin
-      rarity: Uncommon
-      card_type: Creature
-      count: 3
-    - identifier: rna124
-      card_set: rna
-      number: '124'
-      name: End-Raze Forerunners
-      rarity: Rare
-      card_type: Creature
-      count: 1
-  - type: Artifact
-    count: 1
-    cards:
-    - identifier: rna233
-      card_set: rna
-      number: '233'
-      name: Glass of the Guildpact
-      rarity: Rare
-      card_type: Artifact
-      count: 1
-  - type: Land
-    count: 4
-    cards:
-    - identifier: rna249
-      card_set: rna
-      number: '249'
-      name: Gruul Guildgate
-      rarity: Common
-      card_type: Land
-      count: 2
-    - identifier: rna250
-      card_set: rna
-      number: '250'
-      name: Gruul Guildgate
-      rarity: Common
-      card_type: Land
-      count: 2
-  - type: Basic Land
-    count: 22
-    cards:
-    - identifier: rna264
-      card_set: rna
-      number: '264'
-      name: Forest
-      rarity: Common
-      card_type: Basic Land
-      count: 11
-    - identifier: rna263
-      card_set: rna
-      number: '263'
-      name: Mountain
-      rarity: Common
-      card_type: Basic Land
-      count: 11
-  - type: Instant
-    count: 4
-    cards:
-    - identifier: rna93
-      card_set: rna
-      number: '93'
-      name: Burn Bright
-      rarity: Common
-      card_type: Instant
-      count: 2
-    - identifier: rna143
-      card_set: rna
-      number: '143'
-      name: Stony Strength
-      rarity: Common
-      card_type: Instant
-      count: 2
-  - type: Sorcery
-    count: 4
-    cards:
-    - identifier: rna270
-      card_set: rna
-      number: '270'
-      name: Ragefire
-      rarity: Common
-      card_type: Sorcery
-      count: 4
-  count: 60
-- pack_type: Planeswalker Deck - Booster
-  name: Domri
-  image:
-    name: ravnica_allegiance_booster_pack_domri.png
-    alt: Planeswalker Deck - Domri - Booster Pack - Picture
-    title: Planeswalker Deck - Domri - Booster Pack
-  cards:
-  - type: Creature
-    count: 9
-    cards:
-    - identifier: rna97
-      card_set: rna
-      number: '97'
-      name: Dagger Caster
-      rarity: Uncommon
-      card_type: Creature
-      count: 1
-    - identifier: rna23
-      card_set: rna
-      number: '23'
-      name: Spirit of the Spires
-      rarity: Uncommon
-      card_type: Creature
-      count: 1
-    - identifier: rna220
-      card_set: rna
-      number: '220'
-      name: Vizkopa Vampire
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna49
-      card_set: rna
-      number: '49'
-      name: Sage's Row Savant
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna111
-      card_set: rna
-      number: '111'
-      name: Rubblebelt Recluse
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna14
-      card_set: rna
-      number: '14'
-      name: Knight of Sorrows
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna67
-      card_set: rna
-      number: '67'
-      name: Catacomb Crocodile
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna184
-      card_set: rna
-      number: '184'
-      name: Imperious Oligarch
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna15
-      card_set: rna
-      number: '15'
-      name: Lumbering Battlement
-      rarity: Rare
-      card_type: Creature
-      count: 1
-  - type: Sorcery
-    count: 3
-    cards:
-    - identifier: rna133
-      card_set: rna
-      number: '133'
-      name: Open the Gates
-      rarity: Common
-      card_type: Sorcery
-      count: 1
-    - identifier: rna69
-      card_set: rna
-      number: '69'
-      name: Consign to the Pit
-      rarity: Common
-      card_type: Sorcery
-      count: 1
-    - identifier: rna91
-      card_set: rna
-      number: '91'
-      name: Act of Treason
-      rarity: Common
-      card_type: Sorcery
-      count: 1
-  - type: Instant
-    count: 1
-    cards:
-    - identifier: rna176
-      card_set: rna
-      number: '176'
-      name: Get the Point
-      rarity: Common
-      card_type: Instant
-      count: 1
-  - type: Artifact
-    count: 1
-    cards:
-    - identifier: rna238
-      card_set: rna
-      number: '238'
-      name: Scrabbling Claws
-      rarity: Uncommon
-      card_type: Artifact
-      count: 1
-  - type: Land
-    count: 1
-    cards:
-    - identifier: rna250
-      card_set: rna
-      number: '250'
-      name: Gruul Guildgate
-      rarity: Common
-      card_type: Land
-      count: 1
-  count: 15
-- pack_type: Planeswalker Deck - Booster
-  name: Domri
-  image:
-    name: ravnica_allegiance_booster_pack_domri.png
-    alt: Planeswalker Deck - Domri - Booster Pack - Picture
-    title: Planeswalker Deck - Domri - Booster Pack
-  cards:
-  - type: Instant
-    count: 2
-    cards:
-    - identifier: rna136
-      card_set: rna
-      number: '136'
-      name: Regenesis
-      rarity: Uncommon
-      card_type: Instant
-      count: 1
-    - identifier: rna134
-      card_set: rna
-      number: '134'
-      name: Rampage of the Clans
-      rarity: Rare
-      card_type: Instant
-      count: 1
-  - type: Creature
-    count: 9
-    cards:
-    - identifier: rna218
-      card_set: rna
-      number: '218'
-      name: Scuttlegator
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna155
-      card_set: rna
-      number: '155'
-      name: Azorius Skyguard
-      rarity: Uncommon
-      card_type: Creature
-      count: 1
-    - identifier: rna44
-      card_set: rna
-      number: '44'
-      name: Persistent Petitioners
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna202
-      card_set: rna
-      number: '202'
-      name: Rubblebelt Runner
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna17
-      card_set: rna
-      number: '17'
-      name: Prowling Caracal
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna216
-      card_set: rna
-      number: '216'
-      name: Footlight Fiend
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna53
-      card_set: rna
-      number: '53'
-      name: Skitter Eel
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna150
-      card_set: rna
-      number: '150'
-      name: Wrecking Beast
-      rarity: Common
-      card_type: Creature
-      count: 1
-    - identifier: rna60
-      card_set: rna
-      number: '60'
-      name: Windstorm Drake
-      rarity: Uncommon
-      card_type: Creature
-      count: 1
-  - type: Sorcery
-    count: 2
-    cards:
-    - identifier: rna133
-      card_set: rna
-      number: '133'
-      name: Open the Gates
-      rarity: Common
-      card_type: Sorcery
-      count: 1
-    - identifier: rna98
-      card_set: rna
-      number: '98'
-      name: Deface
-      rarity: Common
-      card_type: Sorcery
-      count: 1
-  - type: Artifact
-    count: 1
-    cards:
-    - identifier: rna236
-      card_set: rna
-      number: '236'
-      name: Orzhov Locket
-      rarity: Common
-      card_type: Artifact
-      count: 1
-  - type: Land
-    count: 1
-    cards:
-    - identifier: rna252
-      card_set: rna
-      number: '252'
-      name: Orzhov Guildgate
-      rarity: Common
-      card_type: Land
-      count: 1
-  count: 15
 - pack_type: Guild Kit
   name: Azorius
   image:
@@ -2385,6 +2328,7 @@
       name: Rakdos, Lord of Riots
       rarity: Mythic
       card_type: Legendary Creature
+      mana_cost: "{B}{B}{R}{R}"
       count: 1
     - identifier: gk265
       card_set: gk2
@@ -2392,6 +2336,7 @@
       name: Lyzolda, the Blood Witch
       rarity: Rare
       card_type: Legendary Creature
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: gk271
       card_set: gk2
@@ -2399,6 +2344,7 @@
       name: Rakdos the Defiler
       rarity: Rare
       card_type: Legendary Creature
+      mana_cost: "{2}{B}{B}{R}{R}"
       count: 1
   - type: Creature
     count: 18
@@ -2409,6 +2355,7 @@
       name: Blade Juggler
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{B}"
       count: 1
     - identifier: gk257
       card_set: gk2
@@ -2416,6 +2363,7 @@
       name: Rakdos Pit Dragon
       rarity: Rare
       card_type: Creature
+      mana_cost: "{2}{R}{R}"
       count: 1
     - identifier: gk266
       card_set: gk2
@@ -2423,6 +2371,7 @@
       name: Master of Cruelties
       rarity: Mythic
       card_type: Creature
+      mana_cost: "{3}{B}{R}"
       count: 1
     - identifier: gk262
       card_set: gk2
@@ -2430,6 +2379,7 @@
       name: Carnival Hellsteed
       rarity: Rare
       card_type: Creature
+      mana_cost: "{4}{B}{R}"
       count: 1
     - identifier: gk259
       card_set: gk2
@@ -2437,6 +2387,7 @@
       name: Utvara Hellkite
       rarity: Mythic
       card_type: Creature
+      mana_cost: "{6}{R}{R}"
       count: 1
     - identifier: gk267
       card_set: gk2
@@ -2444,6 +2395,7 @@
       name: Rakdos Cackler
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B/R}"
       count: 2
     - identifier: gk254
       card_set: gk2
@@ -2451,6 +2403,7 @@
       name: Thrill-Kill Assassin
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{B}"
       count: 1
     - identifier: gk269
       card_set: gk2
@@ -2458,6 +2411,7 @@
       name: Rakdos Guildmage
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B/R}{B/R}"
       count: 2
     - identifier: gk270
       card_set: gk2
@@ -2465,6 +2419,7 @@
       name: Rakdos Shred-Freak
       rarity: Common
       card_type: Creature
+      mana_cost: "{B/R}{B/R}"
       count: 1
     - identifier: gk258
       card_set: gk2
@@ -2472,6 +2427,7 @@
       name: Splatter Thug
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: gk264
       card_set: gk2
@@ -2479,6 +2435,7 @@
       name: Jagged Poppet
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: gk253
       card_set: gk2
@@ -2486,6 +2443,7 @@
       name: Crypt Champion
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{3}{B}"
       count: 1
     - identifier: rna109
       card_set: rna
@@ -2493,6 +2451,7 @@
       name: Rix Maadi Reveler
       rarity: Rare
       card_type: Creature
+      mana_cost: "{1}{R}"
       count: 1
     - identifier: rna85
       card_set: rna
@@ -2500,6 +2459,7 @@
       name: Spawn of Mayhem
       rarity: Mythic
       card_type: Creature
+      mana_cost: "{2}{B}{B}"
       count: 1
     - identifier: rna197
       card_set: rna
@@ -2507,6 +2467,7 @@
       name: Rakdos Firewheeler
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B}{B}{R}{R}"
       count: 1
     - identifier: gk261
       card_set: gk2
@@ -2514,6 +2475,7 @@
       name: Avatar of Discord
       rarity: Rare
       card_type: Creature
+      mana_cost: "{B/R}{B/R}{B/R}"
       count: 1
   - type: Sorcery
     count: 5
@@ -2524,6 +2486,7 @@
       name: Dreadbore
       rarity: Rare
       card_type: Sorcery
+      mana_cost: "{B}{R}"
       count: 1
     - identifier: gk256
       card_set: gk2
@@ -2531,6 +2494,7 @@
       name: Demonfire
       rarity: Rare
       card_type: Sorcery
+      mana_cost: "{X}{R}"
       count: 1
     - identifier: gk272
       card_set: gk2
@@ -2538,6 +2502,7 @@
       name: Rakdos's Return
       rarity: Mythic
       card_type: Sorcery
+      mana_cost: "{X}{B}{R}"
       count: 1
     - identifier: rna115
       card_set: rna
@@ -2545,6 +2510,7 @@
       name: Skewer the Critics
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: rna71
       card_set: rna
@@ -2552,6 +2518,7 @@
       name: Dead Revels
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{3}{B}"
       count: 1
   - type: Land
     count: 8
@@ -2562,6 +2529,7 @@
       name: Rakdos Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 2
     - identifier: gk277
       card_set: gk2
@@ -2569,6 +2537,7 @@
       name: Rakdos Carnarium
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 4
     - identifier: rna255
       card_set: rna
@@ -2576,6 +2545,7 @@
       name: Rakdos Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 2
   - type: Basic Land
     count: 16
@@ -2586,6 +2556,7 @@
       name: Mountain
       rarity: Common
       card_type: Basic Land
+      mana_cost: ''
       count: 8
     - identifier: gk278
       card_set: gk2
@@ -2593,6 +2564,7 @@
       name: Swamp
       rarity: Common
       card_type: Basic Land
+      mana_cost: ''
       count: 8
   - type: Enchantment
     count: 3
@@ -2603,6 +2575,7 @@
       name: Riot Spikes
       rarity: Common
       card_type: Enchantment
+      mana_cost: "{B/R}"
       count: 1
     - identifier: rna213
       card_set: rna
@@ -2610,6 +2583,7 @@
       name: Theater of Horrors
       rarity: Rare
       card_type: Enchantment
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: rna74
       card_set: rna
@@ -2617,6 +2591,7 @@
       name: Font of Agonies
       rarity: Rare
       card_type: Enchantment
+      mana_cost: "{B}"
       count: 1
   - type: Artifact
     count: 3
@@ -2627,6 +2602,7 @@
       name: Rakdos Signet
       rarity: Uncommon
       card_type: Artifact
+      mana_cost: "{2}"
       count: 2
     - identifier: gk275
       card_set: gk2
@@ -2634,6 +2610,7 @@
       name: Rakdos Keyrune
       rarity: Uncommon
       card_type: Artifact
+      mana_cost: "{3}"
       count: 1
   - type: Instant
     count: 3
@@ -2644,6 +2621,7 @@
       name: Rakdos Charm
       rarity: Uncommon
       card_type: Instant
+      mana_cost: "{B}{R}"
       count: 1
     - identifier: gk260
       card_set: gk2
@@ -2651,6 +2629,7 @@
       name: Auger Spree
       rarity: Common
       card_type: Instant
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: gk255
       card_set: gk2
@@ -2658,6 +2637,7 @@
       name: Cackling Flames
       rarity: Common
       card_type: Instant
+      mana_cost: "{3}{R}"
       count: 1
   - type: Instant // Sorcery
     count: 1
@@ -2668,6 +2648,7 @@
       name: Carnival // Carnage
       rarity: Uncommon
       card_type: Instant // Sorcery
+      mana_cost: "{B/R} // {2}{B}{R}"
       count: 1
   bought_on: 5/2/2019
   count: 60
@@ -2689,6 +2670,7 @@
       name: Rakdos, Lord of Riots
       rarity: Mythic
       card_type: Legendary Creature
+      mana_cost: "{B}{B}{R}{R}"
       count: 1
     - identifier: gk265
       card_set: gk2
@@ -2696,6 +2678,7 @@
       name: Lyzolda, the Blood Witch
       rarity: Rare
       card_type: Legendary Creature
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: gk271
       card_set: gk2
@@ -2703,6 +2686,7 @@
       name: Rakdos the Defiler
       rarity: Rare
       card_type: Legendary Creature
+      mana_cost: "{2}{B}{B}{R}{R}"
       count: 1
   - type: Creature
     count: 18
@@ -2713,6 +2697,7 @@
       name: Blade Juggler
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{B}"
       count: 1
     - identifier: gk257
       card_set: gk2
@@ -2720,6 +2705,7 @@
       name: Rakdos Pit Dragon
       rarity: Rare
       card_type: Creature
+      mana_cost: "{2}{R}{R}"
       count: 1
     - identifier: gk266
       card_set: gk2
@@ -2727,6 +2713,7 @@
       name: Master of Cruelties
       rarity: Mythic
       card_type: Creature
+      mana_cost: "{3}{B}{R}"
       count: 1
     - identifier: gk262
       card_set: gk2
@@ -2734,6 +2721,7 @@
       name: Carnival Hellsteed
       rarity: Rare
       card_type: Creature
+      mana_cost: "{4}{B}{R}"
       count: 1
     - identifier: gk259
       card_set: gk2
@@ -2741,6 +2729,7 @@
       name: Utvara Hellkite
       rarity: Mythic
       card_type: Creature
+      mana_cost: "{6}{R}{R}"
       count: 1
     - identifier: gk267
       card_set: gk2
@@ -2748,6 +2737,7 @@
       name: Rakdos Cackler
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B/R}"
       count: 2
     - identifier: gk254
       card_set: gk2
@@ -2755,6 +2745,7 @@
       name: Thrill-Kill Assassin
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{B}"
       count: 1
     - identifier: gk269
       card_set: gk2
@@ -2762,6 +2753,7 @@
       name: Rakdos Guildmage
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B/R}{B/R}"
       count: 2
     - identifier: gk270
       card_set: gk2
@@ -2769,6 +2761,7 @@
       name: Rakdos Shred-Freak
       rarity: Common
       card_type: Creature
+      mana_cost: "{B/R}{B/R}"
       count: 1
     - identifier: gk258
       card_set: gk2
@@ -2776,6 +2769,7 @@
       name: Splatter Thug
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: gk264
       card_set: gk2
@@ -2783,6 +2777,7 @@
       name: Jagged Poppet
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: gk253
       card_set: gk2
@@ -2790,6 +2785,7 @@
       name: Crypt Champion
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{3}{B}"
       count: 1
     - identifier: rna109
       card_set: rna
@@ -2797,6 +2793,7 @@
       name: Rix Maadi Reveler
       rarity: Rare
       card_type: Creature
+      mana_cost: "{1}{R}"
       count: 1
     - identifier: rna85
       card_set: rna
@@ -2804,6 +2801,7 @@
       name: Spawn of Mayhem
       rarity: Mythic
       card_type: Creature
+      mana_cost: "{2}{B}{B}"
       count: 1
     - identifier: rna197
       card_set: rna
@@ -2811,6 +2809,7 @@
       name: Rakdos Firewheeler
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B}{B}{R}{R}"
       count: 1
     - identifier: gk261
       card_set: gk2
@@ -2818,6 +2817,7 @@
       name: Avatar of Discord
       rarity: Rare
       card_type: Creature
+      mana_cost: "{B/R}{B/R}{B/R}"
       count: 1
   - type: Sorcery
     count: 5
@@ -2828,6 +2828,7 @@
       name: Dreadbore
       rarity: Rare
       card_type: Sorcery
+      mana_cost: "{B}{R}"
       count: 1
     - identifier: gk256
       card_set: gk2
@@ -2835,6 +2836,7 @@
       name: Demonfire
       rarity: Rare
       card_type: Sorcery
+      mana_cost: "{X}{R}"
       count: 1
     - identifier: gk272
       card_set: gk2
@@ -2842,6 +2844,7 @@
       name: Rakdos's Return
       rarity: Mythic
       card_type: Sorcery
+      mana_cost: "{X}{B}{R}"
       count: 1
     - identifier: rna115
       card_set: rna
@@ -2849,6 +2852,7 @@
       name: Skewer the Critics
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: rna71
       card_set: rna
@@ -2856,6 +2860,7 @@
       name: Dead Revels
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{3}{B}"
       count: 1
   - type: Land
     count: 8
@@ -2866,6 +2871,7 @@
       name: Rakdos Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 2
     - identifier: gk277
       card_set: gk2
@@ -2873,6 +2879,7 @@
       name: Rakdos Carnarium
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 4
     - identifier: rna255
       card_set: rna
@@ -2880,6 +2887,7 @@
       name: Rakdos Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 2
   - type: Basic Land
     count: 16
@@ -2890,6 +2898,7 @@
       name: Mountain
       rarity: Common
       card_type: Basic Land
+      mana_cost: ''
       count: 8
     - identifier: gk278
       card_set: gk2
@@ -2897,6 +2906,7 @@
       name: Swamp
       rarity: Common
       card_type: Basic Land
+      mana_cost: ''
       count: 8
   - type: Enchantment
     count: 3
@@ -2907,6 +2917,7 @@
       name: Riot Spikes
       rarity: Common
       card_type: Enchantment
+      mana_cost: "{B/R}"
       count: 1
     - identifier: rna213
       card_set: rna
@@ -2914,6 +2925,7 @@
       name: Theater of Horrors
       rarity: Rare
       card_type: Enchantment
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: rna74
       card_set: rna
@@ -2921,6 +2933,7 @@
       name: Font of Agonies
       rarity: Rare
       card_type: Enchantment
+      mana_cost: "{B}"
       count: 1
   - type: Artifact
     count: 3
@@ -2931,6 +2944,7 @@
       name: Rakdos Signet
       rarity: Uncommon
       card_type: Artifact
+      mana_cost: "{2}"
       count: 2
     - identifier: gk275
       card_set: gk2
@@ -2938,6 +2952,7 @@
       name: Rakdos Keyrune
       rarity: Uncommon
       card_type: Artifact
+      mana_cost: "{3}"
       count: 1
   - type: Instant
     count: 3
@@ -2948,6 +2963,7 @@
       name: Rakdos Charm
       rarity: Uncommon
       card_type: Instant
+      mana_cost: "{B}{R}"
       count: 1
     - identifier: gk260
       card_set: gk2
@@ -2955,6 +2971,7 @@
       name: Auger Spree
       rarity: Common
       card_type: Instant
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: gk255
       card_set: gk2
@@ -2962,6 +2979,7 @@
       name: Cackling Flames
       rarity: Common
       card_type: Instant
+      mana_cost: "{3}{R}"
       count: 1
   - type: Instant // Sorcery
     count: 1
@@ -2972,6 +2990,7 @@
       name: Carnival // Carnage
       rarity: Uncommon
       card_type: Instant // Sorcery
+      mana_cost: "{B/R} // {2}{B}{R}"
       count: 1
   bought_on: 5/2/2019
   count: 60
@@ -2993,6 +3012,7 @@
       name: Rakdos, Lord of Riots
       rarity: Mythic
       card_type: Legendary Creature
+      mana_cost: "{B}{B}{R}{R}"
       count: 1
     - identifier: gk265
       card_set: gk2
@@ -3000,6 +3020,7 @@
       name: Lyzolda, the Blood Witch
       rarity: Rare
       card_type: Legendary Creature
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: gk271
       card_set: gk2
@@ -3007,6 +3028,7 @@
       name: Rakdos the Defiler
       rarity: Rare
       card_type: Legendary Creature
+      mana_cost: "{2}{B}{B}{R}{R}"
       count: 1
   - type: Creature
     count: 18
@@ -3017,6 +3039,7 @@
       name: Blade Juggler
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{B}"
       count: 1
     - identifier: gk257
       card_set: gk2
@@ -3024,6 +3047,7 @@
       name: Rakdos Pit Dragon
       rarity: Rare
       card_type: Creature
+      mana_cost: "{2}{R}{R}"
       count: 1
     - identifier: gk266
       card_set: gk2
@@ -3031,6 +3055,7 @@
       name: Master of Cruelties
       rarity: Mythic
       card_type: Creature
+      mana_cost: "{3}{B}{R}"
       count: 1
     - identifier: gk262
       card_set: gk2
@@ -3038,6 +3063,7 @@
       name: Carnival Hellsteed
       rarity: Rare
       card_type: Creature
+      mana_cost: "{4}{B}{R}"
       count: 1
     - identifier: gk259
       card_set: gk2
@@ -3045,6 +3071,7 @@
       name: Utvara Hellkite
       rarity: Mythic
       card_type: Creature
+      mana_cost: "{6}{R}{R}"
       count: 1
     - identifier: gk267
       card_set: gk2
@@ -3052,6 +3079,7 @@
       name: Rakdos Cackler
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B/R}"
       count: 2
     - identifier: gk254
       card_set: gk2
@@ -3059,6 +3087,7 @@
       name: Thrill-Kill Assassin
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{B}"
       count: 1
     - identifier: gk269
       card_set: gk2
@@ -3066,6 +3095,7 @@
       name: Rakdos Guildmage
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B/R}{B/R}"
       count: 2
     - identifier: gk270
       card_set: gk2
@@ -3073,6 +3103,7 @@
       name: Rakdos Shred-Freak
       rarity: Common
       card_type: Creature
+      mana_cost: "{B/R}{B/R}"
       count: 1
     - identifier: gk258
       card_set: gk2
@@ -3080,6 +3111,7 @@
       name: Splatter Thug
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: gk264
       card_set: gk2
@@ -3087,6 +3119,7 @@
       name: Jagged Poppet
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: gk253
       card_set: gk2
@@ -3094,6 +3127,7 @@
       name: Crypt Champion
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{3}{B}"
       count: 1
     - identifier: rna109
       card_set: rna
@@ -3101,6 +3135,7 @@
       name: Rix Maadi Reveler
       rarity: Rare
       card_type: Creature
+      mana_cost: "{1}{R}"
       count: 1
     - identifier: rna85
       card_set: rna
@@ -3108,6 +3143,7 @@
       name: Spawn of Mayhem
       rarity: Mythic
       card_type: Creature
+      mana_cost: "{2}{B}{B}"
       count: 1
     - identifier: rna197
       card_set: rna
@@ -3115,6 +3151,7 @@
       name: Rakdos Firewheeler
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B}{B}{R}{R}"
       count: 1
     - identifier: gk261
       card_set: gk2
@@ -3122,6 +3159,7 @@
       name: Avatar of Discord
       rarity: Rare
       card_type: Creature
+      mana_cost: "{B/R}{B/R}{B/R}"
       count: 1
   - type: Sorcery
     count: 5
@@ -3132,6 +3170,7 @@
       name: Dreadbore
       rarity: Rare
       card_type: Sorcery
+      mana_cost: "{B}{R}"
       count: 1
     - identifier: gk256
       card_set: gk2
@@ -3139,6 +3178,7 @@
       name: Demonfire
       rarity: Rare
       card_type: Sorcery
+      mana_cost: "{X}{R}"
       count: 1
     - identifier: gk272
       card_set: gk2
@@ -3146,6 +3186,7 @@
       name: Rakdos's Return
       rarity: Mythic
       card_type: Sorcery
+      mana_cost: "{X}{B}{R}"
       count: 1
     - identifier: rna115
       card_set: rna
@@ -3153,6 +3194,7 @@
       name: Skewer the Critics
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: rna71
       card_set: rna
@@ -3160,6 +3202,7 @@
       name: Dead Revels
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{3}{B}"
       count: 1
   - type: Land
     count: 8
@@ -3170,6 +3213,7 @@
       name: Rakdos Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 2
     - identifier: gk277
       card_set: gk2
@@ -3177,6 +3221,7 @@
       name: Rakdos Carnarium
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 4
     - identifier: rna255
       card_set: rna
@@ -3184,6 +3229,7 @@
       name: Rakdos Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 2
   - type: Basic Land
     count: 16
@@ -3194,6 +3240,7 @@
       name: Mountain
       rarity: Common
       card_type: Basic Land
+      mana_cost: ''
       count: 8
     - identifier: gk278
       card_set: gk2
@@ -3201,6 +3248,7 @@
       name: Swamp
       rarity: Common
       card_type: Basic Land
+      mana_cost: ''
       count: 8
   - type: Enchantment
     count: 3
@@ -3211,6 +3259,7 @@
       name: Riot Spikes
       rarity: Common
       card_type: Enchantment
+      mana_cost: "{B/R}"
       count: 1
     - identifier: rna213
       card_set: rna
@@ -3218,6 +3267,7 @@
       name: Theater of Horrors
       rarity: Rare
       card_type: Enchantment
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: rna74
       card_set: rna
@@ -3225,6 +3275,7 @@
       name: Font of Agonies
       rarity: Rare
       card_type: Enchantment
+      mana_cost: "{B}"
       count: 1
   - type: Artifact
     count: 3
@@ -3235,6 +3286,7 @@
       name: Rakdos Signet
       rarity: Uncommon
       card_type: Artifact
+      mana_cost: "{2}"
       count: 2
     - identifier: gk275
       card_set: gk2
@@ -3242,6 +3294,7 @@
       name: Rakdos Keyrune
       rarity: Uncommon
       card_type: Artifact
+      mana_cost: "{3}"
       count: 1
   - type: Instant
     count: 3
@@ -3252,6 +3305,7 @@
       name: Rakdos Charm
       rarity: Uncommon
       card_type: Instant
+      mana_cost: "{B}{R}"
       count: 1
     - identifier: gk260
       card_set: gk2
@@ -3259,6 +3313,7 @@
       name: Auger Spree
       rarity: Common
       card_type: Instant
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: gk255
       card_set: gk2
@@ -3266,6 +3321,7 @@
       name: Cackling Flames
       rarity: Common
       card_type: Instant
+      mana_cost: "{3}{R}"
       count: 1
   - type: Instant // Sorcery
     count: 1
@@ -3276,6 +3332,7 @@
       name: Carnival // Carnage
       rarity: Uncommon
       card_type: Instant // Sorcery
+      mana_cost: "{B/R} // {2}{B}{R}"
       count: 1
   bought_on: 5/2/2019
   count: 60
@@ -3297,6 +3354,7 @@
       name: Rakdos, Lord of Riots
       rarity: Mythic
       card_type: Legendary Creature
+      mana_cost: "{B}{B}{R}{R}"
       count: 1
     - identifier: gk265
       card_set: gk2
@@ -3304,6 +3362,7 @@
       name: Lyzolda, the Blood Witch
       rarity: Rare
       card_type: Legendary Creature
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: gk271
       card_set: gk2
@@ -3311,6 +3370,7 @@
       name: Rakdos the Defiler
       rarity: Rare
       card_type: Legendary Creature
+      mana_cost: "{2}{B}{B}{R}{R}"
       count: 1
   - type: Creature
     count: 18
@@ -3321,6 +3381,7 @@
       name: Blade Juggler
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{B}"
       count: 1
     - identifier: gk257
       card_set: gk2
@@ -3328,6 +3389,7 @@
       name: Rakdos Pit Dragon
       rarity: Rare
       card_type: Creature
+      mana_cost: "{2}{R}{R}"
       count: 1
     - identifier: gk266
       card_set: gk2
@@ -3335,6 +3397,7 @@
       name: Master of Cruelties
       rarity: Mythic
       card_type: Creature
+      mana_cost: "{3}{B}{R}"
       count: 1
     - identifier: gk262
       card_set: gk2
@@ -3342,6 +3405,7 @@
       name: Carnival Hellsteed
       rarity: Rare
       card_type: Creature
+      mana_cost: "{4}{B}{R}"
       count: 1
     - identifier: gk259
       card_set: gk2
@@ -3349,6 +3413,7 @@
       name: Utvara Hellkite
       rarity: Mythic
       card_type: Creature
+      mana_cost: "{6}{R}{R}"
       count: 1
     - identifier: gk267
       card_set: gk2
@@ -3356,6 +3421,7 @@
       name: Rakdos Cackler
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B/R}"
       count: 2
     - identifier: gk254
       card_set: gk2
@@ -3363,6 +3429,7 @@
       name: Thrill-Kill Assassin
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{B}"
       count: 1
     - identifier: gk269
       card_set: gk2
@@ -3370,6 +3437,7 @@
       name: Rakdos Guildmage
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B/R}{B/R}"
       count: 2
     - identifier: gk270
       card_set: gk2
@@ -3377,6 +3445,7 @@
       name: Rakdos Shred-Freak
       rarity: Common
       card_type: Creature
+      mana_cost: "{B/R}{B/R}"
       count: 1
     - identifier: gk258
       card_set: gk2
@@ -3384,6 +3453,7 @@
       name: Splatter Thug
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: gk264
       card_set: gk2
@@ -3391,6 +3461,7 @@
       name: Jagged Poppet
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: gk253
       card_set: gk2
@@ -3398,6 +3469,7 @@
       name: Crypt Champion
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{3}{B}"
       count: 1
     - identifier: rna109
       card_set: rna
@@ -3405,6 +3477,7 @@
       name: Rix Maadi Reveler
       rarity: Rare
       card_type: Creature
+      mana_cost: "{1}{R}"
       count: 1
     - identifier: rna85
       card_set: rna
@@ -3412,6 +3485,7 @@
       name: Spawn of Mayhem
       rarity: Mythic
       card_type: Creature
+      mana_cost: "{2}{B}{B}"
       count: 1
     - identifier: rna197
       card_set: rna
@@ -3419,6 +3493,7 @@
       name: Rakdos Firewheeler
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B}{B}{R}{R}"
       count: 1
     - identifier: gk261
       card_set: gk2
@@ -3426,6 +3501,7 @@
       name: Avatar of Discord
       rarity: Rare
       card_type: Creature
+      mana_cost: "{B/R}{B/R}{B/R}"
       count: 1
   - type: Sorcery
     count: 5
@@ -3436,6 +3512,7 @@
       name: Dreadbore
       rarity: Rare
       card_type: Sorcery
+      mana_cost: "{B}{R}"
       count: 1
     - identifier: gk256
       card_set: gk2
@@ -3443,6 +3520,7 @@
       name: Demonfire
       rarity: Rare
       card_type: Sorcery
+      mana_cost: "{X}{R}"
       count: 1
     - identifier: gk272
       card_set: gk2
@@ -3450,6 +3528,7 @@
       name: Rakdos's Return
       rarity: Mythic
       card_type: Sorcery
+      mana_cost: "{X}{B}{R}"
       count: 1
     - identifier: rna115
       card_set: rna
@@ -3457,6 +3536,7 @@
       name: Skewer the Critics
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: rna71
       card_set: rna
@@ -3464,6 +3544,7 @@
       name: Dead Revels
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{3}{B}"
       count: 1
   - type: Land
     count: 8
@@ -3474,6 +3555,7 @@
       name: Rakdos Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 2
     - identifier: gk277
       card_set: gk2
@@ -3481,6 +3563,7 @@
       name: Rakdos Carnarium
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 4
     - identifier: rna255
       card_set: rna
@@ -3488,6 +3571,7 @@
       name: Rakdos Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 2
   - type: Basic Land
     count: 16
@@ -3498,6 +3582,7 @@
       name: Mountain
       rarity: Common
       card_type: Basic Land
+      mana_cost: ''
       count: 8
     - identifier: gk278
       card_set: gk2
@@ -3505,6 +3590,7 @@
       name: Swamp
       rarity: Common
       card_type: Basic Land
+      mana_cost: ''
       count: 8
   - type: Enchantment
     count: 3
@@ -3515,6 +3601,7 @@
       name: Riot Spikes
       rarity: Common
       card_type: Enchantment
+      mana_cost: "{B/R}"
       count: 1
     - identifier: rna213
       card_set: rna
@@ -3522,6 +3609,7 @@
       name: Theater of Horrors
       rarity: Rare
       card_type: Enchantment
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: rna74
       card_set: rna
@@ -3529,6 +3617,7 @@
       name: Font of Agonies
       rarity: Rare
       card_type: Enchantment
+      mana_cost: "{B}"
       count: 1
   - type: Artifact
     count: 3
@@ -3539,6 +3628,7 @@
       name: Rakdos Signet
       rarity: Uncommon
       card_type: Artifact
+      mana_cost: "{2}"
       count: 2
     - identifier: gk275
       card_set: gk2
@@ -3546,6 +3636,7 @@
       name: Rakdos Keyrune
       rarity: Uncommon
       card_type: Artifact
+      mana_cost: "{3}"
       count: 1
   - type: Instant
     count: 3
@@ -3556,6 +3647,7 @@
       name: Rakdos Charm
       rarity: Uncommon
       card_type: Instant
+      mana_cost: "{B}{R}"
       count: 1
     - identifier: gk260
       card_set: gk2
@@ -3563,6 +3655,7 @@
       name: Auger Spree
       rarity: Common
       card_type: Instant
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: gk255
       card_set: gk2
@@ -3570,6 +3663,7 @@
       name: Cackling Flames
       rarity: Common
       card_type: Instant
+      mana_cost: "{3}{R}"
       count: 1
   - type: Instant // Sorcery
     count: 1
@@ -3580,6 +3674,7 @@
       name: Carnival // Carnage
       rarity: Uncommon
       card_type: Instant // Sorcery
+      mana_cost: "{B/R} // {2}{B}{R}"
       count: 1
   bought_on: 5/2/2019
   count: 60
@@ -3601,6 +3696,7 @@
       name: Rakdos, Lord of Riots
       rarity: Mythic
       card_type: Legendary Creature
+      mana_cost: "{B}{B}{R}{R}"
       count: 1
     - identifier: gk265
       card_set: gk2
@@ -3608,6 +3704,7 @@
       name: Lyzolda, the Blood Witch
       rarity: Rare
       card_type: Legendary Creature
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: gk271
       card_set: gk2
@@ -3615,6 +3712,7 @@
       name: Rakdos the Defiler
       rarity: Rare
       card_type: Legendary Creature
+      mana_cost: "{2}{B}{B}{R}{R}"
       count: 1
   - type: Creature
     count: 18
@@ -3625,6 +3723,7 @@
       name: Blade Juggler
       rarity: Common
       card_type: Creature
+      mana_cost: "{4}{B}"
       count: 1
     - identifier: gk257
       card_set: gk2
@@ -3632,6 +3731,7 @@
       name: Rakdos Pit Dragon
       rarity: Rare
       card_type: Creature
+      mana_cost: "{2}{R}{R}"
       count: 1
     - identifier: gk266
       card_set: gk2
@@ -3639,6 +3739,7 @@
       name: Master of Cruelties
       rarity: Mythic
       card_type: Creature
+      mana_cost: "{3}{B}{R}"
       count: 1
     - identifier: gk262
       card_set: gk2
@@ -3646,6 +3747,7 @@
       name: Carnival Hellsteed
       rarity: Rare
       card_type: Creature
+      mana_cost: "{4}{B}{R}"
       count: 1
     - identifier: gk259
       card_set: gk2
@@ -3653,6 +3755,7 @@
       name: Utvara Hellkite
       rarity: Mythic
       card_type: Creature
+      mana_cost: "{6}{R}{R}"
       count: 1
     - identifier: gk267
       card_set: gk2
@@ -3660,6 +3763,7 @@
       name: Rakdos Cackler
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B/R}"
       count: 2
     - identifier: gk254
       card_set: gk2
@@ -3667,6 +3771,7 @@
       name: Thrill-Kill Assassin
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{B}"
       count: 1
     - identifier: gk269
       card_set: gk2
@@ -3674,6 +3779,7 @@
       name: Rakdos Guildmage
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B/R}{B/R}"
       count: 2
     - identifier: gk270
       card_set: gk2
@@ -3681,6 +3787,7 @@
       name: Rakdos Shred-Freak
       rarity: Common
       card_type: Creature
+      mana_cost: "{B/R}{B/R}"
       count: 1
     - identifier: gk258
       card_set: gk2
@@ -3688,6 +3795,7 @@
       name: Splatter Thug
       rarity: Common
       card_type: Creature
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: gk264
       card_set: gk2
@@ -3695,6 +3803,7 @@
       name: Jagged Poppet
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: gk253
       card_set: gk2
@@ -3702,6 +3811,7 @@
       name: Crypt Champion
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{3}{B}"
       count: 1
     - identifier: rna109
       card_set: rna
@@ -3709,6 +3819,7 @@
       name: Rix Maadi Reveler
       rarity: Rare
       card_type: Creature
+      mana_cost: "{1}{R}"
       count: 1
     - identifier: rna85
       card_set: rna
@@ -3716,6 +3827,7 @@
       name: Spawn of Mayhem
       rarity: Mythic
       card_type: Creature
+      mana_cost: "{2}{B}{B}"
       count: 1
     - identifier: rna197
       card_set: rna
@@ -3723,6 +3835,7 @@
       name: Rakdos Firewheeler
       rarity: Uncommon
       card_type: Creature
+      mana_cost: "{B}{B}{R}{R}"
       count: 1
     - identifier: gk261
       card_set: gk2
@@ -3730,6 +3843,7 @@
       name: Avatar of Discord
       rarity: Rare
       card_type: Creature
+      mana_cost: "{B/R}{B/R}{B/R}"
       count: 1
   - type: Sorcery
     count: 5
@@ -3740,6 +3854,7 @@
       name: Dreadbore
       rarity: Rare
       card_type: Sorcery
+      mana_cost: "{B}{R}"
       count: 1
     - identifier: gk256
       card_set: gk2
@@ -3747,6 +3862,7 @@
       name: Demonfire
       rarity: Rare
       card_type: Sorcery
+      mana_cost: "{X}{R}"
       count: 1
     - identifier: gk272
       card_set: gk2
@@ -3754,6 +3870,7 @@
       name: Rakdos's Return
       rarity: Mythic
       card_type: Sorcery
+      mana_cost: "{X}{B}{R}"
       count: 1
     - identifier: rna115
       card_set: rna
@@ -3761,6 +3878,7 @@
       name: Skewer the Critics
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{2}{R}"
       count: 1
     - identifier: rna71
       card_set: rna
@@ -3768,6 +3886,7 @@
       name: Dead Revels
       rarity: Common
       card_type: Sorcery
+      mana_cost: "{3}{B}"
       count: 1
   - type: Land
     count: 8
@@ -3778,6 +3897,7 @@
       name: Rakdos Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 2
     - identifier: gk277
       card_set: gk2
@@ -3785,6 +3905,7 @@
       name: Rakdos Carnarium
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 4
     - identifier: rna255
       card_set: rna
@@ -3792,6 +3913,7 @@
       name: Rakdos Guildgate
       rarity: Common
       card_type: Land
+      mana_cost: ''
       count: 2
   - type: Basic Land
     count: 16
@@ -3802,6 +3924,7 @@
       name: Mountain
       rarity: Common
       card_type: Basic Land
+      mana_cost: ''
       count: 8
     - identifier: gk278
       card_set: gk2
@@ -3809,6 +3932,7 @@
       name: Swamp
       rarity: Common
       card_type: Basic Land
+      mana_cost: ''
       count: 8
   - type: Enchantment
     count: 3
@@ -3819,6 +3943,7 @@
       name: Riot Spikes
       rarity: Common
       card_type: Enchantment
+      mana_cost: "{B/R}"
       count: 1
     - identifier: rna213
       card_set: rna
@@ -3826,6 +3951,7 @@
       name: Theater of Horrors
       rarity: Rare
       card_type: Enchantment
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: rna74
       card_set: rna
@@ -3833,6 +3959,7 @@
       name: Font of Agonies
       rarity: Rare
       card_type: Enchantment
+      mana_cost: "{B}"
       count: 1
   - type: Artifact
     count: 3
@@ -3843,6 +3970,7 @@
       name: Rakdos Signet
       rarity: Uncommon
       card_type: Artifact
+      mana_cost: "{2}"
       count: 2
     - identifier: gk275
       card_set: gk2
@@ -3850,6 +3978,7 @@
       name: Rakdos Keyrune
       rarity: Uncommon
       card_type: Artifact
+      mana_cost: "{3}"
       count: 1
   - type: Instant
     count: 3
@@ -3860,6 +3989,7 @@
       name: Rakdos Charm
       rarity: Uncommon
       card_type: Instant
+      mana_cost: "{B}{R}"
       count: 1
     - identifier: gk260
       card_set: gk2
@@ -3867,6 +3997,7 @@
       name: Auger Spree
       rarity: Common
       card_type: Instant
+      mana_cost: "{1}{B}{R}"
       count: 1
     - identifier: gk255
       card_set: gk2
@@ -3874,6 +4005,7 @@
       name: Cackling Flames
       rarity: Common
       card_type: Instant
+      mana_cost: "{3}{R}"
       count: 1
   - type: Instant // Sorcery
     count: 1
@@ -3884,6 +4016,1005 @@
       name: Carnival // Carnage
       rarity: Uncommon
       card_type: Instant // Sorcery
+      mana_cost: "{B/R} // {2}{B}{R}"
       count: 1
   bought_on: 5/2/2019
   count: 60
+- pack_type: Planeswalker Deck
+  name: Domri
+  image:
+    name: planeswalker_deck_domri.png
+    alt: Planeswalker Deck - Domri - Picture
+    title: Planeswalker Deck - Domri
+  cards:
+  - type: Legendary Planeswalker
+    count: 1
+    cards:
+    - identifier: rna269
+      card_set: rna
+      number: '269'
+      name: Domri, City Smasher
+      rarity: Mythic
+      card_type: Legendary Planeswalker
+      mana_cost: "{4}{R}{G}"
+      count: 1
+  - type: Creature
+    count: 24
+    cards:
+    - identifier: rna271
+      card_set: rna
+      number: '271'
+      name: Charging War Boar
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{1}{R}{G}"
+      count: 3
+    - identifier: rna272
+      card_set: rna
+      number: '272'
+      name: Domri's Nodorog
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{3}{R}{G}"
+      count: 2
+    - identifier: rna96
+      card_set: rna
+      number: '96'
+      name: Clamor Shaman
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{2}{R}"
+      count: 2
+    - identifier: rna100
+      card_set: rna
+      number: '100'
+      name: Feral Maaka
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{R}"
+      count: 2
+    - identifier: rna105
+      card_set: rna
+      number: '105'
+      name: Gravel-Hide Goblin
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{R}"
+      count: 2
+    - identifier: rna121
+      card_set: rna
+      number: '121'
+      name: Axebane Beast
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{3}{G}"
+      count: 1
+    - identifier: rna135
+      card_set: rna
+      number: '135'
+      name: Rampaging Rendhorn
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{4}{G}"
+      count: 1
+    - identifier: rna144
+      card_set: rna
+      number: '144'
+      name: Sylvan Brushstrider
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{G}"
+      count: 2
+    - identifier: rna150
+      card_set: rna
+      number: '150'
+      name: Wrecking Beast
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{5}{G}{G}"
+      count: 1
+    - identifier: rna159
+      card_set: rna
+      number: '159'
+      name: Bolrac-Clan Crusher
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{3}{R}{G}"
+      count: 1
+    - identifier: rna173
+      card_set: rna
+      number: '173'
+      name: Frenzied Arynx
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{R}{G}"
+      count: 3
+    - identifier: rna215
+      card_set: rna
+      number: '215'
+      name: Zhur-Taa Goblin
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{R}{G}"
+      count: 3
+    - identifier: rna124
+      card_set: rna
+      number: '124'
+      name: End-Raze Forerunners
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{5}{G}{G}{G}"
+      count: 1
+  - type: Artifact
+    count: 1
+    cards:
+    - identifier: rna233
+      card_set: rna
+      number: '233'
+      name: Glass of the Guildpact
+      rarity: Rare
+      card_type: Artifact
+      mana_cost: "{2}"
+      count: 1
+  - type: Land
+    count: 4
+    cards:
+    - identifier: rna249
+      card_set: rna
+      number: '249'
+      name: Gruul Guildgate
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 2
+    - identifier: rna250
+      card_set: rna
+      number: '250'
+      name: Gruul Guildgate
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 2
+  - type: Basic Land
+    count: 22
+    cards:
+    - identifier: rna264
+      card_set: rna
+      number: '264'
+      name: Forest
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 11
+    - identifier: rna263
+      card_set: rna
+      number: '263'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 11
+  - type: Instant
+    count: 4
+    cards:
+    - identifier: rna93
+      card_set: rna
+      number: '93'
+      name: Burn Bright
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{2}{R}"
+      count: 2
+    - identifier: rna143
+      card_set: rna
+      number: '143'
+      name: Stony Strength
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{G}"
+      count: 2
+  - type: Sorcery
+    count: 4
+    cards:
+    - identifier: rna270
+      card_set: rna
+      number: '270'
+      name: Ragefire
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{1}{R}"
+      count: 4
+  count: 60
+- pack_type: Planeswalker Deck - Booster
+  name: Domri
+  image:
+    name: ravnica_allegiance_booster_pack_domri.png
+    alt: Planeswalker Deck - Domri - Booster Pack - Picture
+    title: Planeswalker Deck - Domri - Booster Pack
+  cards:
+  - type: Creature
+    count: 9
+    cards:
+    - identifier: rna97
+      card_set: rna
+      number: '97'
+      name: Dagger Caster
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{3}{R}"
+      count: 1
+    - identifier: rna23
+      card_set: rna
+      number: '23'
+      name: Spirit of the Spires
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{3}{W}"
+      count: 1
+    - identifier: rna220
+      card_set: rna
+      number: '220'
+      name: Vizkopa Vampire
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{W/B}"
+      count: 1
+    - identifier: rna49
+      card_set: rna
+      number: '49'
+      name: Sage's Row Savant
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{U}"
+      count: 1
+    - identifier: rna111
+      card_set: rna
+      number: '111'
+      name: Rubblebelt Recluse
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{4}{R}"
+      count: 1
+    - identifier: rna14
+      card_set: rna
+      number: '14'
+      name: Knight of Sorrows
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{4}{W}"
+      count: 1
+    - identifier: rna67
+      card_set: rna
+      number: '67'
+      name: Catacomb Crocodile
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{4}{B}"
+      count: 1
+    - identifier: rna184
+      card_set: rna
+      number: '184'
+      name: Imperious Oligarch
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{W}{B}"
+      count: 1
+    - identifier: rna15
+      card_set: rna
+      number: '15'
+      name: Lumbering Battlement
+      rarity: Rare
+      card_type: Creature
+      mana_cost: "{4}{W}"
+      count: 1
+  - type: Sorcery
+    count: 3
+    cards:
+    - identifier: rna133
+      card_set: rna
+      number: '133'
+      name: Open the Gates
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{G}"
+      count: 1
+    - identifier: rna69
+      card_set: rna
+      number: '69'
+      name: Consign to the Pit
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{5}{B}"
+      count: 1
+    - identifier: rna91
+      card_set: rna
+      number: '91'
+      name: Act of Treason
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{2}{R}"
+      count: 1
+  - type: Instant
+    count: 1
+    cards:
+    - identifier: rna176
+      card_set: rna
+      number: '176'
+      name: Get the Point
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{3}{B}{R}"
+      count: 1
+  - type: Artifact
+    count: 1
+    cards:
+    - identifier: rna238
+      card_set: rna
+      number: '238'
+      name: Scrabbling Claws
+      rarity: Uncommon
+      card_type: Artifact
+      mana_cost: "{1}"
+      count: 1
+  - type: Land
+    count: 1
+    cards:
+    - identifier: rna250
+      card_set: rna
+      number: '250'
+      name: Gruul Guildgate
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+  count: 15
+- pack_type: Planeswalker Deck - Booster
+  name: Domri
+  image:
+    name: ravnica_allegiance_booster_pack_domri.png
+    alt: Planeswalker Deck - Domri - Booster Pack - Picture
+    title: Planeswalker Deck - Domri - Booster Pack
+  cards:
+  - type: Instant
+    count: 2
+    cards:
+    - identifier: rna136
+      card_set: rna
+      number: '136'
+      name: Regenesis
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{3}{G}{G}"
+      count: 1
+    - identifier: rna134
+      card_set: rna
+      number: '134'
+      name: Rampage of the Clans
+      rarity: Rare
+      card_type: Instant
+      mana_cost: "{3}{G}"
+      count: 1
+  - type: Creature
+    count: 9
+    cards:
+    - identifier: rna218
+      card_set: rna
+      number: '218'
+      name: Scuttlegator
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{4}{G/U}{G/U}"
+      count: 1
+    - identifier: rna155
+      card_set: rna
+      number: '155'
+      name: Azorius Skyguard
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{4}{W}{U}"
+      count: 1
+    - identifier: rna44
+      card_set: rna
+      number: '44'
+      name: Persistent Petitioners
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{U}"
+      count: 1
+    - identifier: rna202
+      card_set: rna
+      number: '202'
+      name: Rubblebelt Runner
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{R}{G}"
+      count: 1
+    - identifier: rna17
+      card_set: rna
+      number: '17'
+      name: Prowling Caracal
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{W}"
+      count: 1
+    - identifier: rna216
+      card_set: rna
+      number: '216'
+      name: Footlight Fiend
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{B/R}"
+      count: 1
+    - identifier: rna53
+      card_set: rna
+      number: '53'
+      name: Skitter Eel
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{3}{U}"
+      count: 1
+    - identifier: rna150
+      card_set: rna
+      number: '150'
+      name: Wrecking Beast
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{5}{G}{G}"
+      count: 1
+    - identifier: rna60
+      card_set: rna
+      number: '60'
+      name: Windstorm Drake
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{4}{U}"
+      count: 1
+  - type: Sorcery
+    count: 2
+    cards:
+    - identifier: rna133
+      card_set: rna
+      number: '133'
+      name: Open the Gates
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{G}"
+      count: 1
+    - identifier: rna98
+      card_set: rna
+      number: '98'
+      name: Deface
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{R}"
+      count: 1
+  - type: Artifact
+    count: 1
+    cards:
+    - identifier: rna236
+      card_set: rna
+      number: '236'
+      name: Orzhov Locket
+      rarity: Common
+      card_type: Artifact
+      mana_cost: "{3}"
+      count: 1
+  - type: Land
+    count: 1
+    cards:
+    - identifier: rna252
+      card_set: rna
+      number: '252'
+      name: Orzhov Guildgate
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+  count: 15
+- pack_type: Planeswalker Deck
+  name: Dovin
+  image:
+    name: planeswalker_deck_dovin.png
+    alt: Planeswalker Deck - Dovin - Picture
+    title: Planeswalker Deck - Dovin
+  cards:
+  - type: Legendary Planeswalker
+    count: 1
+    cards:
+    - identifier: rna265
+      card_set: rna
+      number: '265'
+      name: Dovin, Architect of Law
+      rarity: Mythic
+      card_type: Legendary Planeswalker
+      mana_cost: "{4}{W}{U}"
+      count: 1
+  - type: Instant
+    count: 11
+    cards:
+    - identifier: rna209
+      card_set: rna
+      number: '209'
+      name: Sphinx's Insight
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{2}{W}{U}"
+      count: 1
+    - identifier: rna267
+      card_set: rna
+      number: '267'
+      name: Dovin's Dismissal
+      rarity: Rare
+      card_type: Instant
+      mana_cost: "{2}{W}{U}"
+      count: 2
+    - identifier: rna4
+      card_set: rna
+      number: '4'
+      name: Arrester's Zeal
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{W}"
+      count: 3
+    - identifier: rna24
+      card_set: rna
+      number: '24'
+      name: Summary Judgment
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{1}{W}"
+      count: 2
+    - identifier: rna35
+      card_set: rna
+      number: '35'
+      name: Code of Constraint
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{2}{U}"
+      count: 2
+    - identifier: rna29
+      card_set: rna
+      number: '29'
+      name: Unbreakable Formation
+      rarity: Rare
+      card_type: Instant
+      mana_cost: "{2}{W}"
+      count: 1
+  - type: Enchantment
+    count: 1
+    cards:
+    - identifier: rna58
+      card_set: rna
+      number: '58'
+      name: Verity Circle
+      rarity: Rare
+      card_type: Enchantment
+      mana_cost: "{2}{U}"
+      count: 1
+  - type: Creature
+    count: 18
+    cards:
+    - identifier: rna266
+      card_set: rna
+      number: '266'
+      name: Elite Arrester
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{W}"
+      count: 4
+    - identifier: rna17
+      card_set: rna
+      number: '17'
+      name: Prowling Caracal
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{W}"
+      count: 2
+    - identifier: rna23
+      card_set: rna
+      number: '23'
+      name: Spirit of the Spires
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{3}{W}"
+      count: 2
+    - identifier: rna7
+      card_set: rna
+      number: '7'
+      name: Concordia Pegasus
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{W}"
+      count: 3
+    - identifier: rna26
+      card_set: rna
+      number: '26'
+      name: Tenth District Veteran
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{W}"
+      count: 1
+    - identifier: rna33
+      card_set: rna
+      number: '33'
+      name: Chillbringer
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{4}{U}"
+      count: 1
+    - identifier: rna50
+      card_set: rna
+      number: '50'
+      name: Senate Courier
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{U}"
+      count: 2
+    - identifier: rna60
+      card_set: rna
+      number: '60'
+      name: Windstorm Drake
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{4}{U}"
+      count: 2
+    - identifier: rna154
+      card_set: rna
+      number: '154'
+      name: Azorius Knight-Arbiter
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{3}{W}{U}"
+      count: 1
+  - type: Artifact Creature
+    count: 3
+    cards:
+    - identifier: rna268
+      card_set: rna
+      number: '268'
+      name: Dovin's Automaton
+      rarity: Uncommon
+      card_type: Artifact Creature
+      mana_cost: "{4}"
+      count: 3
+  - type: Land
+    count: 4
+    cards:
+    - identifier: rna243
+      card_set: rna
+      number: '243'
+      name: Azorius Guildgate
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 2
+    - identifier: rna244
+      card_set: rna
+      number: '244'
+      name: Azorius Guildgate
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 2
+  - type: Basic Land
+    count: 22
+    cards:
+    - identifier: rna261
+      card_set: rna
+      number: '261'
+      name: Island
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 10
+    - identifier: rna260
+      card_set: rna
+      number: '260'
+      name: Plains
+      rarity: Common
+      card_type: Basic Land
+      mana_cost: ''
+      count: 12
+  count: 60
+- pack_type: Planeswalker Deck - Booster
+  name: Dovin
+  image:
+    name: ravnica_allegiance_booster_pack_dovin.png
+    alt: Planeswalker Deck - Dovin - Booster Pack - Picture
+    title: Planeswalker Deck - Dovin - Booster Pack
+  tokens:
+    rna: 8
+  cards:
+  - type: Legendary Creature
+    count: 1
+    cards:
+    - identifier: rna193
+      card_set: rna
+      number: '193'
+      name: Nikya of the Old Ways
+      rarity: Rare
+      card_type: Legendary Creature
+      mana_cost: "{3}{R}{G}"
+      count: 1
+  - type: Creature
+    count: 7
+    cards:
+    - identifier: rna202
+      card_set: rna
+      number: '202'
+      name: Rubblebelt Runner
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{R}{G}"
+      count: 1
+    - identifier: rna26
+      card_set: rna
+      number: '26'
+      name: Tenth District Veteran
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{W}"
+      count: 1
+    - identifier: rna78
+      card_set: rna
+      number: '78'
+      name: Noxious Groodion
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{B}"
+      count: 1
+    - identifier: rna63
+      card_set: rna
+      number: '63'
+      name: Blade Juggler
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{4}{B}"
+      count: 1
+    - identifier: rna40
+      card_set: rna
+      number: '40'
+      name: Gateway Sneak
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{2}{U}"
+      count: 1
+    - identifier: rna215
+      card_set: rna
+      number: '215'
+      name: Zhur-Taa Goblin
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{R}{G}"
+      count: 1
+    - identifier: rna87
+      card_set: rna
+      number: '87'
+      name: Thirsting Shade
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{B}"
+      count: 1
+  - type: Instant
+    count: 3
+    cards:
+    - identifier: rna46
+      card_set: rna
+      number: '46'
+      name: Prying Eyes
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{4}{U}{U}"
+      count: 1
+    - identifier: rna143
+      card_set: rna
+      number: '143'
+      name: Stony Strength
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{G}"
+      count: 1
+    - identifier: rna24
+      card_set: rna
+      number: '24'
+      name: Summary Judgment
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{1}{W}"
+      count: 1
+  - type: Artifact
+    count: 1
+    cards:
+    - identifier: rna237
+      card_set: rna
+      number: '237'
+      name: Rakdos Locket
+      rarity: Common
+      card_type: Artifact
+      mana_cost: "{3}"
+      count: 1
+  - type: Sorcery
+    count: 1
+    cards:
+    - identifier: rna104
+      card_set: rna
+      number: '104'
+      name: Goblin Gathering
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{2}{R}"
+      count: 1
+  - type: Enchantment
+    count: 1
+    cards:
+    - identifier: rna95
+      card_set: rna
+      number: '95'
+      name: Cavalcade of Calamity
+      rarity: Uncommon
+      card_type: Enchantment
+      mana_cost: "{1}{R}"
+      count: 1
+  - type: Land
+    count: 1
+    cards:
+    - identifier: rna257
+      card_set: rna
+      number: '257'
+      name: Simic Guildgate
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+  count: 15
+- pack_type: Planeswalker Deck - Booster
+  name: Dovin
+  image:
+    name: ravnica_allegiance_booster_pack_dovin.png
+    alt: Planeswalker Deck - Dovin - Booster Pack - Picture
+    title: Planeswalker Deck - Dovin - Booster Pack
+  tokens:
+    rna: 10
+  cards:
+  - type: Creature
+    count: 4
+    cards:
+    - identifier: rna39
+      card_set: rna
+      number: '39'
+      name: Faerie Duelist
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{1}{U}"
+      count: 1
+    - identifier: rna103
+      card_set: rna
+      number: '103'
+      name: Ghor-Clan Wrecker
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{3}{R}"
+      count: 1
+    - identifier: rna142
+      card_set: rna
+      number: '142'
+      name: Steeple Creeper
+      rarity: Common
+      card_type: Creature
+      mana_cost: "{2}{G}"
+      count: 1
+    - identifier: rna16
+      card_set: rna
+      number: '16'
+      name: Ministrant of Obligation
+      rarity: Uncommon
+      card_type: Creature
+      mana_cost: "{2}{W}"
+      count: 1
+  - type: Instant
+    count: 5
+    cards:
+    - identifier: rna89
+      card_set: rna
+      number: '89'
+      name: Undercity's Embrace
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{2}{B}"
+      count: 1
+    - identifier: rna178
+      card_set: rna
+      number: '178'
+      name: Growth Spiral
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{G}{U}"
+      count: 1
+    - identifier: rna209
+      card_set: rna
+      number: '209'
+      name: Sphinx's Insight
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{2}{W}{U}"
+      count: 1
+    - identifier: rna75
+      card_set: rna
+      number: '75'
+      name: Grotesque Demise
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{2}{B}"
+      count: 1
+    - identifier: rna8
+      card_set: rna
+      number: '8'
+      name: Expose to Daylight
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{2}{W}"
+      count: 1
+  - type: Sorcery
+    count: 2
+    cards:
+    - identifier: rna115
+      card_set: rna
+      number: '115'
+      name: Skewer the Critics
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{2}{R}"
+      count: 1
+    - identifier: rna34
+      card_set: rna
+      number: '34'
+      name: Clear the Mind
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{2}{U}"
+      count: 1
+  - type: Instant // Sorcery
+    count: 1
+    cards:
+    - identifier: rna224
+      card_set: rna
+      number: '224'
+      name: Consecrate // Consume
+      rarity: Uncommon
+      card_type: Instant // Sorcery
+      mana_cost: "{1}{W/B} // {2}{W}{B}"
+      count: 1
+  - type: Artifact Creature
+    count: 1
+    cards:
+    - identifier: rna241
+      card_set: rna
+      number: '241'
+      name: Sphinx of the Guildpact
+      rarity: Uncommon
+      card_type: Artifact Creature
+      mana_cost: "{7}"
+      count: 1
+  - type: Enchantment
+    count: 1
+    cards:
+    - identifier: rna58
+      card_set: rna
+      number: '58'
+      name: Verity Circle
+      rarity: Rare
+      card_type: Enchantment
+      mana_cost: "{2}{U}"
+      count: 1
+  - type: Land
+    count: 1
+    cards:
+    - identifier: rna244
+      card_set: rna
+      number: '244'
+      name: Azorius Guildgate
+      rarity: Common
+      card_type: Land
+      mana_cost: ''
+      count: 1
+  count: 15

@@ -4,10 +4,10 @@ require 'yaml'
 database_name = 'mtg_scryfall_database.db'
 current_path = File.dirname(__FILE__)
 
-set_name = 'guilds_of_ravnica'
-#set_name = 'ravnica_allegiance'
-set_name = 'm19_sample_deck'
-set_name = 'commander_2013'
+# set_name = 'guilds_of_ravnica'
+set_name = 'ravnica_allegiance'
+# set_name = 'm19_sample_deck'
+# set_name = 'commander_2013'
 
 DB = Sequel.sqlite File.join(current_path, '/', database_name)
 
