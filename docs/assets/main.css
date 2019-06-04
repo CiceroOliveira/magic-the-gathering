@@ -508,7 +508,7 @@ table {
 .deck-set-content ul {
   list-style-type: none; }
 
-img.prerelease-pack, img.planeswalker-deck, img.guild-kit, img.sample-decks, img.commander-2013-mind-seize {
+img.prerelease-pack, img.planeswalker-deck, img.guild-kit, img.sample-decks, img.commander-2013-mind-seize, img.challenger-decks {
   width: 300px;
   float: right; }
 
@@ -529,180 +529,225 @@ img.theme-booster {
   margin-bottom: 1em;
   background-size: 90%; }
 
+.arcane_tempo {
+  color: #eee;
+  border-color: #513d3e;
+  background-color: #0e1829; }
+
 .azorius_symbol {
   color: #eee;
-  border-color: #d5e0ed;
-  background-color: #040714; }
+  border-color: #192e57;
+  background-color: #000000; }
 
 .commander_mind_seize {
   color: #eee;
-  border-color: #040911;
-  background-color: #5a5858; }
+  border-color: #605e5c;
+  background-color: #000000; }
+
+.commander_mind_seize {
+  color: #eee;
+  border-color: #503720;
+  background-color: #2b3b52; }
+
+.commander_mind_seize_2 {
+  color: #eee;
+  border-color: #625f5d;
+  background-color: #35363b; }
+
+.deadly_discovery {
+  color: #eee;
+  border-color: #55220d;
+  background-color: #101e16; }
 
 .gruul_symbol {
   color: #eee;
-  border-color: #161c12;
-  background-color: #0e150c; }
+  border-color: #4d443a;
+  background-color: #000000; }
 
 .guild_kit_azorius {
   color: #eee;
-  border-color: #5d7083;
-  background-color: #afb1ac; }
+  border-color: #416595;
+  background-color: #3b3f41; }
 
 .guild_kit_boros {
   color: #eee;
-  border-color: #62594f;
-  background-color: #5e110e; }
+  border-color: #5c1b14;
+  background-color: #481717; }
 
 .guild_kit_dimir {
   color: #eee;
-  border-color: #08101a;
-  background-color: #011f58; }
+  border-color: #403628;
+  background-color: #011031; }
 
 .guild_kit_golgari {
   color: #eee;
-  border-color: #002008;
-  background-color: #024512; }
+  border-color: #020d06;
+  background-color: #041207; }
 
 .guild_kit_gruul {
   color: #eee;
-  border-color: #221006;
-  background-color: #020101; }
+  border-color: #545e21;
+  background-color: #140d05; }
 
 .guild_kit_izzet {
   color: #eee;
-  border-color: #11060c;
-  background-color: #020102; }
+  border-color: #9a0e0d;
+  background-color: #311c20; }
 
 .guild_kit_orzhov {
   color: #eee;
-  border-color: #130b1b;
-  background-color: #020102; }
+  border-color: #625b63;
+  background-color: #332f2e; }
 
 .guild_kit_rakdos {
   color: #eee;
-  border-color: #020101;
-  background-color: #680e0b; }
+  border-color: #61140f;
+  background-color: #180605; }
 
 .guild_kit_selesnya {
   color: #eee;
-  border-color: #0a1a0d;
-  background-color: #605f4d; }
+  border-color: #626050;
+  background-color: #172116; }
 
 .guild_kit_simic {
   color: #eee;
-  border-color: #006065;
-  background-color: #010302; }
+  border-color: #223f2f;
+  background-color: #011310; }
+
+.lightning_aggro {
+  color: #eee;
+  border-color: #b3938e;
+  background-color: #a08f8e; }
 
 .orzhov_symbol {
   color: #eee;
-  border-color: #dce2e8;
-  background-color: #171b16; }
+  border-color: #3c443c;
+  background-color: #000000; }
 
 .planeswalker_deck_domri {
   color: #eee;
-  border-color: #542311;
-  background-color: #706256; }
+  border-color: #562b18;
+  background-color: #051520; }
+
+.planeswalker_deck_dovin {
+  color: #eee;
+  border-color: #394752;
+  background-color: #05141f; }
 
 .prerelease_pack_azorius {
   color: #eee;
-  border-color: #636157;
-  background-color: #1b4570; }
+  border-color: #656258;
+  background-color: #2a2c2d; }
 
 .prerelease_pack_boros {
   color: #eee;
-  border-color: #020202;
-  background-color: #61110f; }
+  border-color: #621714;
+  background-color: #3b1916; }
 
 .prerelease_pack_gruul {
   color: #eee;
-  border-color: #1d0302;
-  background-color: #020201; }
+  border-color: #541d15;
+  background-color: #120c07; }
 
 .prerelease_pack_orzhov {
   color: #eee;
-  border-color: #020202;
-  background-color: #1b1218; }
+  border-color: #49443e;
+  background-color: #26221c; }
 
 .prerelease_pack_rakdos {
   color: #eee;
-  border-color: #150d0d;
-  background-color: #1c0a09; }
+  border-color: #3b3331;
+  background-color: #130706; }
 
 .prerelease_pack_simic {
   color: #eee;
-  border-color: #010302;
-  background-color: #001506; }
+  border-color: #294337;
+  background-color: #041312; }
 
 .rakdos_symbol {
   color: #eee;
-  border-color: #090100;
-  background-color: #170402; }
+  border-color: #4e2521;
+  background-color: #010000; }
 
 .ravnica_allegiance_booster_pack_domri {
   color: #eee;
-  border-color: #02a3e9;
-  background-color: #023d7b; }
+  border-color: #958278;
+  background-color: #066099; }
+
+.ravnica_allegiance_booster_pack_dovin {
+  color: #eee;
+  border-color: #999ea0;
+  background-color: #115489; }
 
 .simic_symbol {
   color: #eee;
-  border-color: #ededee;
-  background-color: #182217; }
+  border-color: #3a4937;
+  background-color: #000000; }
 
 .theme_booster_azorius {
   color: #eee;
-  border-color: #014772;
-  background-color: #0f617d; }
+  border-color: #03345b;
+  background-color: #303434; }
 
 .theme_booster_gruul {
   color: #eee;
-  border-color: #014671;
-  background-color: #0a6687; }
+  border-color: #03345a;
+  background-color: #01150b; }
 
 .theme_booster_orzhov {
   color: #eee;
-  border-color: #030508;
-  background-color: #151b1c; }
+  border-color: #02345b;
+  background-color: #060f16; }
 
 .theme_booster_rakdos {
   color: #eee;
-  border-color: #590909;
-  background-color: #014670; }
+  border-color: #094d71;
+  background-color: #35080b; }
 
 .theme_booster_simic {
   color: #eee;
-  border-color: #012548;
-  background-color: #0f6279; }
+  border-color: #033257;
+  background-color: #000000; }
+
+.theme_booster_simic {
+  color: #eee;
+  border-color: #0d6689;
+  background-color: #0a2940; }
 
 .theme_booster_sleeve_azorius {
   color: #eee;
-  border-color: #a69567;
-  background-color: #181e3f; }
+  border-color: #887b62;
+  background-color: #6b655e; }
 
 .theme_booster_sleeve_gruul {
   color: #eee;
-  border-color: #1e0201;
-  background-color: #070000; }
+  border-color: #3a2807;
+  background-color: #62583a; }
 
 .theme_booster_sleeve_orzhov {
   color: #eee;
-  border-color: #131016;
-  background-color: #594b2b; }
+  border-color: #645946;
+  background-color: #776e58; }
 
 .theme_booster_sleeve_rakdos {
   color: #eee;
-  border-color: #020101;
-  background-color: #190405; }
+  border-color: #cc2013;
+  background-color: #664743; }
 
 .theme_booster_sleeve_simic {
   color: #eee;
-  border-color: #000603;
-  background-color: #065365; }
+  border-color: #095767;
+  background-color: #214445; }
+
+.united_assault {
+  color: #eee;
+  border-color: #c7b29c;
+  background-color: #ab998f; }
 
 .welcome_deck_2019 {
   color: #eee;
-  border-color: #100d0d;
-  background-color: #61160e; }
+  border-color: #3b3640;
+  background-color: #41221b; }
 
 .boros_watermark_background {
   background-image: url("img/../../assets/img/boros_watermark.png");
