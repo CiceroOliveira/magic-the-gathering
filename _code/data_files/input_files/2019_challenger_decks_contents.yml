@@ -1,0 +1,72 @@
+- pack_type: Challenger Decks
+  name: United Assault
+  image:
+    name: united_assault.png
+    alt: United Assault Challenger Deck Box Picture
+    title: Challenger Deck - United Assault
+  cards:
+    dom: 14, 14, 14, 14, 21, 21
+    grn: 14, 14, 14, 14, 15, 6, 6, 6
+    m19: 22, 22, 22, 22, 5, 5, 5, 5
+    rix: 21, 21, 21, 21, 17, 17, 17
+    xln: 1, 1, 1, 1, 22, 22
+    gnt: 8, 8, 8, 8
+    rna: 260, 260, 260, 260, 260, 260, 260, 260, 260, 260, 260, 260, 260, 260, 260, 260, 260, 260, 260, 260, 260
+  sideboard:
+    grn: 6
+    rix: 1, 1, 1
+    dom: 23, 23, 23
+    xln: 42, 42
+    m19: 26, 26, 33, 37, 37, 37
+
+- pack_type: Challenger Decks
+  name: Lightning Aggro
+  image:
+    name: lightning_aggro.png
+    alt: Lightning Aggro Challenger Deck Box Picture
+    title: Challenger Deck - Lightning Aggro
+  cards:
+    rix: 111, 101, 101, 101, 101
+    grn: 99, 99, 115, 115, 115, 115, 108, 108
+    m19: 130, 156, 156, 156, 156, 152, 152, 152, 152, 166, 166, 166, 166, 273, 274, 275, 276, 273, 274, 275, 276, 273, 274, 275, 276, 273, 274, 275, 276, 273, 274, 275, 276, 273, 274
+    dom: 129, 129, 129, 129, 152, 152, 152, 152, 127, 127, 127, 127
+  sideboard:
+    dom: 119, 119, 119, 119
+    m19: 151, 151, 151, 151, 231, 231, 231, 231
+    xln: 143, 143, 143
+
+- pack_type: Challenger Decks
+  name: Deadly Discovery
+  image:
+    name: deadly_discovery.png
+    alt: Deadly Discovery Challenger Deck Box Picture
+    title: Challenger Deck - Deadly Discovery
+  cards:
+    xln: 232, 197, 197, 197, 197, 216, 216, 216, 216, 121, 121, 121, 121
+    gnt: 46, 46, 46, 46
+    rix: 136, 136
+    a25: 104, 104, 104
+    grn: 82, 128, 128, 175, 175, 175, 225, 225, 249, 249, 249, 249, 253
+    dom: 81, 81, 81, 81, 90, 90, 90, 248, 248, 242, 242
+    rna: 264, 264, 264, 264, 264, 264, 264, 264, 262, 262, 262, 262, 262, 262
+  sideboard:
+    xln: 90, 90
+    m19: 94, 94, 94, 94, 196, 196, 110, 110
+    rix: 73, 73, 73
+    grn: 136, 36
+- pack_type: Challenger Decks
+  name: Arcane Tempo
+  image:
+    name: arcane_tempo.png
+    alt: Arcane Tempo Challenger Deck Box Picture
+    title: Challenger Deck - Arcane Tempo
+  cards:
+    grn: 91, 192, 192, 163, 163, 163, 163, 174, 174, 174, 174, 45, 45, 52, 52, 52, 52, 108, 108, 108, 108, 154, 251, 251, 251, 251
+    dom: 247, 247, 247, 57, 60, 60, 60, 60, 46, 254, 255, 256, 257, 254, 255, 256, 257, 262, 263, 264, 265, 262, 263, 264
+    m19: 156, 156, 156, 156
+    xln: 48, 48, 48, 48, 53, 53
+  sideboard:
+    xln: 55, 55, 55, 143, 143, 143
+    dom: 57, 142, 142
+    grn: 37, 37, 154
+    rix: 44, 44, 44

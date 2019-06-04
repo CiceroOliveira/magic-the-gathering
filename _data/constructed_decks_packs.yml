@@ -1,0 +1,953 @@
+---
+- pack_type: Constructed Decks
+  name: Mono-Red Aggro
+  image:
+    name: lightning_aggro.png
+    alt: Lightning Aggro Challenger Deck Box Picture
+    title: Challenger Deck - Lightning Aggro
+  cards:
+  - type: Creature
+    count: 21
+    cards:
+    - identifier: rix101
+      card_set: rix
+      number: '101'
+      name: Fanatical Firebrand
+      rarity: Common
+      card_type: Creature — Goblin Pirate
+      mana_cost: "{R}"
+      count: 4
+    - identifier: rix111
+      card_set: rix
+      number: '111'
+      name: Rekindling Phoenix
+      rarity: Mythic
+      card_type: Creature — Phoenix
+      mana_cost: "{2}{R}{R}"
+      count: 1
+    - identifier: dom127
+      card_set: dom
+      number: '127'
+      name: Ghitu Lavarunner
+      rarity: Common
+      card_type: Creature — Human Wizard
+      mana_cost: "{R}"
+      count: 4
+    - identifier: dom129
+      card_set: dom
+      number: '129'
+      name: Goblin Chainwhirler
+      rarity: Rare
+      card_type: Creature — Goblin Warrior
+      mana_cost: "{R}{R}{R}"
+      count: 4
+    - identifier: grn115
+      card_set: grn
+      number: '115'
+      name: Runaway Steam-Kin
+      rarity: Rare
+      card_type: Creature — Elemental
+      mana_cost: "{1}{R}"
+      count: 4
+    - identifier: m19166
+      card_set: m19
+      number: '166'
+      name: Viashino Pyromancer
+      rarity: Common
+      card_type: Creature — Viashino Wizard
+      mana_cost: "{1}{R}"
+      count: 4
+  - type: Instant
+    count: 12
+    cards:
+    - identifier: dom152
+      card_set: dom
+      number: '152'
+      name: Wizard's Lightning
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{2}{R}"
+      count: 4
+    - identifier: m19156
+      card_set: m19
+      number: '156'
+      name: Shock
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{R}"
+      count: 4
+    - identifier: m19152
+      card_set: m19
+      number: '152'
+      name: Lightning Strike
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{1}{R}"
+      count: 4
+  - type: Enchantment
+    count: 2
+    cards:
+    - identifier: grn99
+      card_set: grn
+      number: '99'
+      name: Experimental Frenzy
+      rarity: Rare
+      card_type: Enchantment
+      mana_cost: "{3}{R}"
+      count: 2
+  - type: Sorcery
+    count: 6
+    cards:
+    - identifier: m19130
+      card_set: m19
+      number: '130'
+      name: Banefire
+      rarity: Rare
+      card_type: Sorcery
+      mana_cost: "{X}{R}"
+      count: 1
+    - identifier: rna115
+      card_set: rna
+      number: '115'
+      name: Skewer the Critics
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{2}{R}"
+      count: 2
+    - identifier: rna107
+      card_set: rna
+      number: '107'
+      name: Light Up the Stage
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{2}{R}"
+      count: 3
+  - type: Basic Land
+    count: 19
+    cards:
+    - identifier: m19273
+      card_set: m19
+      number: '273'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land — Mountain
+      mana_cost: ''
+      count: 5
+    - identifier: m19274
+      card_set: m19
+      number: '274'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land — Mountain
+      mana_cost: ''
+      count: 5
+    - identifier: m19275
+      card_set: m19
+      number: '275'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land — Mountain
+      mana_cost: ''
+      count: 5
+    - identifier: m19276
+      card_set: m19
+      number: '276'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land — Mountain
+      mana_cost: ''
+      count: 4
+  - total_cards: 60
+  sideboard:
+  - type: Sorcery
+    count: 4
+    cards:
+    - identifier: dom119
+      card_set: dom
+      number: '119'
+      name: Fight with Fire
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{2}{R}"
+      count: 4
+  - type: Creature
+    count: 4
+    cards:
+    - identifier: m19151
+      card_set: m19
+      number: '151'
+      name: Lightning Mare
+      rarity: Uncommon
+      card_type: Creature — Elemental Horse
+      mana_cost: "{R}{R}"
+      count: 4
+  - type: Artifact Creature
+    count: 4
+    cards:
+    - identifier: m19231
+      card_set: m19
+      number: '231'
+      name: Diamond Mare
+      rarity: Uncommon
+      card_type: Artifact Creature — Horse
+      mana_cost: "{2}"
+      count: 4
+  - type: Instant
+    count: 3
+    cards:
+    - identifier: xln143
+      card_set: xln
+      number: '143'
+      name: Fiery Cannonade
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{2}{R}"
+      count: 3
+  - total_cards: 15
+- pack_type: Constructed Decks
+  name: White Weenie
+  image:
+    name: united_assault.png
+    alt: United Assault Challenger Deck Box Picture
+    title: Challenger Deck - United Assault
+  cards:
+  - type: Creature
+    count: 29
+    cards:
+    - identifier: grn14
+      card_set: grn
+      number: '14'
+      name: Healer's Hawk
+      rarity: Common
+      card_type: Creature — Bird
+      mana_cost: "{W}"
+      count: 4
+    - identifier: grn15
+      card_set: grn
+      number: '15'
+      name: Hunted Witness
+      rarity: Common
+      card_type: Creature — Human
+      mana_cost: "{W}"
+      count: 1
+    - identifier: m1922
+      card_set: m19
+      number: '22'
+      name: Leonin Vanguard
+      rarity: Uncommon
+      card_type: Creature — Cat Soldier
+      mana_cost: "{W}"
+      count: 4
+    - identifier: rix21
+      card_set: rix
+      number: '21'
+      name: Skymarcher Aspirant
+      rarity: Uncommon
+      card_type: Creature — Vampire Soldier
+      mana_cost: "{W}"
+      count: 4
+    - identifier: xln1
+      card_set: xln
+      number: '1'
+      name: Adanto Vanguard
+      rarity: Uncommon
+      card_type: Creature — Vampire Soldier
+      mana_cost: "{1}{W}"
+      count: 4
+    - identifier: dom6
+      card_set: dom
+      number: '6'
+      name: Benalish Marshal
+      rarity: Rare
+      card_type: Creature — Human Knight
+      mana_cost: "{W}{W}{W}"
+      count: 4
+    - identifier: dom14
+      card_set: dom
+      number: '14'
+      name: Dauntless Bodyguard
+      rarity: Uncommon
+      card_type: Creature — Human Knight
+      mana_cost: "{W}"
+      count: 4
+    - identifier: war4
+      card_set: war
+      number: '4'
+      name: Ajani's Pridemate
+      rarity: Uncommon
+      card_type: Creature — Cat Soldier
+      mana_cost: "{1}{W}"
+      count: 4
+  - type: Enchantment
+    count: 5
+    cards:
+    - identifier: grn6
+      card_set: grn
+      number: '6'
+      name: Conclave Tribunal
+      rarity: Uncommon
+      card_type: Enchantment
+      mana_cost: "{3}{W}"
+      count: 3
+    - identifier: dom21
+      card_set: dom
+      number: '21'
+      name: History of Benalia
+      rarity: Mythic
+      card_type: Enchantment — Saga
+      mana_cost: "{1}{W}{W}"
+      count: 2
+  - type: Instant
+    count: 3
+    cards:
+    - identifier: rix17
+      card_set: rix
+      number: '17'
+      name: Pride of Conquerors
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{1}{W}"
+      count: 3
+  - type: Legendary Enchantment // Legendary Land
+    count: 2
+    cards:
+    - identifier: xln22
+      card_set: xln
+      number: '22'
+      name: Legion's Landing // Adanto, the First Fort
+      rarity: Rare
+      card_type: Legendary Enchantment // Legendary Land
+      mana_cost: 
+      count: 2
+  - type: Basic Land
+    count: 21
+    cards:
+    - identifier: dom250
+      card_set: dom
+      number: '250'
+      name: Plains
+      rarity: Common
+      card_type: Basic Land — Plains
+      mana_cost: ''
+      count: 6
+    - identifier: dom251
+      card_set: dom
+      number: '251'
+      name: Plains
+      rarity: Common
+      card_type: Basic Land — Plains
+      mana_cost: ''
+      count: 5
+    - identifier: dom252
+      card_set: dom
+      number: '252'
+      name: Plains
+      rarity: Common
+      card_type: Basic Land — Plains
+      mana_cost: ''
+      count: 5
+    - identifier: dom253
+      card_set: dom
+      number: '253'
+      name: Plains
+      rarity: Common
+      card_type: Basic Land — Plains
+      mana_cost: ''
+      count: 5
+  - total_cards: 60
+  sideboard:
+  - type: Creature
+    count: 9
+    cards:
+    - identifier: m1933
+      card_set: m19
+      number: '33'
+      name: Remorseful Cleric
+      rarity: Rare
+      card_type: Creature — Spirit Cleric
+      mana_cost: "{1}{W}"
+      count: 1
+    - identifier: m1937
+      card_set: m19
+      number: '37'
+      name: Shield Mare
+      rarity: Uncommon
+      card_type: Creature — Horse
+      mana_cost: "{1}{W}{W}"
+      count: 3
+    - identifier: xln42
+      card_set: xln
+      number: '42'
+      name: Tocatli Honor Guard
+      rarity: Rare
+      card_type: Creature — Human Soldier
+      mana_cost: "{1}{W}"
+      count: 2
+    - identifier: dom23
+      card_set: dom
+      number: '23'
+      name: Knight of Grace
+      rarity: Uncommon
+      card_type: Creature — Human Knight
+      mana_cost: "{1}{W}"
+      count: 3
+  - type: Instant
+    count: 2
+    cards:
+    - identifier: m1926
+      card_set: m19
+      number: '26'
+      name: Make a Stand
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{2}{W}"
+      count: 2
+  - type: Enchantment
+    count: 4
+    cards:
+    - identifier: rix1
+      card_set: rix
+      number: '1'
+      name: Baffling End
+      rarity: Uncommon
+      card_type: Enchantment
+      mana_cost: "{1}{W}"
+      count: 3
+    - identifier: grn6
+      card_set: grn
+      number: '6'
+      name: Conclave Tribunal
+      rarity: Uncommon
+      card_type: Enchantment
+      mana_cost: "{3}{W}"
+      count: 1
+  - total_cards: 15
+- pack_type: Constructed Decks
+  name: Izzet Phoenix
+  image:
+    name: arcane_tempo.png
+    alt: Arcane Tempo Challenger Deck Box Picture
+    title: Challenger Deck - Arcane Tempo
+  cards:
+  - type: Instant
+    count: 12
+    cards:
+    - identifier: grn52
+      card_set: grn
+      number: '52'
+      name: Radical Idea
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{1}{U}"
+      count: 4
+    - identifier: m19156
+      card_set: m19
+      number: '156'
+      name: Shock
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{R}"
+      count: 4
+    - identifier: dom60
+      card_set: dom
+      number: '60'
+      name: Opt
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{U}"
+      count: 4
+  - type: Creature
+    count: 12
+    cards:
+    - identifier: grn91
+      card_set: grn
+      number: '91'
+      name: Arclight Phoenix
+      rarity: Mythic
+      card_type: Creature — Phoenix
+      mana_cost: "{3}{R}"
+      count: 4
+    - identifier: grn163
+      card_set: grn
+      number: '163'
+      name: Crackling Drake
+      rarity: Uncommon
+      card_type: Creature — Drake
+      mana_cost: "{U}{U}{R}{R}"
+      count: 4
+    - identifier: grn174
+      card_set: grn
+      number: '174'
+      name: Goblin Electromancer
+      rarity: Common
+      card_type: Creature — Goblin Wizard
+      mana_cost: "{U}{R}"
+      count: 4
+  - type: Sorcery
+    count: 12
+    cards:
+    - identifier: grn154
+      card_set: grn
+      number: '154'
+      name: Beacon Bolt
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{1}{U}{R}"
+      count: 1
+    - identifier: grn108
+      card_set: grn
+      number: '108'
+      name: Lava Coil
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{1}{R}"
+      count: 4
+    - identifier: m19164
+      card_set: m19
+      number: '164'
+      name: Tormenting Voice
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{1}{R}"
+      count: 2
+    - identifier: xln55
+      card_set: xln
+      number: '55'
+      name: Entrancing Melody
+      rarity: Rare
+      card_type: Sorcery
+      mana_cost: "{X}{U}{U}"
+      count: 1
+    - identifier: xln48
+      card_set: xln
+      number: '48'
+      name: Chart a Course
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{1}{U}"
+      count: 4
+  - type: Legendary Planeswalker
+    count: 1
+    cards:
+    - identifier: grn195
+      card_set: grn
+      number: '195'
+      name: Ral, Izzet Viceroy
+      rarity: Mythic
+      card_type: Legendary Planeswalker — Ral
+      mana_cost: "{3}{U}{R}"
+      count: 1
+  - type: Sorcery // Instant
+    count: 2
+    cards:
+    - identifier: grn223
+      card_set: grn
+      number: '223'
+      name: Discovery // Dispersal
+      rarity: Uncommon
+      card_type: Sorcery // Instant
+      mana_cost: "{1}{U/B} // {3}{U}{B}"
+      count: 2
+  - type: Land
+    count: 6
+    cards:
+    - identifier: grn259
+      card_set: grn
+      number: '259'
+      name: Watery Grave
+      rarity: Rare
+      card_type: Land — Island Swamp
+      mana_cost: ''
+      count: 1
+    - identifier: grn251
+      card_set: grn
+      number: '251'
+      name: Izzet Guildgate
+      rarity: Common
+      card_type: Land — Gate
+      mana_cost: ''
+      count: 1
+    - identifier: dom247
+      card_set: dom
+      number: '247'
+      name: Sulfur Falls
+      rarity: Rare
+      card_type: Land
+      mana_cost: ''
+      count: 4
+  - type: Basic Land
+    count: 15
+    cards:
+    - identifier: gk148
+      card_set: gk1
+      number: '48'
+      name: Island
+      rarity: Common
+      card_type: Basic Land — Island
+      mana_cost: ''
+      count: 4
+    - identifier: gk149
+      card_set: gk1
+      number: '49'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land — Mountain
+      mana_cost: ''
+      count: 6
+    - identifier: gk227
+      card_set: gk2
+      number: '27'
+      name: Island
+      rarity: Common
+      card_type: Basic Land — Island
+      mana_cost: ''
+      count: 5
+  - total_cards: 60
+  sideboard:
+  - type: Enchantment
+    count: 1
+    cards:
+    - identifier: dom57
+      card_set: dom
+      number: '57'
+      name: The Mirari Conjecture
+      rarity: Rare
+      card_type: Enchantment — Saga
+      mana_cost: "{4}{U}"
+      count: 1
+  - type: Legendary Creature
+    count: 2
+    cards:
+    - identifier: grn192
+      card_set: grn
+      number: '192'
+      name: Niv-Mizzet, Parun
+      rarity: Rare
+      card_type: Legendary Creature — Dragon Wizard
+      mana_cost: "{U}{U}{U}{R}{R}{R}"
+      count: 2
+  - type: Sorcery
+    count: 3
+    cards:
+    - identifier: grn154
+      card_set: grn
+      number: '154'
+      name: Beacon Bolt
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{1}{U}{R}"
+      count: 1
+    - identifier: xln55
+      card_set: xln
+      number: '55'
+      name: Entrancing Melody
+      rarity: Rare
+      card_type: Sorcery
+      mana_cost: "{X}{U}{U}"
+      count: 2
+  - type: Creature
+    count: 1
+    cards:
+    - identifier: grn45
+      card_set: grn
+      number: '45'
+      name: Murmuring Mystic
+      rarity: Uncommon
+      card_type: Creature — Human Wizard
+      mana_cost: "{3}{U}"
+      count: 1
+  - type: Instant
+    count: 8
+    cards:
+    - identifier: grn37
+      card_set: grn
+      number: '37'
+      name: Disdainful Stroke
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{1}{U}"
+      count: 2
+    - identifier: rix44
+      card_set: rix
+      number: '44'
+      name: Negate
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{1}{U}"
+      count: 4
+    - identifier: mm351
+      card_set: mm3
+      number: '51'
+      name: Spell Pierce
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{U}"
+      count: 2
+  - total_cards: 15
+- pack_type: Constructed Decks
+  name: Izzet Drakes
+  image:
+    name: arcane_tempo.png
+    alt: Arcane Tempo Challenger Deck Box Picture
+    title: Challenger Deck - Arcane Tempo
+  cards:
+  - type: Legendary Creature
+    count: 2
+    cards:
+    - identifier: grn192
+      card_set: grn
+      number: '192'
+      name: Niv-Mizzet, Parun
+      rarity: Rare
+      card_type: Legendary Creature — Dragon Wizard
+      mana_cost: "{U}{U}{U}{R}{R}{R}"
+      count: 2
+  - type: Creature
+    count: 11
+    cards:
+    - identifier: grn163
+      card_set: grn
+      number: '163'
+      name: Crackling Drake
+      rarity: Uncommon
+      card_type: Creature — Drake
+      mana_cost: "{U}{U}{R}{R}"
+      count: 4
+    - identifier: rna47
+      card_set: rna
+      number: '47'
+      name: Pteramander
+      rarity: Uncommon
+      card_type: Creature — Salamander Drake
+      mana_cost: "{U}"
+      count: 3
+    - identifier: m19216
+      card_set: m19
+      number: '216'
+      name: Enigma Drake
+      rarity: Uncommon
+      card_type: Creature — Drake
+      mana_cost: "{1}{U}{R}"
+      count: 4
+  - type: Sorcery
+    count: 9
+    cards:
+    - identifier: grn154
+      card_set: grn
+      number: '154'
+      name: Beacon Bolt
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{1}{U}{R}"
+      count: 1
+    - identifier: grn108
+      card_set: grn
+      number: '108'
+      name: Lava Coil
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{1}{R}"
+      count: 3
+    - identifier: grn111
+      card_set: grn
+      number: '111'
+      name: Maximize Velocity
+      rarity: Common
+      card_type: Sorcery
+      mana_cost: "{R}"
+      count: 1
+    - identifier: xln48
+      card_set: xln
+      number: '48'
+      name: Chart a Course
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{1}{U}"
+      count: 4
+  - type: Sorcery // Instant
+    count: 4
+    cards:
+    - identifier: grn223
+      card_set: grn
+      number: '223'
+      name: Discovery // Dispersal
+      rarity: Uncommon
+      card_type: Sorcery // Instant
+      mana_cost: "{1}{U/B} // {3}{U}{B}"
+      count: 4
+  - type: Land
+    count: 7
+    cards:
+    - identifier: grn251
+      card_set: grn
+      number: '251'
+      name: Izzet Guildgate
+      rarity: Common
+      card_type: Land — Gate
+      mana_cost: ''
+      count: 2
+    - identifier: rna245
+      card_set: rna
+      number: '245'
+      name: Blood Crypt
+      rarity: Rare
+      card_type: Land — Swamp Mountain
+      mana_cost: ''
+      count: 1
+    - identifier: dom247
+      card_set: dom
+      number: '247'
+      name: Sulfur Falls
+      rarity: Rare
+      card_type: Land
+      mana_cost: ''
+      count: 4
+  - type: Instant
+    count: 13
+    cards:
+    - identifier: m19156
+      card_set: m19
+      number: '156'
+      name: Shock
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{R}"
+      count: 4
+    - identifier: xln53
+      card_set: xln
+      number: '53'
+      name: Dive Down
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{U}"
+      count: 2
+    - identifier: mm351
+      card_set: mm3
+      number: '51'
+      name: Spell Pierce
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{U}"
+      count: 3
+    - identifier: dom60
+      card_set: dom
+      number: '60'
+      name: Opt
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{U}"
+      count: 4
+  - type: Basic Land
+    count: 14
+    cards:
+    - identifier: gk149
+      card_set: gk1
+      number: '49'
+      name: Mountain
+      rarity: Common
+      card_type: Basic Land — Mountain
+      mana_cost: ''
+      count: 5
+    - identifier: gk148
+      card_set: gk1
+      number: '48'
+      name: Island
+      rarity: Common
+      card_type: Basic Land — Island
+      mana_cost: ''
+      count: 5
+    - identifier: gk227
+      card_set: gk2
+      number: '27'
+      name: Island
+      rarity: Common
+      card_type: Basic Land — Island
+      mana_cost: ''
+      count: 4
+  - total_cards: 60
+  sideboard:
+  - type: Sorcery
+    count: 3
+    cards:
+    - identifier: grn154
+      card_set: grn
+      number: '154'
+      name: Beacon Bolt
+      rarity: Uncommon
+      card_type: Sorcery
+      mana_cost: "{1}{U}{R}"
+      count: 1
+    - identifier: xln55
+      card_set: xln
+      number: '55'
+      name: Entrancing Melody
+      rarity: Rare
+      card_type: Sorcery
+      mana_cost: "{X}{U}{U}"
+      count: 2
+  - type: Legendary Creature
+    count: 1
+    cards:
+    - identifier: grn192
+      card_set: grn
+      number: '192'
+      name: Niv-Mizzet, Parun
+      rarity: Rare
+      card_type: Legendary Creature — Dragon Wizard
+      mana_cost: "{U}{U}{U}{R}{R}{R}"
+      count: 1
+  - type: Instant
+    count: 10
+    cards:
+    - identifier: grn37
+      card_set: grn
+      number: '37'
+      name: Disdainful Stroke
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{1}{U}"
+      count: 2
+    - identifier: dom142
+      card_set: dom
+      number: '142'
+      name: Shivan Fire
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{R}"
+      count: 2
+    - identifier: xln143
+      card_set: xln
+      number: '143'
+      name: Fiery Cannonade
+      rarity: Uncommon
+      card_type: Instant
+      mana_cost: "{2}{R}"
+      count: 2
+    - identifier: xln53
+      card_set: xln
+      number: '53'
+      name: Dive Down
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{U}"
+      count: 1
+    - identifier: rix44
+      card_set: rix
+      number: '44'
+      name: Negate
+      rarity: Common
+      card_type: Instant
+      mana_cost: "{1}{U}"
+      count: 3
+  - type: Enchantment
+    count: 1
+    cards:
+    - identifier: dom57
+      card_set: dom
+      number: '57'
+      name: The Mirari Conjecture
+      rarity: Rare
+      card_type: Enchantment — Saga
+      mana_cost: "{4}{U}"
+      count: 1
+  - total_cards: 15

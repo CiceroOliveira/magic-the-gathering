@@ -18,21 +18,44 @@ layout: default
       {% assign style = pack.image.name | split: "." %}
       <div class="{{ style[0] }} set-pack-wrapper {{pack.name | downcase}}_watermark_background">
         <h2>
-          {{ pack.name }} - {{ pack.pack_type }} ({{pack.count}})
+          {{ pack.name }} - {{ pack.pack_type }}
         </h2>
 
         {% if pack.image %}
           <img src="{{ site.baseurl }}/assets/img/{{ pack.image.name }}" alt="{{ pack.image.alt }}" title="{{ pack.image.title }}" class="{{ pack.pack_type | slugify}} {{ pack.image.title | slugify}}">
         {% endif %}
 
+        <h3>Decklist</h3>
+
+
         {% for card_group in pack.cards %}
-        <h3>{{ card_group.type }} ({{ card_group.count }})</h3>
-        <ul>
-          {% for card in card_group.cards %}
-          <li>{{card.count}} {{card.name}} - {{card.rarity}} ({{ card.card_set }}-{{card.number}}) {{card.mana_cost | mana_symbol}}</li>
-          {% endfor %}
-        </ul>
+          {%- if card_group.total_cards -%}
+            <h5>Total cards: {{card_group.total_cards}} </h5>
+          {% else %}
+            <h4>{{ card_group.type }} ({{ card_group.count }})</h4>
+            <ul>
+              {% for card in card_group.cards %}
+                <li>{{card.count}} {{card.name}} - {{card.rarity}} ({{ card.card_set }}-{{card.number}}) {{card.mana_cost | mana_symbol}}</li>
+              {% endfor %}
+            </ul>
+          {% endif %}
         {% endfor %}
+
+        {%- if pack.sideboard -%}
+          <h3>Sideboard</h3>
+          {% for card_group in pack.sideboard %}
+            {%- if card_group.total_cards -%}
+              <h5>Total cards: {{card_group.total_cards}} </h5>
+            {% else %}
+              <h4>{{ card_group.type }} ({{ card_group.count }})</h4>
+              <ul>
+                {% for card in card_group.cards %}
+                  <li>{{card.count}} {{card.name}} - {{card.rarity}} ({{ card.card_set }}-{{card.number}}) {{card.mana_cost | mana_symbol}}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
 
       </div>
     {% endfor %}

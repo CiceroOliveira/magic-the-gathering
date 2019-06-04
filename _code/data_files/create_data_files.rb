@@ -4,14 +4,15 @@ require 'yaml'
 database_name = 'mtg_scryfall_database.db'
 current_path = File.dirname(__FILE__)
 
-# set_name = 'guilds_of_ravnica'
-set_name = 'ravnica_allegiance'
-# set_name = 'm19_sample_deck'
-# set_name = 'commander_2013'
+# set_name = 'guilds_of_ravnica_theme_sets'
+# set_name = 'ravnica_allegiance_theme_sets'
+# set_name = 'm19_sample_deck_theme_sets'
+# set_name = 'commander_2013_theme_sets'
+set_name = '2019_challenger_decks'
 
 DB = Sequel.sqlite File.join(current_path, '/', database_name)
 
-input_file = File.join(current_path, '/input_files/', "#{set_name}_theme_sets_contents.yml")
+input_file = File.join(current_path, '/input_files/', "#{set_name}_contents.yml")
 output_file = File.join(current_path, '/../../_data/', "#{set_name}_packs.yml")
 
 begin

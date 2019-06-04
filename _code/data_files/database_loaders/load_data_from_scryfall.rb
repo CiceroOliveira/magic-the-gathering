@@ -257,7 +257,7 @@ begin
 #   load_set_list
 #   load_version
 
-  sets_to_load_into_database = %w[c13 m19 grn gk1 rna gk2]
+  sets_to_load_into_database = %w[c13 m19 grn gk1 rna gk2 rix dom xln gnt a25 war mm3]
 
   sets_to_load_into_database.each do |set|
     set_url = 'https://api.scryfall.com/sets/' + set
